@@ -239,6 +239,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81-01"
   },
   {
+    "course_name": "Religion and the Civil Rights Movement",
+    "department": "AAAS",
+    "number": "82",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-82-01"
+  },
+  {
     "course_name": "Dave the Potter: Slavery Between Pots and Poems",
     "department": "AAAS",
     "number": "82",
@@ -365,13 +372,6 @@
     "department": "AAAS",
     "number": "99",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-99"
-  },
-  {
-    "course_name": "Religion and the Civil Rights Movement",
-    "department": "AAAS 82.01",
-    "number": "82",
-    "subnumber": "01",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-82-01"
   },
   {
     "course_name": "Introduction to Arab Culture",
