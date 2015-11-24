@@ -7,6 +7,7 @@
     },
     "enrollment": "30",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -17,6 +18,7 @@
     },
     "enrollment": "10",
     "median": "A-/B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -27,6 +29,7 @@
     },
     "enrollment": "54",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -36,6 +39,7 @@
     },
     "enrollment": "50",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -45,6 +49,7 @@
     },
     "enrollment": "27",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -54,6 +59,7 @@
     },
     "enrollment": "20",
     "median": "A-",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -63,6 +69,7 @@
     },
     "enrollment": "15",
     "median": "A",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -72,6 +79,7 @@
     },
     "enrollment": "15",
     "median": "A",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -81,6 +89,7 @@
     },
     "enrollment": "54",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -90,6 +99,7 @@
     },
     "enrollment": "35",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -99,6 +109,7 @@
     },
     "enrollment": "22",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -108,6 +119,7 @@
     },
     "enrollment": "114",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -117,6 +129,7 @@
     },
     "enrollment": "87",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -126,6 +139,7 @@
     },
     "enrollment": "67",
     "median": "B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -135,6 +149,7 @@
     },
     "enrollment": "55",
     "median": "B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -144,6 +159,7 @@
     },
     "enrollment": "14",
     "median": "B+/B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -153,6 +169,7 @@
     },
     "enrollment": "13",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -162,6 +179,7 @@
     },
     "enrollment": "42",
     "median": "B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -171,6 +189,7 @@
     },
     "enrollment": "14",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -181,6 +200,7 @@
     },
     "enrollment": "12",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -190,6 +210,7 @@
     },
     "enrollment": "73",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -200,6 +221,7 @@
     },
     "enrollment": "19",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -210,6 +232,7 @@
     },
     "enrollment": "12",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -219,6 +242,7 @@
     },
     "enrollment": "18",
     "median": "A-/B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -228,6 +252,7 @@
     },
     "enrollment": "38",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -237,6 +262,7 @@
     },
     "enrollment": "47",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -246,6 +272,7 @@
     },
     "enrollment": "37",
     "median": "A-",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -256,6 +283,7 @@
     },
     "enrollment": "32",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -265,6 +293,7 @@
     },
     "enrollment": "80",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -274,6 +303,7 @@
     },
     "enrollment": "29",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -283,6 +313,7 @@
     },
     "enrollment": "66",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -292,6 +323,7 @@
     },
     "enrollment": "66",
     "median": "B+",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -301,6 +333,7 @@
     },
     "enrollment": "18",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -310,6 +343,7 @@
     },
     "enrollment": "18",
     "median": "B+",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -319,6 +353,7 @@
     },
     "enrollment": "22",
     "median": "B /B-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -328,6 +363,7 @@
     },
     "enrollment": "22",
     "median": "B /B-",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -337,6 +373,7 @@
     },
     "enrollment": "63",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -346,6 +383,7 @@
     },
     "enrollment": "63",
     "median": "B+",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -355,6 +393,7 @@
     },
     "enrollment": "20",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -364,6 +403,7 @@
     },
     "enrollment": "35",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -373,6 +413,7 @@
     },
     "enrollment": "29",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -382,6 +423,7 @@
     },
     "enrollment": "23",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -391,6 +433,7 @@
     },
     "enrollment": "21",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -400,6 +443,7 @@
     },
     "enrollment": "12",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -409,6 +453,7 @@
     },
     "enrollment": "40",
     "median": "A-/B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -418,6 +463,7 @@
     },
     "enrollment": "18",
     "median": "B+",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -427,6 +473,7 @@
     },
     "enrollment": "81",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -436,6 +483,7 @@
     },
     "enrollment": "26",
     "median": "B+/B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -445,6 +493,7 @@
     },
     "enrollment": "37",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -454,6 +503,7 @@
     },
     "enrollment": "47",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -463,6 +513,7 @@
     },
     "enrollment": "37",
     "median": "A-",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -472,6 +523,7 @@
     },
     "enrollment": "26",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -481,6 +533,7 @@
     },
     "enrollment": "39",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -490,6 +543,7 @@
     },
     "enrollment": "26",
     "median": "A-/B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -499,6 +553,7 @@
     },
     "enrollment": "33",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -508,6 +563,7 @@
     },
     "enrollment": "13",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -518,6 +574,7 @@
     },
     "enrollment": "12",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -528,6 +585,7 @@
     },
     "enrollment": "13",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -537,6 +595,7 @@
     },
     "enrollment": "33",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -546,6 +605,7 @@
     },
     "enrollment": "19",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -555,6 +615,7 @@
     },
     "enrollment": "12",
     "median": "A-",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -564,6 +625,7 @@
     },
     "enrollment": "17",
     "median": "A",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -573,6 +635,7 @@
     },
     "enrollment": "17",
     "median": "A-",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -583,6 +646,7 @@
     },
     "enrollment": "36",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -592,6 +656,7 @@
     },
     "enrollment": "24",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -602,6 +667,7 @@
     },
     "enrollment": "35",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -612,6 +678,7 @@
     },
     "enrollment": "10",
     "median": "A-/B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -622,6 +689,7 @@
     },
     "enrollment": "32",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -631,6 +699,7 @@
     },
     "enrollment": "30",
     "median": "A /A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -641,6 +710,7 @@
     },
     "enrollment": "13",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -651,6 +721,7 @@
     },
     "enrollment": "30",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -661,6 +732,7 @@
     },
     "enrollment": "36",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -670,6 +742,7 @@
     },
     "enrollment": "13",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -679,6 +752,7 @@
     },
     "enrollment": "24",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -688,6 +762,7 @@
     },
     "enrollment": "28",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -698,6 +773,7 @@
     },
     "enrollment": "87",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -708,6 +784,7 @@
     },
     "enrollment": "10",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -718,6 +795,7 @@
     },
     "enrollment": "11",
     "median": "A",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -727,6 +805,7 @@
     },
     "enrollment": "33",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -736,6 +815,7 @@
     },
     "enrollment": "17",
     "median": "A",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -745,6 +825,7 @@
     },
     "enrollment": "17",
     "median": "A",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -754,6 +835,7 @@
     },
     "enrollment": "17",
     "median": "A",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -763,6 +845,7 @@
     },
     "enrollment": "87",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -773,6 +856,7 @@
     },
     "enrollment": "36",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -783,6 +867,7 @@
     },
     "enrollment": "12",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -793,6 +878,7 @@
     },
     "enrollment": "32",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -802,6 +888,7 @@
     },
     "enrollment": "25",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -811,6 +898,7 @@
     },
     "enrollment": "20",
     "median": "B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -820,6 +908,7 @@
     },
     "enrollment": "50",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -829,6 +918,7 @@
     },
     "enrollment": "18",
     "median": "B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -838,6 +928,7 @@
     },
     "enrollment": "33",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -847,6 +938,7 @@
     },
     "enrollment": "20",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -857,6 +949,7 @@
     },
     "enrollment": "36",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -867,6 +960,7 @@
     },
     "enrollment": "17",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -876,6 +970,7 @@
     },
     "enrollment": "38",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -885,6 +980,7 @@
     },
     "enrollment": "15",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -894,6 +990,7 @@
     },
     "enrollment": "24",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -903,6 +1000,7 @@
     },
     "enrollment": "22",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -912,6 +1010,7 @@
     },
     "enrollment": "60",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -921,6 +1020,7 @@
     },
     "enrollment": "26",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -930,6 +1030,7 @@
     },
     "enrollment": "14",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -939,6 +1040,7 @@
     },
     "enrollment": "12",
     "median": "A",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -948,6 +1050,7 @@
     },
     "enrollment": "33",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -957,6 +1060,7 @@
     },
     "enrollment": "27",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -966,6 +1070,7 @@
     },
     "enrollment": "25",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -975,6 +1080,7 @@
     },
     "enrollment": "13",
     "median": "B",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -984,6 +1090,7 @@
     },
     "enrollment": "15",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -993,6 +1100,7 @@
     },
     "enrollment": "12",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1002,6 +1110,7 @@
     },
     "enrollment": "18",
     "median": "A-",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -1011,6 +1120,7 @@
     },
     "enrollment": "18",
     "median": "A",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -1020,6 +1130,7 @@
     },
     "enrollment": "18",
     "median": "A /A-",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -1030,6 +1141,7 @@
     },
     "enrollment": "16",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1040,6 +1152,7 @@
     },
     "enrollment": "12",
     "median": "A-",
+    "section": "02",
     "term": "15X"
   },
   {
@@ -1049,6 +1162,7 @@
     },
     "enrollment": "10",
     "median": "A /A-",
+    "section": "90",
     "term": "15X"
   },
   {
@@ -1058,6 +1172,7 @@
     },
     "enrollment": "13",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1067,6 +1182,7 @@
     },
     "enrollment": "19",
     "median": "A",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1077,6 +1193,7 @@
     },
     "enrollment": "13",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1087,6 +1204,7 @@
     },
     "enrollment": "30",
     "median": "B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1097,6 +1215,7 @@
     },
     "enrollment": "10",
     "median": "A-/B+",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1107,6 +1226,7 @@
     },
     "enrollment": "26",
     "median": "A-",
+    "section": "01",
     "term": "15X"
   },
   {
@@ -1117,6 +1237,7 @@
     },
     "enrollment": "18",
     "median": "A",
+    "section": "01",
     "term": "15X"
   }
 ]
