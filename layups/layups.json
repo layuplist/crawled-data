@@ -1,0 +1,2899 @@
+[{
+  "period": "11",
+  "department": "AMES",
+  "number": "11",
+  "course_name": "Intro to Korean Culture",
+  "instructor": "Kim, Suh",
+  "median": "A",
+  "comments": "new prof, might be risky",
+  "source": "11F"
+}, {
+  "period": "M 6-9 pm",
+  "department": "COCO",
+  "number": "4",
+  "course_name": "Dramatic Storytelling",
+  "instructor": "Phillips",
+  "median": "A-",
+  "comments": "was two profs last year, but this year just one and he's the easier grader",
+  "source": "11F"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "6",
+  "course_name": "Environmental Change",
+  "instructor": "Hawley",
+  "median": "A",
+  "comments": "unlimited extra credit",
+  "source": "11F"
+}, {
+  "period": "12",
+  "department": "FRIT",
+  "number": "33",
+  "course_name": "Dante",
+  "instructor": "Kay",
+  "median": "A-",
+  "comments": "prof plays pong",
+  "source": "11F"
+}, {
+  "period": "12",
+  "department": "GOVT",
+  "number": "31",
+  "course_name": "Campaigns and Elections",
+  "instructor": "Lacy",
+  "median": "A-",
+  "comments": "",
+  "source": "11F"
+}, {
+  "period": "12",
+  "department": "JWST",
+  "number": "6",
+  "course_name": "Intro to Judaism",
+  "instructor": "Benor",
+  "median": "B+",
+  "comments": "B+ median, but no work and you don't have to go to class",
+  "source": "11F"
+}, {
+  "period": "2A",
+  "department": "JWST",
+  "number": "22",
+  "course_name": "Jews and Hollywood",
+  "instructor": "Bronski",
+  "median": "A-",
+  "comments": "",
+  "source": "11F"
+}, {
+  "period": "9L",
+  "department": "M&SS",
+  "number": "15",
+  "course_name": "Intro to Data Analysis",
+  "instructor": "Levine",
+  "median": "A",
+  "comments": "do the work and get an A",
+  "source": "11F"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "2",
+  "course_name": "The Music of Today",
+  "instructor": "Kui Dong",
+  "median": "A-",
+  "comments": "don't need to go to class, just easy listening quizzes",
+  "source": "11F"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "9",
+  "course_name": "Music and Technology",
+  "instructor": "Casal",
+  "median": "A",
+  "comments": "make mashups",
+  "source": "11F"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "african drumming, prof is the man",
+  "source": "11F"
+}, {
+  "period": "10",
+  "department": "NAS",
+  "number": "8",
+  "course_name": "Perspective in Native America Stys",
+  "instructor": "Palmer",
+  "median": "B+",
+  "comments": "easy prof",
+  "source": "11F"
+}, {
+  "period": "9L",
+  "department": "PSYC",
+  "number": "24",
+  "course_name": "Abnormal Psychology",
+  "instructor": "Scheiner",
+  "median": "B+",
+  "comments": "B+ median, but easy prof and little work",
+  "source": "11F"
+}, {
+  "period": "11",
+  "department": "REL",
+  "number": "47",
+  "course_name": "Buddhism in China",
+  "instructor": "Raz",
+  "median": "B+/A-",
+  "comments": "",
+  "source": "11F"
+}, {
+  "period": "10",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "Somoff",
+  "median": "A-",
+  "comments": "extremely easy A-, but watch out for the midterm",
+  "source": "11F"
+}, {
+  "period": "10",
+  "department": "SOCY",
+  "number": "10",
+  "course_name": "Socy Stats",
+  "instructor": "Hollister",
+  "median": "B",
+  "comments": "not a layup, but by far the easiest \"10\", if you need a stats course best one you can get",
+  "source": "11F"
+}, {
+  "period": "10A or 2A",
+  "department": "THEA",
+  "number": "30",
+  "course_name": "Acting I",
+  "instructor": "Rice",
+  "median": "A",
+  "comments": "have to do the work, but median A",
+  "source": "11F"
+}, {
+  "period": "10",
+  "department": "THEA",
+  "number": "40",
+  "course_name": "Technical Production",
+  "instructor": "Silver",
+  "median": "A",
+  "comments": "log 70 hours and you get an A",
+  "source": "11F"
+}, {
+  "period": "12",
+  "department": "AMES",
+  "number": "12",
+  "course_name": "Intro to Chinese Culture",
+  "instructor": "Susan Blader",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "10A",
+  "department": "AMES",
+  "number": "30",
+  "course_name": "Global Sounds",
+  "instructor": "Theodore Levin",
+  "median": "A/A-",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "12",
+  "department": "ENGL",
+  "number": "42",
+  "course_name": "American Fiction to 1900",
+  "instructor": "Donald Pease",
+  "median": "A-",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "10",
+  "department": "ENGL",
+  "number": "60",
+  "course_name": "Native American Oral Trdtn",
+  "instructor": "Vera Palmer",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "2",
+  "department": "NAS",
+  "number": "22",
+  "course_name": "Native American Lives",
+  "instructor": "Vera Palmer",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "12",
+  "department": "ENGS",
+  "number": "1",
+  "course_name": "Everyday Technology",
+  "instructor": "Ronald Lasky",
+  "median": "A-",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "10A",
+  "department": "ENGS",
+  "number": "12",
+  "course_name": "Design Thinking",
+  "instructor": "Petter Robbie",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "African Drumming",
+  "instructor": "Hafiz Shabazz",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "11",
+  "department": "REL",
+  "number": "48",
+  "course_name": "Body/ Sex in Chinese Rels",
+  "instructor": "Gil Raz",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "10",
+  "department": "REL",
+  "number": "23",
+  "course_name": "Jewish Mysticism",
+  "instructor": "Ehud Benor",
+  "median": "A-",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "10A",
+  "department": "THEA",
+  "number": "30",
+  "course_name": "Acting 1",
+  "instructor": "Christian Kohn",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "10",
+  "department": "SOCY",
+  "number": "2",
+  "course_name": "Social Problems",
+  "instructor": "Denise Anthony",
+  "median": "A",
+  "comments": "",
+  "source": "11W"
+}, {
+  "period": "2A",
+  "department": "AMES",
+  "number": "11",
+  "course_name": "Intro to Korean Culture",
+  "instructor": "Kim, Suh",
+  "median": "A-",
+  "comments": "",
+  "source": "12F"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "6",
+  "course_name": "Environmental Change",
+  "instructor": "Hawley",
+  "median": "A",
+  "comments": "extremely easy SCI, definitely take if you can get in",
+  "source": "12F"
+}, {
+  "period": "12",
+  "department": "GOVT",
+  "number": "31",
+  "course_name": "Campaigns and Elections",
+  "instructor": "Bafumi",
+  "median": "A-",
+  "comments": "fairly easy gov class",
+  "source": "12F"
+}, {
+  "period": "12",
+  "department": "JWST",
+  "number": "6",
+  "course_name": "Intro to Judaism",
+  "instructor": "Benor",
+  "median": "B+",
+  "comments": "B+ median, but no work and you don't have to go to class",
+  "source": "12F"
+}, {
+  "period": "10",
+  "department": "LATS",
+  "number": "41",
+  "course_name": "Latinos in Media and Arts",
+  "instructor": "Moody",
+  "median": "B+",
+  "comments": "fairly easy ART distrib if you cant get into MUS 51, supposedly a fun class",
+  "source": "12F"
+}, {
+  "period": "AR",
+  "department": "MUS",
+  "number": "50",
+  "course_name": "Performance Labs: Gamelan",
+  "instructor": "Diamond",
+  "median": "N/A",
+  "comments": "meet once a week for an hour (if that) for 3 terms and get a credit and an A'pretty awesome",
+  "source": "12F"
+}, {
+  "period": "2",
+  "department": "NAS",
+  "number": "42",
+  "course_name": "Gender Issues in Native American Life",
+  "instructor": "Palmer",
+  "median": "N/A",
+  "comments": "new class, but vera is easy",
+  "source": "12F"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "african drumming, prof(hafiz) is a boss",
+  "source": "12F"
+}, {
+  "period": "10",
+  "department": "NAS",
+  "number": "8",
+  "course_name": "Perspective in Native America Stys",
+  "instructor": "Palmer",
+  "median": "B+",
+  "comments": "easy prof",
+  "source": "12F"
+}, {
+  "period": "10",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "Gronas",
+  "median": "A-",
+  "comments": "extremely easy A-, but watch out for the midterm",
+  "source": "12F"
+}, {
+  "period": "10",
+  "department": "SOCY",
+  "number": "10",
+  "course_name": "Socy Stats",
+  "instructor": "Hollister",
+  "median": "B",
+  "comments": "not a layup, but by far the easiest \"10\", if you need a stats course best one you can get",
+  "source": "12F"
+}, {
+  "period": "10A or 2A",
+  "department": "THEA",
+  "number": "30",
+  "course_name": "Acting I",
+  "instructor": "Rice",
+  "median": "A",
+  "comments": "have to do the work, but rewarding class and median A",
+  "source": "12F"
+}, {
+  "period": "11",
+  "department": "THEA",
+  "number": "40",
+  "course_name": "Technical Production",
+  "instructor": "Silver",
+  "median": "A",
+  "comments": "log 70 hours making sets and things and you get an A",
+  "source": "12F"
+}, {
+  "period": "12",
+  "department": "ANTH",
+  "number": "37",
+  "course_name": "Legacies Conquest: Latin America",
+  "instructor": "Watanabe",
+  "median": "B+",
+  "comments": "no work other than final paper",
+  "source": "12F"
+}, {
+  "period": "AR",
+  "department": "THEA",
+  "number": "29",
+  "course_name": "Dance Studies in Performance",
+  "instructor": "Evans",
+  "median": "A",
+  "comments": "you dance for credit",
+  "source": "12F"
+}, {
+  "period": "10A",
+  "department": "MUS",
+  "number": "5",
+  "course_name": "History of Jazz",
+  "instructor": "Haas",
+  "median": "A",
+  "comments": "pretty easy, only thing that sucks is that it's a 10A",
+  "source": "12F"
+}, {
+  "period": "2A",
+  "department": "NAS",
+  "number": "31",
+  "course_name": "Indians in American Lit",
+  "instructor": "Benson Taylor",
+  "median": "A-",
+  "comments": "prof is supposedly awesome and easy",
+  "source": "12F"
+}, {
+  "period": "10A",
+  "department": "NAS",
+  "number": "32",
+  "course_name": "Indian Killers",
+  "instructor": "Benson Taylor",
+  "median": "A-",
+  "comments": "\"",
+  "source": "12F"
+}, {
+  "period": "12",
+  "department": "AMES",
+  "number": "12",
+  "course_name": "Intro to Chinese Culture",
+  "instructor": "Blader",
+  "median": "A-",
+  "comments": "Relatively easy but extremely boring'.proceed with caution",
+  "source": "12S"
+}, {
+  "period": "12",
+  "department": "AMES",
+  "number": "18",
+  "course_name": "History and Culture of Indonesia",
+  "instructor": "Diamond",
+  "median": "A",
+  "comments": "Complete joke'.gamelan'.indonesian drumming",
+  "source": "12S"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "3",
+  "course_name": "Intro to Oceanography",
+  "instructor": "Feng",
+  "median": "A-",
+  "comments": "Used to be taught by Osterberg'Feng is supposed to be a good professor and relatively easy, but exercise some caution",
+  "source": "12S"
+}, {
+  "period": "12",
+  "department": "ENGL",
+  "number": "47",
+  "course_name": "American Drama",
+  "instructor": "Pease",
+  "median": "A",
+  "comments": "Top layup of the spring'.a must take",
+  "source": "12S"
+}, {
+  "period": "2A",
+  "department": "ENGS",
+  "number": "5",
+  "course_name": "Healthcare/Biotech 21st Century",
+  "instructor": "Rosen",
+  "median": "A-",
+  "comments": "Interesting topic'easy TAS",
+  "source": "12S"
+}, {
+  "period": "2A",
+  "department": "ENGS",
+  "number": "6",
+  "course_name": "Technology and Biosecurity",
+  "instructor": "Hoyt",
+  "median": "A-",
+  "comments": "Interesting topic'easy TAS",
+  "source": "12S"
+}, {
+  "period": "2A",
+  "department": "FILM",
+  "number": "41",
+  "course_name": "Bond and Beyond",
+  "instructor": "Lawrence",
+  "median": "A-",
+  "comments": "About James Bond movies'kinda cool",
+  "source": "12S"
+}, {
+  "period": "12",
+  "department": "GERM",
+  "number": "13",
+  "course_name": "Beyond Good and Evil",
+  "instructor": "Shookman",
+  "median": "A-",
+  "comments": "Easy CI",
+  "source": "12S"
+}, {
+  "period": "2",
+  "department": "GOVT",
+  "number": "31",
+  "course_name": "Campaigns and Elections",
+  "instructor": "Bafumi",
+  "median": "A-",
+  "comments": "Relatively easy gov class",
+  "source": "12S"
+}, {
+  "period": "10",
+  "department": "LACS",
+  "number": "30",
+  "course_name": "Gringos in Mexico",
+  "instructor": "Garcia",
+  "median": "N/A",
+  "comments": "Prof has rep for being easy plus its called \"Gringos in Mexico\"'cant be a serious class with that title",
+  "source": "12S"
+}, {
+  "period": "9L",
+  "department": "M&SS",
+  "number": "15",
+  "course_name": "Intro to Data Analysis",
+  "instructor": "Levine",
+  "median": "A",
+  "comments": "Go to class and its an auto A- at worst'.pretty easy A",
+  "source": "12S"
+}, {
+  "period": "11",
+  "department": "MUS",
+  "number": "1",
+  "course_name": "Beginning Music Theory",
+  "instructor": "Haas",
+  "median": "A-",
+  "comments": "Easy ART distrib, especially if you have any experience reading music",
+  "source": "12S"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "African drumming/clapping for credit'nuff said",
+  "source": "12S"
+}, {
+  "period": "10A",
+  "department": "MUS",
+  "number": "8",
+  "course_name": "Digital Music, Sonic Arts",
+  "instructor": "Topel",
+  "median": "A-",
+  "comments": "Not as easy as it used to be, but still easy",
+  "source": "12S"
+}, {
+  "period": "12",
+  "department": "NAS",
+  "number": "8",
+  "course_name": "Perspective in Native America Stys",
+  "instructor": "Palmer",
+  "median": "A-",
+  "comments": "Notoriously easy prof",
+  "source": "12S"
+}, {
+  "period": "2A",
+  "department": "PBPL",
+  "number": "41",
+  "course_name": "Writing and Speaking PubPolicy",
+  "instructor": "Kalish",
+  "median": "N/A",
+  "comments": "Prof is an easy grader'.interesting ART distrib",
+  "source": "12S"
+}, {
+  "period": "10",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "Somhoff",
+  "median": "A-",
+  "comments": "Its reputation proceeds it",
+  "source": "12S"
+}, {
+  "period": "10A",
+  "department": "THEA",
+  "number": "30",
+  "course_name": "Acting I",
+  "instructor": "Kohn",
+  "median": "A",
+  "comments": "Supposedly a good class'learn a lot about yourself and median A",
+  "source": "12S"
+}, {
+  "period": "10",
+  "department": "AMES",
+  "number": "10",
+  "course_name": "The Religions of China",
+  "instructor": "Raz",
+  "median": "A-",
+  "comments": "",
+  "source": "13W"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "2",
+  "course_name": "Evolution of Earth and Life",
+  "instructor": "Osterberg",
+  "median": "A-",
+  "comments": "Osterberg is the man, highly recommend this one (overlap w Ears 6 and 3)",
+  "source": "13W"
+}, {
+  "period": "12",
+  "department": "ENGL",
+  "number": "42",
+  "course_name": "American Fiction to 1900",
+  "instructor": "Pease",
+  "median": "A-",
+  "comments": "Pease is a boss'check out peasequotes.blogspot.com",
+  "source": "13W"
+}, {
+  "period": "10",
+  "department": "NAS",
+  "number": "34",
+  "course_name": "Native Amer Oral Tradition Lit",
+  "instructor": "Palmer",
+  "median": "A",
+  "comments": "",
+  "source": "13W"
+}, {
+  "period": "9L",
+  "department": "ENGS",
+  "number": "8",
+  "course_name": "Materials in Sports Equipment",
+  "instructor": "Obbard",
+  "median": "B+",
+  "comments": "If you do work easy, have to attend class",
+  "source": "13W"
+}, {
+  "period": "10",
+  "department": "MATH",
+  "number": "5",
+  "course_name": "A Matter of Time",
+  "instructor": "Lahr",
+  "median": "B+",
+  "comments": "supposedly pretty easy QDS",
+  "source": "13W"
+}, {
+  "period": "10A",
+  "department": "MUS",
+  "number": "4",
+  "course_name": "Global Sounds",
+  "instructor": "Levin",
+  "median": "A/A-",
+  "comments": "",
+  "source": "13W"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "45",
+  "course_name": "Ethnomusicology",
+  "instructor": "Levin",
+  "median": "A/A-",
+  "comments": "",
+  "source": "13W"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "African Drumming'.always a gem",
+  "source": "13W"
+}, {
+  "period": "AR",
+  "department": "MUS",
+  "number": "50",
+  "course_name": "Gamelan",
+  "instructor": "Diamond",
+  "median": "A",
+  "comments": "One hour a week for 3 terms and you get one credit at the end'also extremely easy",
+  "source": "13W"
+}, {
+  "period": "2",
+  "department": "NAS",
+  "number": "22",
+  "course_name": "Native American Lives",
+  "instructor": "Palmer",
+  "median": "A",
+  "comments": "Easy A",
+  "source": "13W"
+}, {
+  "period": "9L",
+  "department": "PSYC",
+  "number": "25",
+  "course_name": "Developmental Psychology",
+  "instructor": "Scheiner",
+  "median": "A",
+  "comments": "Normally offered during soph summer, don't have to attend class",
+  "source": "13W"
+}, {
+  "period": "2A",
+  "department": "RUSS",
+  "number": "10",
+  "course_name": "Intro to Russian Civilization",
+  "instructor": "Miller",
+  "median": "A",
+  "comments": "Great CI/TMV killer, plus same prof as Russ 13",
+  "source": "13W"
+}, {
+  "period": "11",
+  "department": "RUSS",
+  "number": "18",
+  "course_name": "Russian Theater",
+  "instructor": "Somoff",
+  "median": "A/A-",
+  "comments": "",
+  "source": "13W"
+}, {
+  "period": "2A",
+  "department": "SOCY",
+  "number": "2",
+  "course_name": "Social Problems",
+  "instructor": "McCabe",
+  "median": "A-",
+  "comments": "",
+  "source": "13W"
+}, {
+  "period": "11",
+  "department": "THEA",
+  "number": "40",
+  "course_name": "Technical Production",
+  "instructor": "Silver",
+  "median": "A",
+  "comments": "Work 70 hours in the shop and guaranteed an A",
+  "source": "13W"
+}, {
+  "period": "12",
+  "department": "AMES",
+  "number": "18",
+  "course_name": "History and Culture of Indonesia",
+  "instructor": "Diamond",
+  "median": "A",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "11",
+  "department": "ASTR",
+  "number": "1",
+  "course_name": "Exploration of the Solar System",
+  "instructor": "Chaboyer",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "10",
+  "department": "EARS",
+  "number": "1",
+  "course_name": "How the Earth Works",
+  "instructor": "Moore",
+  "median": "A-",
+  "comments": "Meredith Kelly, Edward Meyer",
+  "source": "14S"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "3",
+  "course_name": "Elementary Oceanography",
+  "instructor": "Osterberg",
+  "median": "A-",
+  "comments": "Feng ",
+  "source": "14S"
+}, {
+  "period": "12",
+  "department": "ENGL",
+  "number": "34",
+  "course_name": "American Drama",
+  "instructor": "Colbert",
+  "median": "A",
+  "comments": "Changed from ENGL 47 to ENGL 34 and is now taught by Donald Pease",
+  "source": "14S"
+}, {
+  "period": "2A",
+  "department": "ENGS",
+  "number": "5",
+  "course_name": "Healthcare/Biotech 21st Century",
+  "instructor": "Rosen",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "2A",
+  "department": "ENGS",
+  "number": "6",
+  "course_name": "Technology and Biosecurity",
+  "instructor": "Hoyt",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "12",
+  "department": "GERM",
+  "number": "13",
+  "course_name": "Beyond Good and Evil",
+  "instructor": "Gemunden",
+  "median": "A-",
+  "comments": "Ellis Shookman",
+  "source": "14S"
+}, {
+  "period": "11",
+  "department": "MUS",
+  "number": "1",
+  "course_name": "Beginning Music Theory",
+  "instructor": "Haas",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "11",
+  "department": "MUS",
+  "number": "3",
+  "course_name": "American Music",
+  "instructor": "Swayne",
+  "median": "A-",
+  "comments": "Summers",
+  "source": "14S"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "12",
+  "department": "NAS",
+  "number": "8",
+  "course_name": "Perspective in Native America Stys",
+  "instructor": "Palmer",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "2A",
+  "department": "NAS",
+  "number": "35",
+  "course_name": "Native American Literature",
+  "instructor": "Benson Taylor",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "2A",
+  "department": "PBPL",
+  "number": "41",
+  "course_name": "Writing and Speaking PubPolicy",
+  "instructor": "Kalish",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "10",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "Somhoff",
+  "median": "A-",
+  "comments": "Gronas",
+  "source": "14S"
+}, {
+  "period": "9L",
+  "department": "SOCY",
+  "number": "1",
+  "course_name": "Introduction to Sociology",
+  "instructor": "Goodman",
+  "median": "A",
+  "comments": "Apparently harder now since you can't use laptops on tests and he might have something against football players (still have notes for almost entire class though unless he changed it)",
+  "source": "14S"
+}, {
+  "period": "10A/2A",
+  "department": "SPEE",
+  "number": "20",
+  "course_name": "Public Speaking",
+  "instructor": "Compton/Anguiano",
+  "median": "A-",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "10A/2A",
+  "department": "TUCK",
+  "number": "3",
+  "course_name": "Business Management and Strategy",
+  "instructor": "Peteraf",
+  "median": "A",
+  "comments": "",
+  "source": "14S"
+}, {
+  "period": "10",
+  "department": "ASTR",
+  "number": "1",
+  "course_name": "Exploration of Solar System",
+  "instructor": "Fesen",
+  "median": "A-/B+",
+  "comments": "Lab",
+  "source": "14X"
+}, {
+  "period": "11",
+  "department": "ASTR",
+  "number": "2",
+  "course_name": "Exploring the Universe",
+  "instructor": "Fesen",
+  "median": "A-/B+",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "11",
+  "department": "ASTR",
+  "number": "3",
+  "course_name": "Exploring Universe w/Lab",
+  "instructor": "Fesen",
+  "median": "A-/B+",
+  "comments": "Lab",
+  "source": "14X"
+}, {
+  "period": "2A",
+  "department": "COLT",
+  "number": "10",
+  "course_name": "Robbers, Pirates & Terrorists",
+  "instructor": "Milich",
+  "median": "A/A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "2",
+  "department": "EARS",
+  "number": "40",
+  "course_name": "Materials of the Earth",
+  "instructor": "Renock/Sonder",
+  "median": "A-",
+  "comments": "Lab",
+  "source": "14X"
+}, {
+  "period": "9L",
+  "department": "ENGL",
+  "number": "15",
+  "course_name": "Shakespeare",
+  "instructor": "Luxon",
+  "median": "A-/B+",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "10",
+  "department": "ENGL",
+  "number": "36",
+  "course_name": "Contemporary American Fiction",
+  "instructor": "Bahng",
+  "median": "A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "10A/2A",
+  "department": "ENGS",
+  "number": "3",
+  "course_name": "Materials: The Substance of Civilization",
+  "instructor": "Lasky",
+  "median": "A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "10",
+  "department": "ENGS",
+  "number": "10",
+  "course_name": "The Science and Engineering of Digital Imaging",
+  "instructor": "Cybenko",
+  "median": "A",
+  "comments": "Has not been taught in a while",
+  "source": "14X"
+}, {
+  "period": "11",
+  "department": "ENVS",
+  "number": "25",
+  "course_name": "Ecological Agriculture",
+  "instructor": "Staff",
+  "median": "A/A-",
+  "comments": "Organic farming; Lab",
+  "source": "14X"
+}, {
+  "period": "10A",
+  "department": "ENVS",
+  "number": "39",
+  "course_name": "Natural Resources, Development, & Env.",
+  "instructor": "Fox",
+  "median": "A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "2A",
+  "department": "GEOG",
+  "number": "26",
+  "course_name": "Women, Gender & Development",
+  "instructor": "Fluri",
+  "median": "A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "11",
+  "department": "JWST",
+  "number": "11",
+  "course_name": "History and Culture of the Jews II",
+  "instructor": "Heschel",
+  "median": "A",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "10",
+  "department": "JWST",
+  "number": "34",
+  "course_name": "History of the Jews in Germany",
+  "instructor": "Heschel",
+  "median": "A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "10A",
+  "department": "LATS",
+  "number": "5",
+  "course_name": "Complexities of the Latino Identity",
+  "instructor": "Gomez",
+  "median": "A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "11",
+  "department": "LING",
+  "number": "1",
+  "course_name": "Introductory Linguistics",
+  "instructor": "Peterson",
+  "median": "A-/B+",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "10",
+  "department": "MUS",
+  "number": "1",
+  "course_name": "Beginning Music Theory",
+  "instructor": "Duff",
+  "median": "A/A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "10A",
+  "department": "PHIL",
+  "number": "9",
+  "course_name": "Reproductive Ethics",
+  "instructor": "Bumpus",
+  "median": "A-/B+",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "2A",
+  "department": "PSYC",
+  "number": "25",
+  "course_name": "Developmental Psychology",
+  "instructor": "Scheiner",
+  "median": "A/A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "11",
+  "department": "SOCY",
+  "number": "1",
+  "course_name": "Introductory Sociology",
+  "instructor": "Goodman",
+  "median": "A",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "2",
+  "department": "WGST",
+  "number": "10",
+  "course_name": "Sex, Gender and Society",
+  "instructor": "Aguado",
+  "median": "A/A-",
+  "comments": "",
+  "source": "14X"
+}, {
+  "period": "12",
+  "department": "AMES",
+  "number": "18",
+  "course_name": "History and Culture of Indonesia",
+  "instructor": "Diamond",
+  "median": "A",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "12",
+  "department": "ENGL",
+  "number": "47",
+  "course_name": "American Drama",
+  "instructor": "Pease",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "10",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "Apresjean",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "10",
+  "department": "REL",
+  "number": "46",
+  "course_name": "Daoism",
+  "instructor": "Raz",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "10A",
+  "department": "MUS",
+  "number": "8",
+  "course_name": "Music and Technology",
+  "instructor": "Casey",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "11",
+  "department": "SOCY",
+  "number": "51",
+  "course_name": "Prisons",
+  "instructor": "King",
+  "median": "N/A",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "2",
+  "department": "EDUC",
+  "number": "16",
+  "course_name": "Educational Psychology",
+  "instructor": "Tine",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "2A",
+  "department": "ENGS",
+  "number": "5",
+  "course_name": "Healthcare/Biotech 21st Century",
+  "instructor": "Rosen",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "2A",
+  "department": "FILM",
+  "number": "31",
+  "course_name": "Filmmaking I: Basic Elements",
+  "instructor": "Brown",
+  "median": "A",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "2A",
+  "department": "AMES",
+  "number": "11",
+  "course_name": "Intro to Korean Culture",
+  "instructor": "Unknown",
+  "median": "A",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "12",
+  "department": "LATS",
+  "number": "45",
+  "course_name": "U.S. Mexico-Borderlands",
+  "instructor": "Najera",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "9L",
+  "department": "M&SS",
+  "number": "15",
+  "course_name": "Intro to Data Analysis",
+  "instructor": "Levine",
+  "median": "A",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "2",
+  "course_name": "The Music of Today",
+  "instructor": "Kui Dong",
+  "median": "A-",
+  "comments": "",
+  "source": "11S"
+}, {
+  "period": "",
+  "department": "ARAB",
+  "number": "10",
+  "course_name": "",
+  "instructor": "Abouali",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ARAB",
+  "number": "62",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "COLT",
+  "number": "27",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "COSC",
+  "number": "53",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "EARS",
+  "number": "6",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "11",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "60",
+  "course_name": "",
+  "instructor": "Vera Palmer",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "42",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "47",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "11",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "13",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "8",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "ENVS",
+  "number": "14",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "FILM",
+  "number": "31",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "FREN",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "GEO",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-/B+",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "JWST",
+  "number": "22",
+  "course_name": "",
+  "instructor": "Bronski",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "LING",
+  "number": "1",
+  "course_name": "",
+  "instructor": "Peterson",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "M&SS",
+  "number": "15",
+  "course_name": "",
+  "instructor": "Levine",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "9",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "1",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "2",
+  "course_name": "",
+  "instructor": "Kui Dong",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "5",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "6",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "8",
+  "course_name": "",
+  "instructor": "Casey",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "NAS",
+  "number": "36",
+  "course_name": "",
+  "instructor": "Turner",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "PHIL",
+  "number": "22",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "PHIL",
+  "number": "26",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "PHIL",
+  "number": "9",
+  "course_name": "",
+  "instructor": "",
+  "median": "A- *under Bumpus",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "PSYC",
+  "number": "24",
+  "course_name": "",
+  "instructor": "Scheiner",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "PSYC",
+  "number": "25",
+  "course_name": "",
+  "instructor": "Scheiner",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "REL",
+  "number": "46",
+  "course_name": "",
+  "instructor": "Raz",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "REL",
+  "number": "48",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "REL",
+  "number": "5",
+  "course_name": "",
+  "instructor": "Wright",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "REL",
+  "number": "57",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "",
+  "instructor": "Apresjean",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "SOCY",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "SOCY",
+  "number": "51",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "THEA",
+  "number": "10",
+  "course_name": "",
+  "instructor": "Sabinson",
+  "median": "A",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "",
+  "department": "WGST",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "A-",
+  "comments": "",
+  "source": "Kappa"
+}, {
+  "period": "12",
+  "department": "Anthro",
+  "number": "30",
+  "course_name": "Hunters and Gatherers",
+  "instructor": "Dominy",
+  "median": "",
+  "comments": "you watch human planet and do literally no work, ",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "Music",
+  "number": "51",
+  "course_name": "Oral Tradition Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "clap for credit",
+  "source": "JustLayups"
+}, {
+  "period": "varies",
+  "department": "",
+  "number": "30",
+  "course_name": "acting 1",
+  "instructor": "varies",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "6",
+  "course_name": "Environmental Change",
+  "instructor": "Hawley",
+  "median": "A",
+  "comments": "unlimited extra credit",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "AMES",
+  "number": "18",
+  "course_name": "History and Culture of Indonesia",
+  "instructor": "Diamond",
+  "median": "A",
+  "comments": "involves musical instruments, no work",
+  "source": "JustLayups"
+}, {
+  "period": "AR",
+  "department": "English",
+  "number": "24",
+  "course_name": "Shakespeare I",
+  "instructor": "varies",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "varies",
+  "department": "Socy",
+  "number": "2",
+  "course_name": "Social Problems",
+  "instructor": "Anthony",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "varies",
+  "department": "WGST",
+  "number": "10",
+  "course_name": "sex gender and society",
+  "instructor": "varies",
+  "median": "A",
+  "comments": "Guys tuck away your balls for this one",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "2",
+  "course_name": "Evolution of Earth and Life",
+  "instructor": "Osterberg",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10A/AR",
+  "department": "English",
+  "number": "63",
+  "course_name": "Digital Game Studies",
+  "instructor": "Evens",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "NAS",
+  "number": "34",
+  "course_name": "Native American Oral Tradition Literature",
+  "instructor": "Palmer",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2",
+  "department": "NAS",
+  "number": "22",
+  "course_name": "Native American Lives",
+  "instructor": "Palmer",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "AR",
+  "department": "",
+  "number": "26",
+  "course_name": "Movement Fundamentals I",
+  "instructor": "Evans",
+  "median": "A",
+  "comments": "ridiculous",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "AMES",
+  "number": "12",
+  "course_name": "Introduction to Chinese Culture",
+  "instructor": "Blader",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "3A",
+  "department": "Music",
+  "number": "45",
+  "course_name": "Ethnomusicology",
+  "instructor": "Ayyagari",
+  "median": "A",
+  "comments": "k",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "Psych",
+  "number": "25",
+  "course_name": "Developmental Psychology",
+  "instructor": "Scheiner",
+  "median": "A",
+  "comments": "2 multiple choice tests, no work otherwise",
+  "source": "JustLayups"
+}, {
+  "period": "10A",
+  "department": "Engs",
+  "number": "4",
+  "course_name": "Technology of Cyberspace",
+  "instructor": "Taylor",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "NAS",
+  "number": "25",
+  "course_name": "Indian Country Today",
+  "instructor": "Duthu",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "Russian",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "varies",
+  "median": "A-",
+  "comments": "classic easy 3rd - facetimey- The Macdaddy of all easy classes",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "EARS",
+  "number": "3",
+  "course_name": "Elementary Oceanography",
+  "instructor": "Osterberg",
+  "median": "A-",
+  "comments": "easy and really interesting!",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "English",
+  "number": "47",
+  "course_name": "American Drama",
+  "instructor": "Pease",
+  "median": "A-",
+  "comments": "really easy grader, classic easy 3rd - very facetimey",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "Engs",
+  "number": "5",
+  "course_name": "Heathcare/Biotechnology",
+  "instructor": "Rosen",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "NAS",
+  "number": "35",
+  "course_name": "Native American Literature",
+  "instructor": "Benson",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "Phil",
+  "number": "26",
+  "course_name": "Philosophy and Computers",
+  "instructor": "Moor/Heckman",
+  "median": "A-",
+  "comments": "really easy graders",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "English ",
+  "number": "42",
+  "course_name": "American Fiction to 1900",
+  "instructor": "Pease",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10A",
+  "department": "Engs",
+  "number": "2",
+  "course_name": "Integrated Design: Engineering, Architecture and Building Technology",
+  "instructor": "May/Wilson",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "NAS",
+  "number": "32",
+  "course_name": "Indian Killers: Murder and Mystery",
+  "instructor": "Benson",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "Psych",
+  "number": "26",
+  "course_name": "Physiological Psychology",
+  "instructor": "Gulick",
+  "median": "A-",
+  "comments": "5 multiple choice/fill in the blanks tests - can drop lowest score",
+  "source": "JustLayups"
+}, {
+  "period": "10A/2A",
+  "department": "Engs",
+  "number": "3",
+  "course_name": "Materials: Substance of Civilization",
+  "instructor": "Lasky",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10 or 11",
+  "department": "Astro",
+  "number": "2",
+  "course_name": "Exploring the Universe",
+  "instructor": "varies",
+  "median": "A-",
+  "comments": "classic soph summer lab - facetimey",
+  "source": "JustLayups"
+}, {
+  "period": "10A",
+  "department": "Music",
+  "number": "4",
+  "course_name": "Global Sounds",
+  "instructor": "Levin",
+  "median": "A-/A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "11-Oct",
+  "department": "Nas",
+  "number": "8",
+  "course_name": "Perspectives in NAS",
+  "instructor": "Palmer",
+  "median": "A-/B+",
+  "comments": "2 papers, no tests",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "Econ",
+  "number": "2",
+  "course_name": "Economic Principles & Policy",
+  "instructor": "Fischel",
+  "median": "B",
+  "comments": "hardly any work, but have to study for the tests",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "Anthro",
+  "number": "6",
+  "course_name": "Introduction to Biological Anthropology",
+  "instructor": "Dobson",
+  "median": "B",
+  "comments": "literally no work ",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "NAS",
+  "number": "14",
+  "course_name": "American Indian History",
+  "instructor": "Calloway",
+  "median": "B+",
+  "comments": "easy grader, interesting class",
+  "source": "JustLayups"
+}, {
+  "period": "9L",
+  "department": "Psych",
+  "number": "24",
+  "course_name": "Personality & Abnormal Psychology",
+  "instructor": "Scheiner",
+  "median": "B+",
+  "comments": "3 multiple choice tests, no work otherwise",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "Psych",
+  "number": "23",
+  "course_name": "Social Psychology",
+  "instructor": "Wheatley",
+  "median": "B+",
+  "comments": "3 multiple choice tests, no work otherwise",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10A",
+  "department": "MUS",
+  "number": "8",
+  "course_name": "Music and Technology",
+  "instructor": "Casey",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "Apresjean",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "ENGL",
+  "number": "47",
+  "course_name": "American Drama",
+  "instructor": "Pease",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "REL",
+  "number": "46",
+  "course_name": "Daoism",
+  "instructor": "Raz",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10A",
+  "department": "THEA",
+  "number": "30",
+  "course_name": "Acting I",
+  "instructor": "Rice",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "2",
+  "course_name": "The Music of Today",
+  "instructor": "Kui Dong",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2",
+  "department": "EDUC",
+  "number": "16",
+  "course_name": "Educational Psychology",
+  "instructor": "Tine",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "ENGS",
+  "number": "5",
+  "course_name": "Healthcare/Biotech 21st Century",
+  "instructor": "Rosen",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "9L",
+  "department": "M & SS",
+  "number": "15",
+  "course_name": "Intro to Data Analysis",
+  "instructor": "Levine",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "FILM",
+  "number": "31",
+  "course_name": "Filmmaking I: Basic Elements",
+  "instructor": "Brown",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "NAS",
+  "number": "8",
+  "course_name": "Perspective in Native America Stys",
+  "instructor": "Palmer",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "SOCY",
+  "number": "51",
+  "course_name": "Prisons",
+  "instructor": "King",
+  "median": "N/A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "LATS",
+  "number": "45",
+  "course_name": "U.S. Mexico-Borderlands",
+  "instructor": "Najera",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "Oral Traditions and Musicianship",
+  "instructor": "Shabazz",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10A",
+  "department": "MUS",
+  "number": "8",
+  "course_name": "Music and Technology",
+  "instructor": "Casey",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "Vampires, Witches, and Firebirds",
+  "instructor": "Apresjean",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "ENGL",
+  "number": "47",
+  "course_name": "American Drama",
+  "instructor": "Pease",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10",
+  "department": "REL",
+  "number": "46",
+  "course_name": "Daoism",
+  "instructor": "Raz",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "10A",
+  "department": "THEA",
+  "number": "30",
+  "course_name": "Acting I",
+  "instructor": "Rice",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "MUS",
+  "number": "2",
+  "course_name": "The Music of Today",
+  "instructor": "Kui Dong",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2",
+  "department": "EDUC",
+  "number": "16",
+  "course_name": "Educational Psychology",
+  "instructor": "Tine",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "ENGS",
+  "number": "5",
+  "course_name": "Healthcare/Biotech 21st Century",
+  "instructor": "Rosen",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "9L",
+  "department": "M&SS",
+  "number": "15",
+  "course_name": "Intro to Data Analysis",
+  "instructor": "Levine",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "2A",
+  "department": "FILM",
+  "number": "31",
+  "course_name": "Filmmaking I: Basic Elements",
+  "instructor": "Brown",
+  "median": "A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "NAS",
+  "number": "8",
+  "course_name": "Perspective in Native America Stys",
+  "instructor": "Palmer",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "11",
+  "department": "SOCY",
+  "number": "51",
+  "course_name": "Prisons",
+  "instructor": "King",
+  "median": "N/A",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "12",
+  "department": "LATS",
+  "number": "45",
+  "course_name": "U.S. Mexico-Borderlands",
+  "instructor": "Najera",
+  "median": "A-",
+  "comments": "",
+  "source": "JustLayups"
+}, {
+  "period": "",
+  "department": "COCO",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "NEG",
+  "number": "47",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "AMES",
+  "number": "18",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "GEO",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "11",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "42",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "ECON",
+  "number": "55",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "ECON",
+  "number": "22",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "ECON",
+  "number": "26",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "NAS",
+  "number": "14",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "NAS",
+  "number": "35",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "CLST",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "JokeClasses"
+}, {
+  "period": "",
+  "department": "THEA",
+  "number": "1",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ANTH",
+  "number": "42",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "not only is this class about monkeys but it's super easy. He hand feeds you the information again and again. Did I mention it's about monkeys",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ARTH",
+  "number": "1",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ASTR",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "COLT",
+  "number": "27",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "DRAW",
+  "number": "1",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "42",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "47",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "60",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "13",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "FILM",
+  "number": "31",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ITAL",
+  "number": "1",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "LING",
+  "number": "1",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "MATH",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "4",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PHYS",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PSYC",
+  "number": "54",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PSYC",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "SOCY",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "WGST",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ARAB",
+  "number": "62",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ASTR",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ASTR",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "BIOL",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "literally, podcast online=I didn't go a single time",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "CLST",
+  "number": "4",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "42",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "47",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "5",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "13",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "GEOG",
+  "number": "2",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "all the lecture powerpoints are posted online, and you don't have to know anything besides the powerpoints, slash tests are take-home/open-book",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "GOVT",
+  "number": "60",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "MATH",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "MATH",
+  "number": "8",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PHIL",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PHIL",
+  "number": "26",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PSYC",
+  "number": "25",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "RUSS",
+  "number": "13",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "SOCY",
+  "number": "30",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "FILM",
+  "number": "31",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "5",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "Everyone told me this would be easy but I'm musically challenged- it wasn't hard, but not easy. Prof is great. You basically just get to chill and listen to music every day",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "MUS",
+  "number": "51",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PHIL",
+  "number": "22",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "47",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "FREN",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGL",
+  "number": "42",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "COLT",
+  "number": "27",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "LING",
+  "number": "1",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "SOCY",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "WGST",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "3",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "8",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "10",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENGS",
+  "number": "13",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENVS",
+  "number": "12",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "ENVS",
+  "number": "15",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "PHIL",
+  "number": "26",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "CLST",
+  "number": "4",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "REL",
+  "number": "48",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}, {
+  "period": "",
+  "department": "REL",
+  "number": "57",
+  "course_name": "",
+  "instructor": "",
+  "median": "",
+  "comments": "",
+  "source": "KDE10W"
+}]
