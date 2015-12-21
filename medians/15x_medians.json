@@ -147,7 +147,7 @@
       "department": "BIOL",
       "number": "014"
     },
-    "enrollment": "55",
+    "enrollment": "56",
     "median": "B",
     "section": "01",
     "term": "15X"
@@ -195,6 +195,16 @@
   {
     "course": {
       "department": "CHIN",
+      "number": "011"
+    },
+    "enrollment": "14",
+    "median": "A /A-",
+    "section": "90",
+    "term": "15X"
+  },
+  {
+    "course": {
+      "department": "CHIN",
       "number": "62",
       "subnumber": "02"
     },
@@ -208,7 +218,7 @@
       "department": "CLST",
       "number": "004"
     },
-    "enrollment": "73",
+    "enrollment": "75",
     "median": "B+",
     "section": "01",
     "term": "15X"
@@ -331,7 +341,7 @@
       "department": "ECON",
       "number": "021"
     },
-    "enrollment": "18",
+    "enrollment": "19",
     "median": "B+",
     "section": "01",
     "term": "15X"
@@ -341,7 +351,7 @@
       "department": "ECON",
       "number": "021"
     },
-    "enrollment": "18",
+    "enrollment": "19",
     "median": "B+",
     "section": "02",
     "term": "15X"
@@ -411,8 +421,8 @@
       "department": "ENGL",
       "number": "015"
     },
-    "enrollment": "29",
-    "median": "A-",
+    "enrollment": "31",
+    "median": "B+",
     "section": "01",
     "term": "15X"
   },
@@ -451,8 +461,8 @@
       "department": "ENGS",
       "number": "003"
     },
-    "enrollment": "40",
-    "median": "A-/B+",
+    "enrollment": "41",
+    "median": "B+",
     "section": "01",
     "term": "15X"
   },
@@ -461,7 +471,7 @@
       "department": "ENGS",
       "number": "003"
     },
-    "enrollment": "18",
+    "enrollment": "19",
     "median": "B+",
     "section": "02",
     "term": "15X"
@@ -471,7 +481,7 @@
       "department": "ENGS",
       "number": "010"
     },
-    "enrollment": "81",
+    "enrollment": "84",
     "median": "A-",
     "section": "01",
     "term": "15X"
@@ -531,7 +541,7 @@
       "department": "ENVS",
       "number": "025"
     },
-    "enrollment": "39",
+    "enrollment": "40",
     "median": "A-",
     "section": "01",
     "term": "15X"
@@ -563,6 +573,16 @@
     },
     "enrollment": "13",
     "median": "A-",
+    "section": "01",
+    "term": "15X"
+  },
+  {
+    "course": {
+      "department": "FILM",
+      "number": "031"
+    },
+    "enrollment": "10",
+    "median": "A",
     "section": "01",
     "term": "15X"
   },
@@ -676,8 +696,8 @@
       "number": "20",
       "subnumber": "04"
     },
-    "enrollment": "10",
-    "median": "A-/B+",
+    "enrollment": "11",
+    "median": "B+",
     "section": "01",
     "term": "15X"
   },
@@ -782,7 +802,7 @@
       "number": "96",
       "subnumber": "12"
     },
-    "enrollment": "10",
+    "enrollment": "11",
     "median": "A",
     "section": "01",
     "term": "15X"
@@ -886,7 +906,7 @@
       "department": "LATS",
       "number": "005"
     },
-    "enrollment": "25",
+    "enrollment": "26",
     "median": "A-",
     "section": "01",
     "term": "15X"
@@ -988,7 +1008,7 @@
       "department": "PSYC",
       "number": "010"
     },
-    "enrollment": "24",
+    "enrollment": "25",
     "median": "A-",
     "section": "01",
     "term": "15X"
@@ -1058,7 +1078,7 @@
       "department": "SOCY",
       "number": "025"
     },
-    "enrollment": "27",
+    "enrollment": "28",
     "median": "B+",
     "section": "01",
     "term": "15X"
@@ -1068,7 +1088,7 @@
       "department": "SOCY",
       "number": "044"
     },
-    "enrollment": "25",
+    "enrollment": "26",
     "median": "A-",
     "section": "01",
     "term": "15X"
@@ -1139,7 +1159,7 @@
       "number": "60",
       "subnumber": "02"
     },
-    "enrollment": "16",
+    "enrollment": "17",
     "median": "A-",
     "section": "01",
     "term": "15X"
