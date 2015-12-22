@@ -63,7 +63,7 @@
   "source": "11F"
 }, {
   "period": "9L",
-  "department": "M&SS",
+  "department": "QSS",
   "number": "15",
   "course_name": "Intro to Data Analysis",
   "instructor": "Levine",
@@ -522,7 +522,7 @@
   "source": "12S"
 }, {
   "period": "9L",
-  "department": "M&SS",
+  "department": "QSS",
   "number": "15",
   "course_name": "Intro to Data Analysis",
   "instructor": "Levine",
@@ -1080,7 +1080,7 @@
   "source": "14X"
 }, {
   "period": "2",
-  "department": "WGST",
+  "department": "WGSS",
   "number": "10",
   "course_name": "Sex, Gender and Society",
   "instructor": "Aguado",
@@ -1197,7 +1197,7 @@
   "source": "11S"
 }, {
   "period": "9L",
-  "department": "M&SS",
+  "department": "QSS",
   "number": "15",
   "course_name": "Intro to Data Analysis",
   "instructor": "Levine",
@@ -1368,7 +1368,7 @@
   "source": "Kappa"
 }, {
   "period": "",
-  "department": "GEO",
+  "department": "GEOG",
   "number": "3",
   "course_name": "",
   "instructor": "",
@@ -1395,7 +1395,7 @@
   "source": "Kappa"
 }, {
   "period": "",
-  "department": "M&SS",
+  "department": "QSS",
   "number": "15",
   "course_name": "",
   "instructor": "Levine",
@@ -1593,7 +1593,7 @@
   "source": "Kappa"
 }, {
   "period": "",
-  "department": "WGST",
+  "department": "WGSS",
   "number": "10",
   "course_name": "",
   "instructor": "",
@@ -1602,7 +1602,7 @@
   "source": "Kappa"
 }, {
   "period": "12",
-  "department": "Anthro",
+  "department": "ANTH",
   "number": "30",
   "course_name": "Hunters and Gatherers",
   "instructor": "Dominy",
@@ -1611,7 +1611,7 @@
   "source": "JustLayups"
 }, {
   "period": "2A",
-  "department": "Music",
+  "department": "MUS",
   "number": "51",
   "course_name": "Oral Tradition Musicianship",
   "instructor": "Shabazz",
@@ -1647,7 +1647,7 @@
   "source": "JustLayups"
 }, {
   "period": "AR",
-  "department": "English",
+  "department": "ENGL",
   "number": "24",
   "course_name": "Shakespeare I",
   "instructor": "varies",
@@ -1656,7 +1656,7 @@
   "source": "JustLayups"
 }, {
   "period": "varies",
-  "department": "Socy",
+  "department": "SOCY",
   "number": "2",
   "course_name": "Social Problems",
   "instructor": "Anthony",
@@ -1665,7 +1665,7 @@
   "source": "JustLayups"
 }, {
   "period": "varies",
-  "department": "WGST",
+  "department": "WGSS",
   "number": "10",
   "course_name": "sex gender and society",
   "instructor": "varies",
@@ -1683,7 +1683,7 @@
   "source": "JustLayups"
 }, {
   "period": "10A/AR",
-  "department": "English",
+  "department": "ENGL",
   "number": "63",
   "course_name": "Digital Game Studies",
   "instructor": "Evens",
@@ -1728,7 +1728,7 @@
   "source": "JustLayups"
 }, {
   "period": "3A",
-  "department": "Music",
+  "department": "MUS",
   "number": "45",
   "course_name": "Ethnomusicology",
   "instructor": "Ayyagari",
@@ -1737,7 +1737,7 @@
   "source": "JustLayups"
 }, {
   "period": "2A",
-  "department": "Psych",
+  "department": "PSYC",
   "number": "25",
   "course_name": "Developmental Psychology",
   "instructor": "Scheiner",
@@ -1746,7 +1746,7 @@
   "source": "JustLayups"
 }, {
   "period": "10A",
-  "department": "Engs",
+  "department": "ENGS",
   "number": "4",
   "course_name": "Technology of Cyberspace",
   "instructor": "Taylor",
@@ -1764,7 +1764,7 @@
   "source": "JustLayups"
 }, {
   "period": "10",
-  "department": "Russian",
+  "department": "RUSS",
   "number": "13",
   "course_name": "Vampires, Witches, and Firebirds",
   "instructor": "varies",
@@ -1782,7 +1782,7 @@
   "source": "JustLayups"
 }, {
   "period": "12",
-  "department": "English",
+  "department": "ENGL",
   "number": "47",
   "course_name": "American Drama",
   "instructor": "Pease",
@@ -1791,7 +1791,7 @@
   "source": "JustLayups"
 }, {
   "period": "2A",
-  "department": "Engs",
+  "department": "ENGS",
   "number": "5",
   "course_name": "Heathcare/Biotechnology",
   "instructor": "Rosen",
@@ -1818,7 +1818,7 @@
   "source": "JustLayups"
 }, {
   "period": "12",
-  "department": "English ",
+  "department": "ENGL",
   "number": "42",
   "course_name": "American Fiction to 1900",
   "instructor": "Pease",
@@ -1827,7 +1827,7 @@
   "source": "JustLayups"
 }, {
   "period": "10A",
-  "department": "Engs",
+  "department": "ENGS",
   "number": "2",
   "course_name": "Integrated Design: Engineering, Architecture and Building Technology",
   "instructor": "May/Wilson",
@@ -1845,7 +1845,7 @@
   "source": "JustLayups"
 }, {
   "period": "12",
-  "department": "Psych",
+  "department": "PSYC",
   "number": "26",
   "course_name": "Physiological Psychology",
   "instructor": "Gulick",
@@ -1854,7 +1854,7 @@
   "source": "JustLayups"
 }, {
   "period": "10A/2A",
-  "department": "Engs",
+  "department": "ENGS",
   "number": "3",
   "course_name": "Materials: Substance of Civilization",
   "instructor": "Lasky",
@@ -1863,7 +1863,7 @@
   "source": "JustLayups"
 }, {
   "period": "10 or 11",
-  "department": "Astro",
+  "department": "ASTR",
   "number": "2",
   "course_name": "Exploring the Universe",
   "instructor": "varies",
@@ -1872,7 +1872,7 @@
   "source": "JustLayups"
 }, {
   "period": "10A",
-  "department": "Music",
+  "department": "MUS",
   "number": "4",
   "course_name": "Global Sounds",
   "instructor": "Levin",
@@ -1881,7 +1881,7 @@
   "source": "JustLayups"
 }, {
   "period": "11-Oct",
-  "department": "Nas",
+  "department": "NAS",
   "number": "8",
   "course_name": "Perspectives in NAS",
   "instructor": "Palmer",
@@ -1890,7 +1890,7 @@
   "source": "JustLayups"
 }, {
   "period": "12",
-  "department": "Econ",
+  "department": "ECON",
   "number": "2",
   "course_name": "Economic Principles & Policy",
   "instructor": "Fischel",
@@ -1899,7 +1899,7 @@
   "source": "JustLayups"
 }, {
   "period": "11",
-  "department": "Anthro",
+  "department": "ANTH",
   "number": "6",
   "course_name": "Introduction to Biological Anthropology",
   "instructor": "Dobson",
@@ -1917,7 +1917,7 @@
   "source": "JustLayups"
 }, {
   "period": "9L",
-  "department": "Psych",
+  "department": "PSYC",
   "number": "24",
   "course_name": "Personality & Abnormal Psychology",
   "instructor": "Scheiner",
@@ -1926,7 +1926,7 @@
   "source": "JustLayups"
 }, {
   "period": "11",
-  "department": "Psych",
+  "department": "PSYC",
   "number": "23",
   "course_name": "Social Psychology",
   "instructor": "Wheatley",
@@ -2016,7 +2016,7 @@
   "source": "JustLayups"
 }, {
   "period": "9L",
-  "department": "M & SS",
+  "department": "QSS",
   "number": "15",
   "course_name": "Intro to Data Analysis",
   "instructor": "Levine",
@@ -2142,7 +2142,7 @@
   "source": "JustLayups"
 }, {
   "period": "9L",
-  "department": "M&SS",
+  "department": "QSS",
   "number": "15",
   "course_name": "Intro to Data Analysis",
   "instructor": "Levine",
@@ -2196,7 +2196,7 @@
   "source": "JokeClasses"
 }, {
   "period": "",
-  "department": "NEG",
+  "department": "ENGL",
   "number": "47",
   "course_name": "",
   "instructor": "",
@@ -2241,7 +2241,7 @@
   "source": "JokeClasses"
 }, {
   "period": "",
-  "department": "GEO",
+  "department": "GEOG",
   "number": "2",
   "course_name": "",
   "instructor": "",
@@ -2385,8 +2385,8 @@
   "source": "KDE10W"
 }, {
   "period": "",
-  "department": "DRAW",
-  "number": "1",
+  "department": "SART",
+  "number": "15",
   "course_name": "",
   "instructor": "",
   "median": "",
@@ -2529,7 +2529,7 @@
   "source": "KDE10W"
 }, {
   "period": "",
-  "department": "WGST",
+  "department": "WGSS",
   "number": "10",
   "course_name": "",
   "instructor": "",
@@ -2799,7 +2799,7 @@
   "source": "KDE10W"
 }, {
   "period": "",
-  "department": "WGST",
+  "department": "WGSS",
   "number": "10",
   "course_name": "",
   "instructor": "",
