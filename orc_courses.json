@@ -1933,6 +1933,120 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Physics-and-Astronomy/ASTR-Astronomy-Undergraduate/ASTR-87"
   },
   {
+    "course_name": "Advanced Stellar Astrophysics",
+    "department": "ASTR",
+    "number": "115",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/ASTR-Astronomy/100/ASTR-115"
+  },
+  {
+    "course_name": "Galactic Systems",
+    "department": "ASTR",
+    "number": "116",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/ASTR-Astronomy/100/ASTR-116"
+  },
+  {
+    "course_name": "Interstellar Astrophysics",
+    "department": "ASTR",
+    "number": "117",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/ASTR-Astronomy/100/ASTR-117"
+  },
+  {
+    "course_name": "Observational Cosmology",
+    "department": "ASTR",
+    "number": "118",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/ASTR-Astronomy/100/ASTR-118"
+  },
+  {
+    "course_name": "Special Topics",
+    "department": "ASTR",
+    "number": "122",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/ASTR-Astronomy/100/ASTR-122"
+  },
+  {
+    "course_name": "Molecular Information in Biological Systems",
+    "department": "BIOC",
+    "number": "101",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-101"
+  },
+  {
+    "course_name": "Spring MCB Course Module",
+    "department": "BIOC",
+    "number": "106",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-106"
+  },
+  {
+    "course_name": "Biochemical and Genetic Basis of Medicine (DMS1)",
+    "department": "BIOC",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-110"
+  },
+  {
+    "course_name": "Spring MCB Course Module",
+    "department": "BIOC",
+    "number": "111",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-111"
+  },
+  {
+    "course_name": "Metabolic Basis of Disease (DMS1)",
+    "department": "BIOC",
+    "number": "112",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-112"
+  },
+  {
+    "course_name": "Advanced Topics in Genetics and Molecular Genetics",
+    "department": "BIOC",
+    "number": "118",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-118"
+  },
+  {
+    "course_name": "Inorganic Biochemistry",
+    "department": "BIOC",
+    "number": "132",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-132"
+  },
+  {
+    "course_name": "Neurosciences I: Molecular and Cellular Neuroscience",
+    "department": "BIOC",
+    "number": "150",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-150"
+  },
+  {
+    "course_name": "Graduate Research in Biochemistry, Pre-Qual I",
+    "department": "BIOC",
+    "number": "197",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-197"
+  },
+  {
+    "course_name": "Graduate Research in Biochemistry, Pre-Qual II",
+    "department": "BIOC",
+    "number": "198",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-198"
+  },
+  {
+    "course_name": "Graduate Research in Biochemistry, Pre-Qual III",
+    "department": "BIOC",
+    "number": "199",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/100/BIOC-199"
+  },
+  {
+    "course_name": "Graduate Research in Biochemistry, Post-Qual I",
+    "department": "BIOC",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/200/BIOC-297"
+  },
+  {
+    "course_name": "Graduate Research in Biochemistry, Post-Qual II",
+    "department": "BIOC",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/200/BIOC-298"
+  },
+  {
+    "course_name": "Graduate Research in Biochemistry, Post-Qual III",
+    "department": "BIOC",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biochemistry/BIOC-Biochemistry/200/BIOC-299"
+  },
+  {
     "course_name": "Clinical Biomedical Research",
     "department": "BIOL",
     "number": "1",
@@ -2324,6 +2438,216 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Biological-Sciences/BIOL-Biological-Sciences-Undergraduate/BIOL-99"
   },
   {
+    "course_name": "The Molecular Mechanisms of Cellular Responses",
+    "department": "BIOL",
+    "number": "103",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-103"
+  },
+  {
+    "course_name": "Scientific Integrity and Research Ethics",
+    "department": "BIOL",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-110"
+  },
+  {
+    "course_name": "Advanced Population Ecology",
+    "department": "BIOL",
+    "number": "120",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-120"
+  },
+  {
+    "course_name": "Advanced Community Ecology",
+    "department": "BIOL",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-123"
+  },
+  {
+    "course_name": "The Nature and Practice of Science",
+    "department": "BIOL",
+    "number": "125",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-125"
+  },
+  {
+    "course_name": "Statistics and Experimental Design I",
+    "department": "BIOL",
+    "number": "128",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-128"
+  },
+  {
+    "course_name": "Statistics and Experimental Design II",
+    "department": "BIOL",
+    "number": "129",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-129"
+  },
+  {
+    "course_name": "Foundations of Ecological and Evolutionary Biology",
+    "department": "BIOL",
+    "number": "133",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-133"
+  },
+  {
+    "course_name": "Foundations of Ecological and Evolutionary Biology II",
+    "department": "BIOL",
+    "number": "134",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-134"
+  },
+  {
+    "course_name": "Introduction to Polar Systems",
+    "department": "BIOL",
+    "number": "138",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-138"
+  },
+  {
+    "course_name": "Genomics: Data to Analysis",
+    "department": "BIOL",
+    "number": "147",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-147"
+  },
+  {
+    "course_name": "Science and Policy of Rapid Environmental Change (identical to ENVS 80.01)",
+    "department": "BIOL",
+    "number": "148",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-148"
+  },
+  {
+    "course_name": "Student-Organized Seminar in Ecology and Evolution",
+    "department": "BIOL",
+    "number": "152",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-152"
+  },
+  {
+    "course_name": "Aquatic Ecology",
+    "department": "BIOL",
+    "number": "153",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-153"
+  },
+  {
+    "course_name": "Current Topics in Molecular Genetics",
+    "department": "BIOL",
+    "number": "165",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-165"
+  },
+  {
+    "course_name": "Molecular Basis of Cancer",
+    "department": "BIOL",
+    "number": "166",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-166"
+  },
+  {
+    "course_name": "Supervised Teaching in Biology",
+    "department": "BIOL",
+    "number": "169",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-169"
+  },
+  {
+    "course_name": "Current Topics in Cell Biology",
+    "department": "BIOL",
+    "number": "171",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-171"
+  },
+  {
+    "course_name": "Cell Signaling",
+    "department": "BIOL",
+    "number": "173",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-173"
+  },
+  {
+    "course_name": "Advanced Neurobiology",
+    "department": "BIOL",
+    "number": "174",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-174"
+  },
+  {
+    "course_name": "Advanced Genetics",
+    "department": "BIOL",
+    "number": "176",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-176"
+  },
+  {
+    "course_name": "Microscopy Principles and Application",
+    "department": "BIOL",
+    "number": "180",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-180"
+  },
+  {
+    "course_name": "Graduate Research I: Level I",
+    "department": "BIOL",
+    "number": "197",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-197"
+  },
+  {
+    "course_name": "Graduate Research I: Level II",
+    "department": "BIOL",
+    "number": "198",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-198"
+  },
+  {
+    "course_name": "Graduate Research I: Level III",
+    "department": "BIOL",
+    "number": "199",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/100/BIOL-199"
+  },
+  {
+    "course_name": "Mechanisms of Evolution and Development",
+    "department": "BIOL",
+    "number": "262",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-262"
+  },
+  {
+    "course_name": "Cell Biology",
+    "department": "BIOL",
+    "number": "263",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-263"
+  },
+  {
+    "course_name": "Ecology and Evolution",
+    "department": "BIOL",
+    "number": "266",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-266"
+  },
+  {
+    "course_name": "Genes and Gene Products",
+    "department": "BIOL",
+    "number": "268",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-268"
+  },
+  {
+    "course_name": "Plant Molecular Biology",
+    "department": "BIOL",
+    "number": "269",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-269"
+  },
+  {
+    "course_name": "Computational Biology",
+    "department": "BIOL",
+    "number": "270",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-270"
+  },
+  {
+    "course_name": "Research in Progress Colloquium",
+    "department": "BIOL",
+    "number": "271",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-271"
+  },
+  {
+    "course_name": "Graduate Research II: Level I",
+    "department": "BIOL",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-297"
+  },
+  {
+    "course_name": "Graduate Research II: Level II",
+    "department": "BIOL",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-298"
+  },
+  {
+    "course_name": "Graduate Research II: Level III",
+    "department": "BIOL",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Biological-Sciences/BIOL-Biological-Sciences/200/BIOL-299"
+  },
+  {
     "course_name": "Quantitative Reasoning in Chemistry",
     "department": "CHEM",
     "number": "2",
@@ -2502,6 +2826,233 @@
     "number": "96",
     "subnumber": "08",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Chemistry/CHEM-Chemistry-Undergraduate/CHEM-96-08"
+  },
+  {
+    "course_name": "Special Topics in Physical Chemistry",
+    "department": "CHEM",
+    "number": "101",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-101"
+  },
+  {
+    "course_name": "Quantum Chemistry",
+    "department": "CHEM",
+    "number": "101",
+    "subnumber": "1",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-101-1"
+  },
+  {
+    "course_name": "Statistical Thermodynamics",
+    "department": "CHEM",
+    "number": "101",
+    "subnumber": "2",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-101-2"
+  },
+  {
+    "course_name": "Molecular Spectroscopy",
+    "department": "CHEM",
+    "number": "101",
+    "subnumber": "3",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-101-3"
+  },
+  {
+    "course_name": "Chemistry of Macromolecules",
+    "department": "CHEM",
+    "number": "101",
+    "subnumber": "4",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-101-4"
+  },
+  {
+    "course_name": "Introduction to Materials Chemistry",
+    "department": "CHEM",
+    "number": "101",
+    "subnumber": "7",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-101-7"
+  },
+  {
+    "course_name": "Chemical Kinetics",
+    "department": "CHEM",
+    "number": "101",
+    "subnumber": "8",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-101-8"
+  },
+  {
+    "course_name": "Special Topics in Biophysical Chemistry",
+    "department": "CHEM",
+    "number": "103",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-103"
+  },
+  {
+    "course_name": "Graduate Toxicology",
+    "department": "CHEM",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-123"
+  },
+  {
+    "course_name": "Analytical Chemistry and Inorganic Instrumental Analysis",
+    "department": "CHEM",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-124"
+  },
+  {
+    "course_name": "Advanced Inorganic Chemistry: Organometallic Chemistry",
+    "department": "CHEM",
+    "number": "130",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-130"
+  },
+  {
+    "course_name": "Advanced Inorganic Chemistry: Catalysis",
+    "department": "CHEM",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-131"
+  },
+  {
+    "course_name": "Inorganic Biochemistry",
+    "department": "CHEM",
+    "number": "132",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-132"
+  },
+  {
+    "course_name": "Methods of Materials Characterization",
+    "department": "CHEM",
+    "number": "137",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-137"
+  },
+  {
+    "course_name": "Chemistry Research Colloquia",
+    "department": "CHEM",
+    "number": "140",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-140"
+  },
+  {
+    "course_name": "Physical Organic Chemistry",
+    "department": "CHEM",
+    "number": "151",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-151"
+  },
+  {
+    "course_name": "Advanced Organic Synthesis and Mechanisms",
+    "department": "CHEM",
+    "number": "152",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-152"
+  },
+  {
+    "course_name": "Chemistry of Natural Products",
+    "department": "CHEM",
+    "number": "153",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-153"
+  },
+  {
+    "course_name": "Topics in Advanced Organic Chemistry",
+    "department": "CHEM",
+    "number": "157",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-157"
+  },
+  {
+    "course_name": "Chemistry of Heterocyclic Compounds",
+    "department": "CHEM",
+    "number": "159",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-159"
+  },
+  {
+    "course_name": "Topics in Advanced Biophysical Chemistry",
+    "department": "CHEM",
+    "number": "161",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM-161"
+  },
+  {
+    "course_name": "Membrane Biophysics",
+    "department": "CHEM",
+    "number": "161",
+    "subnumber": "1",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM1611"
+  },
+  {
+    "course_name": "Biomolecular Simulations",
+    "department": "CHEM",
+    "number": "161",
+    "subnumber": "2",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM1612"
+  },
+  {
+    "course_name": "Biomolecular NMR",
+    "department": "CHEM",
+    "number": "161",
+    "subnumber": "3",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM1613"
+  },
+  {
+    "course_name": "Structure and Dynamics of Biomolecules",
+    "department": "CHEM",
+    "number": "161",
+    "subnumber": "4",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM1614"
+  },
+  {
+    "course_name": "Protein Crystallography",
+    "department": "CHEM",
+    "number": "161",
+    "subnumber": "5",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/100/CHEM1615"
+  },
+  {
+    "course_name": "Graduate Instruction in Teaching",
+    "department": "CHEM",
+    "number": "256",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-256"
+  },
+  {
+    "course_name": "Supervised Undergraduate Teaching in Chemistry",
+    "department": "CHEM",
+    "number": "257",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-257"
+  },
+  {
+    "course_name": "Graduate Research Colloquium in Organometallic Chemistry",
+    "department": "CHEM",
+    "number": "260",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-260"
+  },
+  {
+    "course_name": "Graduate Research Colloquium in Materials Chemistry",
+    "department": "CHEM",
+    "number": "261",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-261"
+  },
+  {
+    "course_name": "Graduate Research Colloquium in Synthetic Organic Chemistry",
+    "department": "CHEM",
+    "number": "262",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-262"
+  },
+  {
+    "course_name": "Graduate Research Colloquium in Bioinorganic Chemistry",
+    "department": "CHEM",
+    "number": "263",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-263"
+  },
+  {
+    "course_name": "Graduate Research Colloquium in Biophysical Chemistry",
+    "department": "CHEM",
+    "number": "264",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-264"
+  },
+  {
+    "course_name": "Graduate Investigation in Chemistry A",
+    "department": "CHEM",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-297"
+  },
+  {
+    "course_name": "Graduate Investigation in Chemistry B",
+    "department": "CHEM",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-298"
+  },
+  {
+    "course_name": "Graduate Investigation in Chemistry C",
+    "department": "CHEM",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Chemistry/CHEM-Chemistry/200/CHEM-299"
   },
   {
     "course_name": "First-Year Courses in Chinese",
@@ -3419,6 +3970,42 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-87"
   },
   {
+    "course_name": "Contemporary Literary Criticism and Theory",
+    "department": "COLT",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Comparative-Literature/COLT-Comparative-Literature/100/COLT-100"
+  },
+  {
+    "course_name": "Topics in Literary Criticism and Theory",
+    "department": "COLT",
+    "number": "101",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Comparative-Literature/COLT-Comparative-Literature/100/COLT-101"
+  },
+  {
+    "course_name": "Tutorial",
+    "department": "COLT",
+    "number": "102",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Comparative-Literature/COLT-Comparative-Literature/100/COLT-102"
+  },
+  {
+    "course_name": "Workshop in Critical Writing",
+    "department": "COLT",
+    "number": "103",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Comparative-Literature/COLT-Comparative-Literature/100/COLT-103"
+  },
+  {
+    "course_name": "Graduate Seminar",
+    "department": "COLT",
+    "number": "105",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Comparative-Literature/COLT-Comparative-Literature/100/COLT-105"
+  },
+  {
+    "course_name": "Graduate Research",
+    "department": "COLT",
+    "number": "106",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Comparative-Literature/COLT-Comparative-Literature/100/COLT-106"
+  },
+  {
     "course_name": "Introduction to Programming and Computation",
     "department": "COSC",
     "number": "1",
@@ -3716,6 +4303,258 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-99"
   },
   {
+    "course_name": "Topics in Digital Arts",
+    "department": "COSC",
+    "number": "129",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-129"
+  },
+  {
+    "course_name": "Data Stream Algorithms",
+    "department": "COSC",
+    "number": "135",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-135"
+  },
+  {
+    "course_name": "Computational Complexity",
+    "department": "COSC",
+    "number": "140",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-140"
+  },
+  {
+    "course_name": "Topics in Algorithms and Complexity",
+    "department": "COSC",
+    "number": "149",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-149"
+  },
+  {
+    "course_name": "Smartphone Programming",
+    "department": "COSC",
+    "number": "165",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-165"
+  },
+  {
+    "course_name": "Topics in Computer Systems",
+    "department": "COSC",
+    "number": "169",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-169"
+  },
+  {
+    "course_name": "Numerical and Computational Tools for Applied Science",
+    "department": "COSC",
+    "number": "170",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-170"
+  },
+  {
+    "course_name": "Machine Learning and Statistical Data Analysis",
+    "department": "COSC",
+    "number": "174",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-174"
+  },
+  {
+    "course_name": "Introduction to Bioinformatics",
+    "department": "COSC",
+    "number": "175",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-175"
+  },
+  {
+    "course_name": "Computer Graphics",
+    "department": "COSC",
+    "number": "177",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-177"
+  },
+  {
+    "course_name": "Deep Learning",
+    "department": "COSC",
+    "number": "178",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-178"
+  },
+  {
+    "course_name": "Computer Vision",
+    "department": "COSC",
+    "number": "183",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-183"
+  },
+  {
+    "course_name": "Mathematical Optimization and Modeling",
+    "department": "COSC",
+    "number": "184",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-184"
+  },
+  {
+    "course_name": "Computational Structural Biology",
+    "department": "COSC",
+    "number": "186",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-186"
+  },
+  {
+    "course_name": "Rendering Algorithms",
+    "department": "COSC",
+    "number": "187",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-187"
+  },
+  {
+    "course_name": "Topics in Applied Computer Science",
+    "department": "COSC",
+    "number": "189",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-189"
+  },
+  {
+    "course_name": "Writing, Presenting, and Evaluating Technical Papers in Computer Science",
+    "department": "COSC",
+    "number": "191",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/100/COSC-191"
+  },
+  {
+    "course_name": "Computer Science Colloquium",
+    "department": "COSC",
+    "number": "210",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-210"
+  },
+  {
+    "course_name": "Special Topics",
+    "department": "COSC",
+    "number": "219",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-219"
+  },
+  {
+    "course_name": "Advanced Algorithms",
+    "department": "COSC",
+    "number": "231",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-231"
+  },
+  {
+    "course_name": "Computer Architecture",
+    "department": "COSC",
+    "number": "251",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-251"
+  },
+  {
+    "course_name": "Advanced Operating Systems",
+    "department": "COSC",
+    "number": "258",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-258"
+  },
+  {
+    "course_name": "Programming Languages",
+    "department": "COSC",
+    "number": "259",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-259"
+  },
+  {
+    "course_name": "Numerical Linear Algebra (Formerly COSC 240)",
+    "department": "COSC",
+    "number": "271",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-271"
+  },
+  {
+    "course_name": "Advanced Artificial Intelligence",
+    "department": "COSC",
+    "number": "276",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-276"
+  },
+  {
+    "course_name": "Reading Course",
+    "department": "COSC",
+    "number": "294",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-294"
+  },
+  {
+    "course_name": "Practical Training",
+    "department": "COSC",
+    "number": "295",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-295"
+  },
+  {
+    "course_name": "Supervised Undergraduate Teaching",
+    "department": "COSC",
+    "number": "296",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-296"
+  },
+  {
+    "course_name": "Graduate Research",
+    "department": "COSC",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-297"
+  },
+  {
+    "course_name": "Thesis Research",
+    "department": "COSC",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-298"
+  },
+  {
+    "course_name": "Full-Time Thesis Research",
+    "department": "COSC",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Computer-Science/COSC-Computer-Science/200/COSC-299"
+  },
+  {
+    "course_name": "SYNERGY Introduction to Translational Research ",
+    "department": "CTS",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-100"
+  },
+  {
+    "course_name": "Pharmacology of Drug Development ",
+    "department": "CTS",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-110"
+  },
+  {
+    "course_name": "Responsible Conduct of Research in Human Subjects ",
+    "department": "CTS",
+    "number": "120",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-120"
+  },
+  {
+    "course_name": "Foundations of Epidemiology ",
+    "department": "CTS",
+    "number": "130",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-130"
+  },
+  {
+    "course_name": "Current Approaches in Experimental Therapeutics ",
+    "department": "CTS",
+    "number": "140",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-140"
+  },
+  {
+    "course_name": "Clinical Trials Part 1: Advanced Study Design and Implementation ",
+    "department": "CTS",
+    "number": "150",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-150"
+  },
+  {
+    "course_name": "Clinical Trials Part 2: Molecular and Biologic Markers ",
+    "department": "CTS",
+    "number": "151",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-151"
+  },
+  {
+    "course_name": "Statistics for Clinical and Translational Research ",
+    "department": "CTS",
+    "number": "178",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-178"
+  },
+  {
+    "course_name": "Introduction to Clinical Research Informatics ",
+    "department": "CTS",
+    "number": "180",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-180"
+  },
+  {
+    "course_name": "Clinical Investigators Training Institute Course ",
+    "department": "CTS",
+    "number": "190",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-190"
+  },
+  {
+    "course_name": "Mentored Research",
+    "department": "CTS",
+    "number": "310",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/CTS-310"
+  },
+  {
     "course_name": "How the Earth Works",
     "department": "EARS",
     "number": "1",
@@ -3992,6 +4831,216 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Earth-Sciences/EARS-Earth-Sciences-Undergraduate/EARS-89"
   },
   {
+    "course_name": "Mathematical Modeling of Earth Processes",
+    "department": "EARS",
+    "number": "107",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-107"
+  },
+  {
+    "course_name": "Radiogenic Isotope Geochemistry",
+    "department": "EARS",
+    "number": "108",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-108"
+  },
+  {
+    "course_name": "Analysis of Environmental Data",
+    "department": "EARS",
+    "number": "117",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-117"
+  },
+  {
+    "course_name": "Advanced Methods for Environmental Data Analysis",
+    "department": "EARS",
+    "number": "118",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-118"
+  },
+  {
+    "course_name": "Stable Isotope Geochemistry",
+    "department": "EARS",
+    "number": "119",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-119"
+  },
+  {
+    "course_name": "Graduate Seminar",
+    "department": "EARS",
+    "number": "121",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-121"
+  },
+  {
+    "course_name": "Analytical Chemistry and Inorganic Instrumental Analysis (Identical to, and described under, Chemistry 124)",
+    "department": "EARS",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-124"
+  },
+  {
+    "course_name": "Introduction to Polar Systems (Identical to BIOL 138)",
+    "department": "EARS",
+    "number": "128",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-128"
+  },
+  {
+    "course_name": "Project Research",
+    "department": "EARS",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-131"
+  },
+  {
+    "course_name": "Level I - Thesis Research (one-course equivalent)",
+    "department": "EARS",
+    "number": "141",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-141"
+  },
+  {
+    "course_name": "Level II -Thesis Research (two-course equivalent)",
+    "department": "EARS",
+    "number": "142",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-142"
+  },
+  {
+    "course_name": "Level III -Thesis Research (three-course equivalent)",
+    "department": "EARS",
+    "number": "143",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-143"
+  },
+  {
+    "course_name": "Supervised Teaching in Earth Sciences",
+    "department": "EARS",
+    "number": "149",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-149"
+  },
+  {
+    "course_name": "Mineralogy and Earth Processes",
+    "department": "EARS",
+    "number": "151",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-151"
+  },
+  {
+    "course_name": "Structural Geology (described under Earth Sciences 52)",
+    "department": "EARS",
+    "number": "152",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-152"
+  },
+  {
+    "course_name": "Sedimentary Petrology (described under Earth Sciences 58)",
+    "department": "EARS",
+    "number": "158",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-158"
+  },
+  {
+    "course_name": "Igneous and Metamorphic Petrology",
+    "department": "EARS",
+    "number": "159",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-159"
+  },
+  {
+    "course_name": "Geochemistry (described under Earth Sciences 62)",
+    "department": "EARS",
+    "number": "162",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-162"
+  },
+  {
+    "course_name": "Geophysics (described under Earth Sciences 64)",
+    "department": "EARS",
+    "number": "164",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-164"
+  },
+  {
+    "course_name": "Remote Sensing (described under Earth Sciences 65)",
+    "department": "EARS",
+    "number": "165",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-165"
+  },
+  {
+    "course_name": "Hydrogeology",
+    "department": "EARS",
+    "number": "166",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-166"
+  },
+  {
+    "course_name": "Environmental Geomechanics (described under Earth Sciences 67)",
+    "department": "EARS",
+    "number": "167",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-167"
+  },
+  {
+    "course_name": "Glaciology (described under Earth Sciences 70)",
+    "department": "EARS",
+    "number": "170",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-170"
+  },
+  {
+    "course_name": "River Processes and Watershed Science (described under Earth Sciences 71)",
+    "department": "EARS",
+    "number": "171",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-171"
+  },
+  {
+    "course_name": "Geobiology (described under Earth Sciences 72)",
+    "department": "EARS",
+    "number": "172",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-172"
+  },
+  {
+    "course_name": "Environmental Isotope Geochemistry",
+    "department": "EARS",
+    "number": "173",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-173"
+  },
+  {
+    "course_name": "Soils and Aqueous Geochemistry (described under Earth Sciences 74)",
+    "department": "EARS",
+    "number": "174",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-174"
+  },
+  {
+    "course_name": "Quaternary Paleoclimatology",
+    "department": "EARS",
+    "number": "175",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-175"
+  },
+  {
+    "course_name": "Advanced Hydrology",
+    "department": "EARS",
+    "number": "176",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-176"
+  },
+  {
+    "course_name": "Environmental Applications of GIS (Identical to, and described under, Geography 59)",
+    "department": "EARS",
+    "number": "177",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-177"
+  },
+  {
+    "course_name": "Climate Dynamics",
+    "department": "EARS",
+    "number": "178",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-178"
+  },
+  {
+    "course_name": "Special Topics",
+    "department": "EARS",
+    "number": "179",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/100/EARS-179"
+  },
+  {
+    "course_name": "Earth Systems",
+    "department": "EARS",
+    "number": "201",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/200/EARS-201"
+  },
+  {
+    "course_name": "Geochemical Tracers",
+    "department": "EARS",
+    "number": "202",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/200/EARS-202"
+  },
+  {
+    "course_name": "Earth Surface Processes",
+    "department": "EARS",
+    "number": "203",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Earth-Sciences/EARS-Earth-Sciences/200/EARS-203"
+  },
+  {
     "course_name": "The Price System: Analysis, Problems, and Policies",
     "department": "ECON",
     "number": "1",
@@ -4202,6 +5251,216 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Economics/ECON-Economics/ECON-87"
   },
   {
+    "course_name": "Inferential Methods and Systematic Review: Part 1",
+    "department": "ECS",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-100"
+  },
+  {
+    "course_name": "Inferential Methods and Systematic Review: Part 2",
+    "department": "ECS",
+    "number": "102",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-102"
+  },
+  {
+    "course_name": "Pharmaceuticals, Health and Health Policy",
+    "department": "ECS",
+    "number": "107",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-107"
+  },
+  {
+    "course_name": "Critical Issues in Health and Health Care",
+    "department": "ECS",
+    "number": "111",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-111"
+  },
+  {
+    "course_name": "Special Topics in Health Policy: Medical Care and the Corporation",
+    "department": "ECS",
+    "number": "112",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-112"
+  },
+  {
+    "course_name": "Understanding Health Reform",
+    "department": "ECS",
+    "number": "113",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-113"
+  },
+  {
+    "course_name": "Strategic &amp; Financial Management of Health Care Organizations",
+    "department": "ECS",
+    "number": "115",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-115"
+  },
+  {
+    "course_name": "Continual Improvement of Healthcare: An Overview",
+    "department": "ECS",
+    "number": "117",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-117"
+  },
+  {
+    "course_name": "Decision and Cost-Effectiveness Analysis: Practicum",
+    "department": "ECS",
+    "number": "119",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-119"
+  },
+  {
+    "course_name": "Decision and Cost Effective Analysis",
+    "department": "ECS",
+    "number": "119",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-121"
+  },
+  {
+    "course_name": "Survey Research Methods and Principles",
+    "department": "ECS",
+    "number": "122",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-122"
+  },
+  {
+    "course_name": "Design &amp; Improvement of Clinical Microsystems",
+    "department": "ECS",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-124"
+  },
+  {
+    "course_name": "Qualitative Methods Toolbox (SHORT COURSE)",
+    "department": "ECS",
+    "number": "125",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-125"
+  },
+  {
+    "course_name": "Statistical Measurement and Analysis for Quality Improvement",
+    "department": "ECS",
+    "number": "126",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-126"
+  },
+  {
+    "course_name": "Patient Safety: Reducing Medical Errors (SHORT COURSE)",
+    "department": "ECS",
+    "number": "127",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-127"
+  },
+  {
+    "course_name": "Practical Approaches to Today's Health Care Ethics Challenges (SHORT COURSE)",
+    "department": "ECS",
+    "number": "130",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-130"
+  },
+  {
+    "course_name": "Patient Centered Health Communications",
+    "department": "ECS",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-131"
+  },
+  {
+    "course_name": "Epidemiology/Biostatistics: Part 1",
+    "department": "ECS",
+    "number": "140A",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-140A"
+  },
+  {
+    "course_name": "Epidemiology/Biostatistics: Part 2",
+    "department": "ECS",
+    "number": "140B",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-140B"
+  },
+  {
+    "course_name": "Epidemiology/Biostatistics 2",
+    "department": "ECS",
+    "number": "141",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-141"
+  },
+  {
+    "course_name": "The Current Status of Practice Variation Research (SHORT COURSE)",
+    "department": "ECS",
+    "number": "144",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-144"
+  },
+  {
+    "course_name": "Advanced Methods in Health Services Research",
+    "department": "ECS",
+    "number": "147",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-147"
+  },
+  {
+    "course_name": "Environmental Health Science and Policy",
+    "department": "ECS",
+    "number": "151",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-151"
+  },
+  {
+    "course_name": "Social and Behavioral Determinants of Health",
+    "department": "ECS",
+    "number": "154",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-154"
+  },
+  {
+    "course_name": "The Geographies of Health and Disease",
+    "department": "ECS",
+    "number": "155",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-155"
+  },
+  {
+    "course_name": "Public Health Capstone: Part 1",
+    "department": "ECS",
+    "number": "160",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-160"
+  },
+  {
+    "course_name": "Public Health Internship",
+    "department": "ECS",
+    "number": "161",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-161"
+  },
+  {
+    "course_name": "Public Health Capstone Project: Part 2",
+    "department": "ECS",
+    "number": "162",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-162"
+  },
+  {
+    "course_name": "Research Capstone Series 1-3",
+    "department": "ECS",
+    "number": "177",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-177-179"
+  },
+  {
+    "course_name": "Directed Readings",
+    "department": "ECS",
+    "number": "186",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-186-189"
+  },
+  {
+    "course_name": "Directed Research",
+    "department": "ECS",
+    "number": "196",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-196-199"
+  },
+  {
+    "course_name": "Supervised Teaching",
+    "department": "ECS",
+    "number": "250",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-250-254"
+  },
+  {
+    "course_name": "Advanced-Level Student Teaching",
+    "department": "ECS",
+    "number": "257",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-257-259"
+  },
+  {
+    "course_name": "Supervised Research Assistantship",
+    "department": "ECS",
+    "number": "276",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-276-279"
+  },
+  {
+    "course_name": "Doctoral Research",
+    "department": "ECS",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/The-Dartmouth-Institute/ECS-The-Dartmouth-Institute/ECS-297-299"
+  },
+  {
     "course_name": "The Learning Brain: Introduction to Child Development and Education",
     "department": "EDUC",
     "number": "1",
@@ -4351,6 +5610,60 @@
     "department": "EDUC",
     "number": "88",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Education/EDUC-Education/EDUC-88"
+  },
+  {
+    "course_name": "Instrumentation and Measurements",
+    "department": "ENGG",
+    "number": "129",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/100/ENGG-129"
+  },
+  {
+    "course_name": "Corrosion and Degradation of Materials",
+    "department": "ENGG",
+    "number": "138",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/100/ENGG-138"
+  },
+  {
+    "course_name": "Structural Mechanics",
+    "department": "ENGG",
+    "number": "148",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/100/ENGG-148"
+  },
+  {
+    "course_name": "Quantitative Human Physiology",
+    "department": "ENGG",
+    "number": "166",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/100/ENGG-166"
+  },
+  {
+    "course_name": "Spectral Analysis",
+    "department": "ENGG",
+    "number": "210",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/200/ENGG-210"
+  },
+  {
+    "course_name": "Communications Theory",
+    "department": "ENGG",
+    "number": "212",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/200/ENGG-212"
+  },
+  {
+    "course_name": "Fatigue and Fracture",
+    "department": "ENGG",
+    "number": "230",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/200/ENGG-230"
+  },
+  {
+    "course_name": "Kinematics and Dynamics of Machinery",
+    "department": "ENGG",
+    "number": "240",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/200/ENGG-240"
+  },
+  {
+    "course_name": "Biomass Energy Conversion",
+    "department": "ENGG",
+    "number": "261",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGG-Engineering/200/ENGG-261"
   },
   {
     "course_name": "Literary History I: Literature up to the mid-Seventeenth Century",
@@ -5097,6 +6410,12 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Engineering-Sciences/ENGS-Engineering-Sciences-Undergraduate/ENGS-4"
   },
   {
+    "course_name": "Healthcare and Biotechnology in the 21st Century ",
+    "department": "ENGS",
+    "number": "005",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/ENGS-005"
+  },
+  {
     "course_name": "Healthcare and Biotechnology in the 21st Century",
     "department": "ENGS",
     "number": "5",
@@ -5455,6 +6774,300 @@
     "department": "ENGS",
     "number": "93",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Engineering-Sciences/ENGS-Engineering-Sciences-Undergraduate/ENGS-93"
+  },
+  {
+    "course_name": "Optimization Methods for Engineering Applications",
+    "department": "ENGS",
+    "number": "104",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-104"
+  },
+  {
+    "course_name": "Computational Methods for Partial Differential Equations",
+    "department": "ENGS",
+    "number": "105",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-105"
+  },
+  {
+    "course_name": "Numerical Linear Algebra",
+    "department": "ENGS",
+    "number": "106",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-106"
+  },
+  {
+    "course_name": "Signal Processing",
+    "department": "ENGS",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-110"
+  },
+  {
+    "course_name": "Digital Image Processing",
+    "department": "ENGS",
+    "number": "111",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-111"
+  },
+  {
+    "course_name": "Modern Information Technologies",
+    "department": "ENGS",
+    "number": "112",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-112"
+  },
+  {
+    "course_name": "Networked Multi-Agent Systems",
+    "department": "ENGS",
+    "number": "114",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-114"
+  },
+  {
+    "course_name": "Parallel Computing",
+    "department": "ENGS",
+    "number": "115",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-115"
+  },
+  {
+    "course_name": "Electromagnetic Fields and Waves",
+    "department": "ENGS",
+    "number": "120",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-120"
+  },
+  {
+    "course_name": "Semiconductor Theory and Devices",
+    "department": "ENGS",
+    "number": "122",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-122"
+  },
+  {
+    "course_name": "Optics",
+    "department": "ENGS",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-123"
+  },
+  {
+    "course_name": "Optical Devices and Systems",
+    "department": "ENGS",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-124"
+  },
+  {
+    "course_name": "Power Electronics and Electromechanical Energy Conversion",
+    "department": "ENGS",
+    "number": "125",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-125"
+  },
+  {
+    "course_name": "Analog Integrated Circuit Design",
+    "department": "ENGS",
+    "number": "126",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-126"
+  },
+  {
+    "course_name": "Advanced Digital Systems Design",
+    "department": "ENGS",
+    "number": "128",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-128"
+  },
+  {
+    "course_name": "Mechanical Behavior of Materials",
+    "department": "ENGS",
+    "number": "130",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-130"
+  },
+  {
+    "course_name": "Science of Solid State Materials",
+    "department": "ENGS",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-131"
+  },
+  {
+    "course_name": "Thermodynamics and Kinetics in Condensed Phases",
+    "department": "ENGS",
+    "number": "132",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-132"
+  },
+  {
+    "course_name": "Methods of Materials Characterization",
+    "department": "ENGS",
+    "number": "133",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-133"
+  },
+  {
+    "course_name": "Nanotechnology",
+    "department": "ENGS",
+    "number": "134",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-134"
+  },
+  {
+    "course_name": "Thin Films and Microfabrication Technology",
+    "department": "ENGS",
+    "number": "135",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-135"
+  },
+  {
+    "course_name": "Intermediate Solid Mechanics",
+    "department": "ENGS",
+    "number": "142",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-142"
+  },
+  {
+    "course_name": "Modern Control Theory",
+    "department": "ENGS",
+    "number": "145",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-145"
+  },
+  {
+    "course_name": "Computer-Aided Mechanical Engineering Design",
+    "department": "ENGS",
+    "number": "146",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-146"
+  },
+  {
+    "course_name": "Mechatronics",
+    "department": "ENGS",
+    "number": "147",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-147"
+  },
+  {
+    "course_name": "Intermediate Fluid Mechanics",
+    "department": "ENGS",
+    "number": "150",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-150"
+  },
+  {
+    "course_name": "Environmental Fluid Mechanics",
+    "department": "ENGS",
+    "number": "151",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-151"
+  },
+  {
+    "course_name": "Magnetohydrodynamics",
+    "department": "ENGS",
+    "number": "152",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-152"
+  },
+  {
+    "course_name": "Computational Plasma Dynamics",
+    "department": "ENGS",
+    "number": "153",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-153"
+  },
+  {
+    "course_name": "Intermediate Thermodynamics",
+    "department": "ENGS",
+    "number": "155",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-155"
+  },
+  {
+    "course_name": "Heat, Mass, and Momentum Transfer",
+    "department": "ENGS",
+    "number": "156",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-156"
+  },
+  {
+    "course_name": "Chemical Process Design",
+    "department": "ENGS",
+    "number": "157",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-157"
+  },
+  {
+    "course_name": "Chemical Kinetics and Reactors",
+    "department": "ENGS",
+    "number": "158",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-158"
+  },
+  {
+    "course_name": "Biotechnology and Biochemical Engineering",
+    "department": "ENGS",
+    "number": "160",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-160"
+  },
+  {
+    "course_name": "Microbial Physiology and Metabolic Engineering ",
+    "department": "ENGS",
+    "number": "161",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-161"
+  },
+  {
+    "course_name": "Methods in Biotechnology",
+    "department": "ENGS",
+    "number": "162",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-162"
+  },
+  {
+    "course_name": "Advanced Protein Engineering",
+    "department": "ENGS",
+    "number": "163",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-163"
+  },
+  {
+    "course_name": "Biomaterials",
+    "department": "ENGS",
+    "number": "165",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-165"
+  },
+  {
+    "course_name": "Medical Imaging",
+    "department": "ENGS",
+    "number": "167",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-167"
+  },
+  {
+    "course_name": "Intermediate Biomedical Engineering",
+    "department": "ENGS",
+    "number": "169",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-169"
+  },
+  {
+    "course_name": "Neuroengineering",
+    "department": "ENGS",
+    "number": "170",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-170"
+  },
+  {
+    "course_name": "Industrial Ecology",
+    "department": "ENGS",
+    "number": "171",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-171"
+  },
+  {
+    "course_name": "Climate Change and Engineering",
+    "department": "ENGS",
+    "number": "172",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-172"
+  },
+  {
+    "course_name": "Energy Systems",
+    "department": "ENGS",
+    "number": "175",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/100/ENGS-175"
+  },
+  {
+    "course_name": "Methods in Applied Mathematics II",
+    "department": "ENGS",
+    "number": "200",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/200/ENGS-200"
+  },
+  {
+    "course_name": "Nonlinear Systems",
+    "department": "ENGS",
+    "number": "202",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/200/ENGS-202"
+  },
+  {
+    "course_name": "Computational Methods for Partial Differential Equations II",
+    "department": "ENGS",
+    "number": "205",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/200/ENGS-205"
+  },
+  {
+    "course_name": "Electromagnetic Wave Theory",
+    "department": "ENGS",
+    "number": "220",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/200/ENGS-220"
+  },
+  {
+    "course_name": "Turbulence in Fluids",
+    "department": "ENGS",
+    "number": "250",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Engineering-Sciences/ENGS-Engineering-Sciences/200/ENGS-250"
   },
   {
     "course_name": "Introduction to Environmental Science",
@@ -6406,6 +8019,120 @@
     "department": "FRIT",
     "number": "93",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/French-and-Italian-Languages-and-Literatures/FRIT-French-and-Italian-in-Translation/FRIT-93"
+  },
+  {
+    "course_name": "Molecular Information in Biological Systems",
+    "department": "GENE",
+    "number": "102",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-102"
+  },
+  {
+    "course_name": "Spring MCB Course Module",
+    "department": "GENE",
+    "number": "107",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-107"
+  },
+  {
+    "course_name": "Spring MCB Course Module",
+    "department": "GENE",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-110"
+  },
+  {
+    "course_name": "Advanced Topics in Genetics and Molecular Genetics",
+    "department": "GENE",
+    "number": "118",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-118"
+  },
+  {
+    "course_name": "Genetics and Physiology of Behavior",
+    "department": "GENE",
+    "number": "142",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-142"
+  },
+  {
+    "course_name": "Oncogenomics",
+    "department": "GENE",
+    "number": "144",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-144"
+  },
+  {
+    "course_name": "Human Genetics",
+    "department": "GENE",
+    "number": "145",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-145"
+  },
+  {
+    "course_name": "Molecular and Computational Genomics",
+    "department": "GENE",
+    "number": "146",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-146"
+  },
+  {
+    "course_name": "Molecular and Computational\tGenomics",
+    "department": "GENE",
+    "number": "146",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/GENE-146"
+  },
+  {
+    "course_name": "Animal Development and Human Disease",
+    "department": "GENE",
+    "number": "147",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-147"
+  },
+  {
+    "course_name": "Biological Mass Spectrometry and Proteomics",
+    "department": "GENE",
+    "number": "148",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-148"
+  },
+  {
+    "course_name": "Graduate Research in Genetics A",
+    "department": "GENE",
+    "number": "197",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-197"
+  },
+  {
+    "course_name": "Graduate Research in Genetics B",
+    "department": "GENE",
+    "number": "198",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-198"
+  },
+  {
+    "course_name": "Graduate Research in Genetics C",
+    "department": "GENE",
+    "number": "199",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/100/GENE-199"
+  },
+  {
+    "course_name": "Graduate Research Colloquium: Developmental Biology",
+    "department": "GENE",
+    "number": "267",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/200/GENE-267"
+  },
+  {
+    "course_name": "Graduate Research Colloquium: Chromatin Structure",
+    "department": "GENE",
+    "number": "271",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/200/GENE-271"
+  },
+  {
+    "course_name": "Graduate Research in Genetics A",
+    "department": "GENE",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/200/GENE-297"
+  },
+  {
+    "course_name": "Graduate Research in Genetics B",
+    "department": "GENE",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/200/GENE-298"
+  },
+  {
+    "course_name": "Graduate Research in Genetics C",
+    "department": "GENE",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Genetics/GENE-Genetics/200/GENE-299"
   },
   {
     "course_name": "Introduction to Human Geography",
@@ -8063,6 +9790,102 @@
     "department": "GRK",
     "number": "87",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Classics-Classical-Studies-Greek-Latin/GRK-Greek/GRK-87"
+  },
+  {
+    "course_name": "Science of Health Care Delivery",
+    "department": "HCDS",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-100"
+  },
+  {
+    "course_name": "Leveraging Data",
+    "department": "HCDS",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-110"
+  },
+  {
+    "course_name": "Finance Essentials for Leaders in Health Care Delivery",
+    "department": "HCDS",
+    "number": "120",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-120"
+  },
+  {
+    "course_name": "Clinical Microsystems",
+    "department": "HCDS",
+    "number": "130",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-130"
+  },
+  {
+    "course_name": "Health Care Operations Management ",
+    "department": "HCDS",
+    "number": "200",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-200"
+  },
+  {
+    "course_name": "Health Economics and Policy",
+    "department": "HCDS",
+    "number": "210",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-210"
+  },
+  {
+    "course_name": "Management and Leadership of Health Care Organizations",
+    "department": "HCDS",
+    "number": "220",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-220"
+  },
+  {
+    "course_name": "Shared Decision Making",
+    "department": "HCDS",
+    "number": "230",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-230"
+  },
+  {
+    "course_name": "Strategic Marketing",
+    "department": "HCDS",
+    "number": "240",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-240"
+  },
+  {
+    "course_name": "Population Health and Preventative Care",
+    "department": "HCDS",
+    "number": "300",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-300"
+  },
+  {
+    "course_name": "Management of Organizational Change",
+    "department": "HCDS",
+    "number": "310",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-310"
+  },
+  {
+    "course_name": "Effective Information Technology for Health Care Organizations",
+    "department": "HCDS",
+    "number": "320",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-320"
+  },
+  {
+    "course_name": "Strategy for Health Care Organizations",
+    "department": "HCDS",
+    "number": "330",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-330"
+  },
+  {
+    "course_name": "Leading Innovation in Health Care Delivery",
+    "department": "HCDS",
+    "number": "340",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-340"
+  },
+  {
+    "course_name": "Personal Leadership",
+    "department": "HCDS",
+    "number": "400",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-400"
+  },
+  {
+    "course_name": "Action-Learning Project",
+    "department": "HCDS",
+    "number": "410",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Health-Care-Delivery-Science/HCDS-Courses/HCDS-410"
   },
   {
     "course_name": "First-Year Courses in Modern Hebrew",
@@ -10157,6 +11980,138 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Linguistics/LING-Linguistics/LING-87"
   },
   {
+    "course_name": "Research Methods",
+    "department": "MALS",
+    "number": "130",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-130"
+  },
+  {
+    "course_name": "Social Science Research Methods",
+    "department": "MALS",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-131"
+  },
+  {
+    "course_name": "Writing Methodologies: Strategies for Creative Writers",
+    "department": "MALS",
+    "number": "132",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-132"
+  },
+  {
+    "course_name": "Thesis Research",
+    "department": "MALS",
+    "number": "137",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-137"
+  },
+  {
+    "course_name": "Oral History in Theory and Practice",
+    "department": "MALS",
+    "number": "191",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-191"
+  },
+  {
+    "course_name": "The Craft and Culture of Journalism in the 21st Century",
+    "department": "MALS",
+    "number": "206",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-206"
+  },
+  {
+    "course_name": "Fiction-Short Story",
+    "department": "MALS",
+    "number": "213",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-213"
+  },
+  {
+    "course_name": "Screenwriting",
+    "department": "MALS",
+    "number": "226",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-226"
+  },
+  {
+    "course_name": "Telling True Stories",
+    "department": "MALS",
+    "number": "234",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-234"
+  },
+  {
+    "course_name": "Poetry Workshop",
+    "department": "MALS",
+    "number": "239",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-239"
+  },
+  {
+    "course_name": "Globalization ansd Its Discontents",
+    "department": "MALS",
+    "number": "240",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-240"
+  },
+  {
+    "course_name": "Non-Fiction - Personal Essay",
+    "department": "MALS",
+    "number": "245",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-245"
+  },
+  {
+    "course_name": "America in the 1970's",
+    "department": "MALS",
+    "number": "276",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-276"
+  },
+  {
+    "course_name": "Coloring Gender",
+    "department": "MALS",
+    "number": "277",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-277"
+  },
+  {
+    "course_name": "Religion &amp; Politics in a Post-Secular World: Rethinking Secularization",
+    "department": "MALS",
+    "number": "287",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-287"
+  },
+  {
+    "course_name": "Theorizing Memory",
+    "department": "MALS",
+    "number": "288",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-288"
+  },
+  {
+    "course_name": "American Cultural Studies ",
+    "department": "MALS",
+    "number": "289",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-289"
+  },
+  {
+    "course_name": "Cultural Studies",
+    "department": "MALS",
+    "number": "318",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-318"
+  },
+  {
+    "course_name": "The New Global Order: Development, Democracy and Revolution",
+    "department": "MALS",
+    "number": "337",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-337"
+  },
+  {
+    "course_name": "Diasporas and Migrations",
+    "department": "MALS",
+    "number": "346",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-346"
+  },
+  {
+    "course_name": "Global Media and Culture",
+    "department": "MALS",
+    "number": "361",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-361"
+  },
+  {
+    "course_name": "Telling Stories for Social Change",
+    "department": "MALS",
+    "number": "364",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Liberal-Studies-MALS/MALS-Master-of-Arts-in-Liberal-Studies/MALS-364"
+  },
+  {
     "course_name": "Calculus with Algebra",
     "department": "MATH",
     "number": "1",
@@ -10507,6 +12462,336 @@
     "department": "MATH",
     "number": "98",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Mathematics/MATH-Mathematics-Undergraduate/MATH-98"
+  },
+  {
+    "course_name": "Topics in probability theory",
+    "department": "MATH",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-100"
+  },
+  {
+    "course_name": "Topics in algebra",
+    "department": "MATH",
+    "number": "101",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-101"
+  },
+  {
+    "course_name": "Topics in geometry",
+    "department": "MATH",
+    "number": "102",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-102"
+  },
+  {
+    "course_name": "Measure Theory and Complex Analysis",
+    "department": "MATH",
+    "number": "103",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-103"
+  },
+  {
+    "course_name": "Topics in topology",
+    "department": "MATH",
+    "number": "104",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-104"
+  },
+  {
+    "course_name": "Topics in number theory",
+    "department": "MATH",
+    "number": "105",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-105"
+  },
+  {
+    "course_name": "Topics in applied mathematics",
+    "department": "MATH",
+    "number": "106",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-106"
+  },
+  {
+    "course_name": "Supervised Tutoring",
+    "department": "MATH",
+    "number": "107",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-107"
+  },
+  {
+    "course_name": "Topics in combinatorics",
+    "department": "MATH",
+    "number": "108",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-108"
+  },
+  {
+    "course_name": "Topics in mathematical logic",
+    "department": "MATH",
+    "number": "109",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-109"
+  },
+  {
+    "course_name": "Probability theory",
+    "department": "MATH",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-110"
+  },
+  {
+    "course_name": "Abstract Algebra",
+    "department": "MATH",
+    "number": "111",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-111"
+  },
+  {
+    "course_name": "Geometry",
+    "department": "MATH",
+    "number": "112",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-112"
+  },
+  {
+    "course_name": "Analysis",
+    "department": "MATH",
+    "number": "113",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-113"
+  },
+  {
+    "course_name": "Algebraic Topology",
+    "department": "MATH",
+    "number": "114",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-114"
+  },
+  {
+    "course_name": "Number Theory",
+    "department": "MATH",
+    "number": "115",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-115"
+  },
+  {
+    "course_name": "Applied mathematics",
+    "department": "MATH",
+    "number": "116",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-116"
+  },
+  {
+    "course_name": "First Year Graduate Seminar",
+    "department": "MATH",
+    "number": "117",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-117"
+  },
+  {
+    "course_name": "Combinatorics",
+    "department": "MATH",
+    "number": "118",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-118"
+  },
+  {
+    "course_name": "Mathematical Logic",
+    "department": "MATH",
+    "number": "119",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-119"
+  },
+  {
+    "course_name": "Current problems in probability theory",
+    "department": "MATH",
+    "number": "120",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-120"
+  },
+  {
+    "course_name": "Current problems in algebra",
+    "department": "MATH",
+    "number": "121",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-121"
+  },
+  {
+    "course_name": "Topics in analysis",
+    "department": "MATH",
+    "number": "122",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-122"
+  },
+  {
+    "course_name": "Current problems in analysis",
+    "department": "MATH",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-123"
+  },
+  {
+    "course_name": "Current problems in topology",
+    "department": "MATH",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-124"
+  },
+  {
+    "course_name": "Current problems in number theory",
+    "department": "MATH",
+    "number": "125",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-125"
+  },
+  {
+    "course_name": "Current problems in applied mathematics",
+    "department": "MATH",
+    "number": "126",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-126"
+  },
+  {
+    "course_name": "Reading Course",
+    "department": "MATH",
+    "number": "127",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-127"
+  },
+  {
+    "course_name": "Current problems in combinatorics",
+    "department": "MATH",
+    "number": "128",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-128"
+  },
+  {
+    "course_name": "Current problems in mathematical logic",
+    "department": "MATH",
+    "number": "129",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-129"
+  },
+  {
+    "course_name": "Independent Reading",
+    "department": "MATH",
+    "number": "137",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-137"
+  },
+  {
+    "course_name": "Teaching Seminar",
+    "department": "MATH",
+    "number": "147",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-147"
+  },
+  {
+    "course_name": "Independent Project",
+    "department": "MATH",
+    "number": "148",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-148"
+  },
+  {
+    "course_name": "Supervised Teaching",
+    "department": "MATH",
+    "number": "149",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-149"
+  },
+  {
+    "course_name": "Graduate Research",
+    "department": "MATH",
+    "number": "156",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-156"
+  },
+  {
+    "course_name": "Thesis Research",
+    "department": "MATH",
+    "number": "157",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-157"
+  },
+  {
+    "course_name": "Independent Research",
+    "department": "MATH",
+    "number": "158",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Mathematics/MATH-Mathematics/100/MATH-158"
+  },
+  {
+    "course_name": "The Molecular Mechanisms of Cellular Responses",
+    "department": "MICR",
+    "number": "104",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-104"
+  },
+  {
+    "course_name": "Spring MCB Core Course Modules",
+    "department": "MICR",
+    "number": "105",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-105"
+  },
+  {
+    "course_name": "Spring MCB Core Course Modules",
+    "department": "MICR",
+    "number": "108",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-108"
+  },
+  {
+    "course_name": "Advanced Cellular and Molecular Immunology",
+    "department": "MICR",
+    "number": "142",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-142"
+  },
+  {
+    "course_name": "Cellular and Molecular Basis of Immunity",
+    "department": "MICR",
+    "number": "144",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-144"
+  },
+  {
+    "course_name": "Human Genetics",
+    "department": "MICR",
+    "number": "145",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-145"
+  },
+  {
+    "course_name": "Immunotherapy",
+    "department": "MICR",
+    "number": "146",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-146"
+  },
+  {
+    "course_name": "Immunotherapy",
+    "department": "MICR",
+    "number": "146",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/MICR-146"
+  },
+  {
+    "course_name": "Advanced Molecular Pathogenesis",
+    "department": "MICR",
+    "number": "148",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-148"
+  },
+  {
+    "course_name": "Microbial Physiology and Metabolism",
+    "department": "MICR",
+    "number": "149",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-149"
+  },
+  {
+    "course_name": "The Biology of Fungi and Parasites that Cause Disease",
+    "department": "MICR",
+    "number": "167",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-167"
+  },
+  {
+    "course_name": "Graduate Research in Microbiology &amp; Immunology: Pre-Qual I",
+    "department": "MICR",
+    "number": "197",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-197"
+  },
+  {
+    "course_name": "Graduate Research in Microbiology &amp; Immunology: Pre-Qual II",
+    "department": "MICR",
+    "number": "198",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-198"
+  },
+  {
+    "course_name": "Graduate Research in Microbiology &amp; Immunology: Pre-Qual III",
+    "department": "MICR",
+    "number": "199",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/100/MICR-199"
+  },
+  {
+    "course_name": "Microbiology and Immunology - Graduate Research Colloquium",
+    "department": "MICR",
+    "number": "265",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/200/Microbiology-and-Immunology-Graduate-Research-Colloquium"
+  },
+  {
+    "course_name": "Graduate Research in Microbiology &amp; Immunology: Post-Qual I",
+    "department": "MICR",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/200/MICR-297"
+  },
+  {
+    "course_name": "Graduate Research in Microbiology &amp; Immunology: Post-Qual II",
+    "department": "MICR",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/200/MICR-298"
+  },
+  {
+    "course_name": "Graduate Research in Microbiology &amp; Immunology: Post-Qual III",
+    "department": "MICR",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Microbiology-and-Immunology/MICR-Microbiology-and-Immunology/200/MICR-299"
   },
   {
     "course_name": "Beginning Music Theory",
@@ -10993,6 +13278,54 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Music/MUS-Music-Undergraduate-Courses/Independent-Research-Courses/MUS-88"
   },
   {
+    "course_name": "Topics in the Repertoire of Electro-Acoustic and Computer Music",
+    "department": "MUS",
+    "number": "101",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-101"
+  },
+  {
+    "course_name": "Music, Information and Neuroscience",
+    "department": "MUS",
+    "number": "102",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-102"
+  },
+  {
+    "course_name": "Sound Analysis, Synthesis, and Digital Signal Processing",
+    "department": "MUS",
+    "number": "103",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-103"
+  },
+  {
+    "course_name": "Computer Music Composition",
+    "department": "MUS",
+    "number": "104",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-104"
+  },
+  {
+    "course_name": "Musical Systems",
+    "department": "MUS",
+    "number": "105",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-105"
+  },
+  {
+    "course_name": "Directed Research. ",
+    "department": "MUS",
+    "number": "137",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-137"
+  },
+  {
+    "course_name": "Directed Research. The staff.",
+    "department": "MUS",
+    "number": "138",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-138"
+  },
+  {
+    "course_name": "Directed Research. The staff.",
+    "department": "MUS",
+    "number": "139",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Music/MUS-Music/100/MUS-139"
+  },
+  {
     "course_name": "First-Year Seminars in Native American Studies",
     "department": "NAS",
     "number": "7",
@@ -11424,6 +13757,276 @@
     "department": "PBPL",
     "number": "91",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/The-Nelson-A-Rockefeller-Center-for-Public-Policy/Public-Policy-Minor/PBPL-Public-Policy/PBPL-91"
+  },
+  {
+    "course_name": "Scientific Basis of Disease I",
+    "department": "PEMM",
+    "number": "101",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-101"
+  },
+  {
+    "course_name": "Scientific Basis of Disease II",
+    "department": "PEMM",
+    "number": "102",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-102"
+  },
+  {
+    "course_name": "Biostatistics",
+    "department": "PEMM",
+    "number": "103",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-103"
+  },
+  {
+    "course_name": "Advanced Endocrine Physiology",
+    "department": "PEMM",
+    "number": "113",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-113"
+  },
+  {
+    "course_name": "Advanced Respiratory Physiology",
+    "department": "PEMM",
+    "number": "114",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-114"
+  },
+  {
+    "course_name": "Neurosciences",
+    "department": "PEMM",
+    "number": "115",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-115"
+  },
+  {
+    "course_name": "Advanced Cardiovascular Physiology",
+    "department": "PEMM",
+    "number": "116",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-116"
+  },
+  {
+    "course_name": "Advanced Renal Physiology",
+    "department": "PEMM",
+    "number": "117",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-117"
+  },
+  {
+    "course_name": "Advanced Immunology: Mucosal Immunity",
+    "department": "PEMM",
+    "number": "119",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-119"
+  },
+  {
+    "course_name": "Graduate Toxicology",
+    "department": "PEMM",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-123"
+  },
+  {
+    "course_name": "Graduate Toxicology",
+    "department": "PEMM",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/PEMM-123"
+  },
+  {
+    "course_name": "Ethical Conduct of Research",
+    "department": "PEMM",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-124"
+  },
+  {
+    "course_name": "Cancer Biology",
+    "department": "PEMM",
+    "number": "126",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-126"
+  },
+  {
+    "course_name": "Cancer Biology",
+    "department": "PEMM",
+    "number": "126",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/PEMM-126"
+  },
+  {
+    "course_name": "Perinatal Physiology",
+    "department": "PEMM",
+    "number": "128",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-128"
+  },
+  {
+    "course_name": "Experimental Therapeutics &amp; Drug Discovery",
+    "department": "PEMM",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-131"
+  },
+  {
+    "course_name": "Physiological Systems Modeling",
+    "department": "PEMM",
+    "number": "132",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-132"
+  },
+  {
+    "course_name": "Pharmacology of Drug Development",
+    "department": "PEMM",
+    "number": "133",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-133"
+  },
+  {
+    "course_name": "Project Research (Qualifying Examination)",
+    "department": "PEMM",
+    "number": "137",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-137"
+  },
+  {
+    "course_name": "Research Rotation I",
+    "department": "PEMM",
+    "number": "141",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-141"
+  },
+  {
+    "course_name": "Research Rotation II",
+    "department": "PEMM",
+    "number": "142",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-142"
+  },
+  {
+    "course_name": "Research Rotation III",
+    "department": "PEMM",
+    "number": "143",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-143"
+  },
+  {
+    "course_name": "Neurosciences I: Molecular and Cellular Neuroscience",
+    "department": "PEMM",
+    "number": "150",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/100/PEMM-150"
+  },
+  {
+    "course_name": "Neurobiology of Disease",
+    "department": "PEMM",
+    "number": "211",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/200/PEMM-211"
+  },
+  {
+    "course_name": "Neurosciences II",
+    "department": "PEMM",
+    "number": "212",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/200/PEMM-212"
+  },
+  {
+    "course_name": "Advanced Biomedical Sciences",
+    "department": "PEMM",
+    "number": "271",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/200/PEMM-271"
+  },
+  {
+    "course_name": "Vascular Biology",
+    "department": "PEMM",
+    "number": "275",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/200/PEMM-275"
+  },
+  {
+    "course_name": "Translational Vascular Biology",
+    "department": "PEMM",
+    "number": "275",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/PEMM-275"
+  },
+  {
+    "course_name": "Level I: part-time research: 1 course equivalent",
+    "department": "PEMM",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/200/PEMM-297"
+  },
+  {
+    "course_name": "Level II: part-time research: 2 course equivalent",
+    "department": "PEMM",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/200/PEMM-298"
+  },
+  {
+    "course_name": "Level III: full-time research: 3 course equivalent",
+    "department": "PEMM",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Program-in-Experimental-and-Molecular-Medicine/PEMM-Experimental-and-Molecular-Medicine/200/PEMM-299"
+  },
+  {
+    "course_name": "Graduate Toxicology",
+    "department": "PHAR",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-123"
+  },
+  {
+    "course_name": "Ethical Conduct of Research",
+    "department": "PHAR",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-124"
+  },
+  {
+    "course_name": "Cancer Biology",
+    "department": "PHAR",
+    "number": "126",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-126"
+  },
+  {
+    "course_name": "Experimental Therapeutics &amp; Drug Discovery",
+    "department": "PHAR",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-131"
+  },
+  {
+    "course_name": "Pharmacology of Drug Development",
+    "department": "PHAR",
+    "number": "133",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-133"
+  },
+  {
+    "course_name": "Project Research (Qualifying Examination)",
+    "department": "PHAR",
+    "number": "137",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-137"
+  },
+  {
+    "course_name": "Research Rotation 1",
+    "department": "PHAR",
+    "number": "141",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-141"
+  },
+  {
+    "course_name": "Research Rotation 2",
+    "department": "PHAR",
+    "number": "142",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-142"
+  },
+  {
+    "course_name": "Research Rotation 3",
+    "department": "PHAR",
+    "number": "143",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/100/PHAR-143"
+  },
+  {
+    "course_name": "Medical Pharmacology",
+    "department": "PHAR",
+    "number": "216",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/200/PHAR-216"
+  },
+  {
+    "course_name": "Medical Pharmacology",
+    "department": "PHAR",
+    "number": "217",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/200/PHAR-217"
+  },
+  {
+    "course_name": "Level I: part-time research: 1 course equivalent",
+    "department": "PHAR",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/200/PHAR-297"
+  },
+  {
+    "course_name": "Level II: part-time research: 2 course equivalent",
+    "department": "PHAR",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/200/PHAR-298"
+  },
+  {
+    "course_name": "Level III: full-time thesis research: 3 course equivalent",
+    "department": "PHAR",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Pharmacology-and-Toxicology/PHAR-Pharmacology-and-Toxicology/200/PHAR-299"
   },
   {
     "course_name": "The Problems of Philosophy",
@@ -12138,6 +14741,192 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Physics-and-Astronomy/PHYS-Physics-Undergraduate/PHYS-92"
   },
   {
+    "course_name": "Mathematical Methods for Physicists",
+    "department": "PHYS",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-100"
+  },
+  {
+    "course_name": "Classical Mechanics",
+    "department": "PHYS",
+    "number": "101",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-101"
+  },
+  {
+    "course_name": "Advanced Quantum Mechanics",
+    "department": "PHYS",
+    "number": "103",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-103"
+  },
+  {
+    "course_name": "Statistical Mechanics I",
+    "department": "PHYS",
+    "number": "104",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-104"
+  },
+  {
+    "course_name": "Electromagnetic Theory I",
+    "department": "PHYS",
+    "number": "105",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-105"
+  },
+  {
+    "course_name": "Electromagnetic Theory II",
+    "department": "PHYS",
+    "number": "106",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-106"
+  },
+  {
+    "course_name": "Relativistic Quantum Field Theory",
+    "department": "PHYS",
+    "number": "107",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-107"
+  },
+  {
+    "course_name": "Fluid Mechanics",
+    "department": "PHYS",
+    "number": "108",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-108"
+  },
+  {
+    "course_name": "Statistical Mechanics II",
+    "department": "PHYS",
+    "number": "109",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-109"
+  },
+  {
+    "course_name": "Methods in Applied Mathematics II ",
+    "department": "PHYS",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-110"
+  },
+  {
+    "course_name": "Plasma Kinetic Theory",
+    "department": "PHYS",
+    "number": "111",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-111"
+  },
+  {
+    "course_name": "Microscopic Theory of Solids",
+    "department": "PHYS",
+    "number": "113",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-113"
+  },
+  {
+    "course_name": "General Relativity and Cosmology",
+    "department": "PHYS",
+    "number": "114",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-114"
+  },
+  {
+    "course_name": "Quantum Information Science",
+    "department": "PHYS",
+    "number": "116",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-116"
+  },
+  {
+    "course_name": "Computational Plasma Dynamics ",
+    "department": "PHYS",
+    "number": "118",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-118"
+  },
+  {
+    "course_name": "Nonlinear Systems",
+    "department": "PHYS",
+    "number": "120",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-120"
+  },
+  {
+    "course_name": "Seminar",
+    "department": "PHYS",
+    "number": "121",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-121"
+  },
+  {
+    "course_name": "Special Topics",
+    "department": "PHYS",
+    "number": "122",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-122"
+  },
+  {
+    "course_name": "Optics ",
+    "department": "PHYS",
+    "number": "123",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-123"
+  },
+  {
+    "course_name": "Optical Devices and Systems ",
+    "department": "PHYS",
+    "number": "124",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-124"
+  },
+  {
+    "course_name": "Semiconductor Theory and Devices ",
+    "department": "PHYS",
+    "number": "126",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-126"
+  },
+  {
+    "course_name": "Reading Course",
+    "department": "PHYS",
+    "number": "127",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-127"
+  },
+  {
+    "course_name": "Methods of Materials Characterization ",
+    "department": "PHYS",
+    "number": "128",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-128"
+  },
+  {
+    "course_name": "Graduate Research I: Level I",
+    "department": "PHYS",
+    "number": "137",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-137"
+  },
+  {
+    "course_name": "Graduate Research I: Level II",
+    "department": "PHYS",
+    "number": "138",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-138"
+  },
+  {
+    "course_name": "Graduate Research I: Level III",
+    "department": "PHYS",
+    "number": "139",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/100/PHYS-139"
+  },
+  {
+    "course_name": "Instruction in Teaching for Graduate Students",
+    "department": "PHYS",
+    "number": "256",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/200/PHYS-256"
+  },
+  {
+    "course_name": "Supervised Undergraduate Teaching",
+    "department": "PHYS",
+    "number": "257",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/200/PHYS-257"
+  },
+  {
+    "course_name": "Graduate Research II: Level I",
+    "department": "PHYS",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/200/PHYS-297"
+  },
+  {
+    "course_name": "Graduate Research II: Level II",
+    "department": "PHYS",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/200/PHYS-298"
+  },
+  {
+    "course_name": "Graduate Research II: Level III",
+    "department": "PHYS",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Physics-and-Astronomy/PHYS-Physics/200/PHYS-299"
+  },
+  {
     "course_name": "Introductory Intensive Portuguese",
     "department": "PORT",
     "number": "1",
@@ -12635,6 +15424,282 @@
     "department": "PSYC",
     "number": "91",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-91"
+  },
+  {
+    "course_name": "Proseminar",
+    "department": "PSYC",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-100"
+  },
+  {
+    "course_name": "Measurement and Statistics I",
+    "department": "PSYC",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-110"
+  },
+  {
+    "course_name": "Measurement and Statistics II",
+    "department": "PSYC",
+    "number": "111",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-111"
+  },
+  {
+    "course_name": "Specialist Reading Part 1",
+    "department": "PSYC",
+    "number": "117",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-117"
+  },
+  {
+    "course_name": "Specialist Reading Part II",
+    "department": "PSYC",
+    "number": "118",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-118"
+  },
+  {
+    "course_name": "Cognitive Neuroscience",
+    "department": "PSYC",
+    "number": "128",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/Psyc-128"
+  },
+  {
+    "course_name": "Computational Neuroscience",
+    "department": "PSYC",
+    "number": "174",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/Computational-Neuroscience"
+  },
+  {
+    "course_name": "Neural Plasticity and Behavior ",
+    "department": "PSYC",
+    "number": "176",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-176"
+  },
+  {
+    "course_name": "Practical analysis of neural data",
+    "department": "PSYC",
+    "number": "179",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-179"
+  },
+  {
+    "course_name": "Supervised Undergraduate Teaching",
+    "department": "PSYC",
+    "number": "187",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-187"
+  },
+  {
+    "course_name": "Supervised Reseach",
+    "department": "PSYC",
+    "number": "188",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-188"
+  },
+  {
+    "course_name": "Independent Research",
+    "department": "PSYC",
+    "number": "189",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-189"
+  },
+  {
+    "course_name": "Predissertation Research",
+    "department": "PSYC",
+    "number": "190",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-190"
+  },
+  {
+    "course_name": "Dissertation Research",
+    "department": "PSYC",
+    "number": "191",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/100/PSYC-191"
+  },
+  {
+    "course_name": "Supervised Research",
+    "department": "PSYC",
+    "number": "288",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/200/PSYC-288"
+  },
+  {
+    "course_name": "Independent Research",
+    "department": "PSYC",
+    "number": "289",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/200/PSYC-289"
+  },
+  {
+    "course_name": "Predisseratation Research",
+    "department": "PSYC",
+    "number": "290",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/200/PSYC-290"
+  },
+  {
+    "course_name": "Dissertation Research",
+    "department": "PSYC",
+    "number": "291",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/200/PSYC-291"
+  },
+  {
+    "course_name": "Supervised Research",
+    "department": "PSYC",
+    "number": "388",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/300/PSYC-388"
+  },
+  {
+    "course_name": "Independent Research",
+    "department": "PSYC",
+    "number": "389",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/300/PSYC-389"
+  },
+  {
+    "course_name": "Predissertation Research",
+    "department": "PSYC",
+    "number": "390",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/300/PSYC-390"
+  },
+  {
+    "course_name": "Dissertation Research",
+    "department": "PSYC",
+    "number": "391",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/300/PSYC-391"
+  },
+  {
+    "course_name": "Human Biology for Population Research",
+    "department": "QBS",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-100"
+  },
+  {
+    "course_name": "Integrative Biomedical Sciences I",
+    "department": "QBS",
+    "number": "110",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-110"
+  },
+  {
+    "course_name": "Integrative Biomedical Sciences II",
+    "department": "QBS",
+    "number": "111",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-111"
+  },
+  {
+    "course_name": "Foundations of Biostatistics I: Statistical Inference",
+    "department": "QBS",
+    "number": "120",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-120"
+  },
+  {
+    "course_name": "Foundations of Biostatistics II: Regression",
+    "department": "QBS",
+    "number": "121",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-121"
+  },
+  {
+    "course_name": "Foundations of Epidemiology I: Theory and Methods",
+    "department": "QBS",
+    "number": "130",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-130"
+  },
+  {
+    "course_name": "Foundations of Epidemiology II: Molecular Epidemiology",
+    "department": "QBS",
+    "number": "131",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-131"
+  },
+  {
+    "course_name": "Foundations of Bioinformatics I: Molecular and Computational Genomics",
+    "department": "QBS",
+    "number": "146",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-146"
+  },
+  {
+    "course_name": "Genomics: From Data to Analysis",
+    "department": "QBS",
+    "number": "147",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-147"
+  },
+  {
+    "course_name": "Mathematics and Probability for Statistics and Data Mining",
+    "department": "QBS",
+    "number": "149",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-149"
+  },
+  {
+    "course_name": "Foundations of Bioinformatics II: Introduction to Bioinformatics",
+    "department": "QBS",
+    "number": "175",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-175"
+  },
+  {
+    "course_name": "Methods in Statistical Genetics and Genomics",
+    "department": "QBS",
+    "number": "176",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-176"
+  },
+  {
+    "course_name": "Algorithms for Data Science",
+    "department": "QBS",
+    "number": "177",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-177"
+  },
+  {
+    "course_name": "Statistic for Clinical and Translational Research",
+    "department": "QBS",
+    "number": "178",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-178"
+  },
+  {
+    "course_name": "Biostatistics Journal Club",
+    "department": "QBS",
+    "number": "194",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-194"
+  },
+  {
+    "course_name": "Independent Study",
+    "department": "QBS",
+    "number": "195",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-195"
+  },
+  {
+    "course_name": "Supervised Teaching in QBS",
+    "department": "QBS",
+    "number": "196",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-196"
+  },
+  {
+    "course_name": "Graduate Research in Quantitative Biomedical Sciences I",
+    "department": "QBS",
+    "number": "197",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-197"
+  },
+  {
+    "course_name": "Graduate Research in Quantitative Biomedical Sciences II",
+    "department": "QBS",
+    "number": "198",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-198"
+  },
+  {
+    "course_name": "Graduate Research in Quantitative Biomedical Sciences III",
+    "department": "QBS",
+    "number": "199",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/100/QBS-199"
+  },
+  {
+    "course_name": "Quantitative Biomedical Sciences Seminar Series and Journal Club",
+    "department": "QBS",
+    "number": "270",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/200/QBS-270"
+  },
+  {
+    "course_name": "Advanced Graduate Research in Quantitative Biomedical Sciences I",
+    "department": "QBS",
+    "number": "297",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/200/QBS-297"
+  },
+  {
+    "course_name": "Advanced Graduate Research in Quantitative Biomedical Sciences II",
+    "department": "QBS",
+    "number": "298",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/200/QBS-298"
+  },
+  {
+    "course_name": "Advanced Graduate Research in Quantitative Biomedical Sciences III",
+    "department": "QBS",
+    "number": "299",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Quantitative-Biomedical-Sciences/QBS-Quantitative-Biomedical-Sciences/200/QBS-299"
   },
   {
     "course_name": "Introduction to Data Analysis",
@@ -14730,6 +17795,12 @@
     "department": "TUCK",
     "number": "3",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Tuck-Undergraduate/TUCK-Tuck-Undergraduate/TUCK-3"
+  },
+  {
+    "course_name": "Responsible Conduct of Research ",
+    "department": "UNSG",
+    "number": "100",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Graduate/Clinical-and-Translational-Science-Institute/CTS-Courses/UNSG-100"
   },
   {
     "course_name": "First-Year Seminar in Women's, Gender, and Sexuality Studies",
