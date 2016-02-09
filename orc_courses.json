@@ -710,6 +710,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Studies/AMES-Asian-and-Middle-Eastern-Studies/AMES-42-10"
   },
   {
+    "course_name": "Food and Religion in South Asia: The Raw, the Cooked, and the Leftovers",
+    "department": "AMES",
+    "number": "42",
+    "subnumber": "11",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Asian-and-Middle-Eastern-Studies/AMES-42-11"
+  },
+  {
     "course_name": "Music and Dance of North India",
     "department": "AMES",
     "number": "42",
@@ -1331,6 +1338,12 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-64"
   },
   {
+    "course_name": "Conservation and Development",
+    "department": "ANTH",
+    "number": "65",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Anthropology/ANTH-65"
+  },
+  {
     "course_name": "Ethnicity and Nationalism",
     "department": "ANTH",
     "number": "72",
@@ -1487,12 +1500,6 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-59"
   },
   {
-    "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
-    "department": "ARAB",
-    "number": "61",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
-  },
-  {
     "course_name": "Modern Arabic Fiction",
     "department": "ARAB",
     "number": "61",
@@ -1519,6 +1526,19 @@
     "number": "61",
     "subnumber": "06",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61-06"
+  },
+  {
+    "course_name": "Modern Arabic Literature in Translation: Narrating Tradition, Change and Identity",
+    "department": "ARAB",
+    "number": "61",
+    "subnumber": "07",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-61-07"
+  },
+  {
+    "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
+    "department": "ARAB",
+    "number": "61",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
   },
   {
     "course_name": "Marvels and Wonder in Medieval Arabic Culture",
@@ -1638,6 +1658,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Art-History/ARTH-Art-History/ARTH-16-03"
   },
   {
+    "course_name": "Two Thousand Years of Korean Painting",
+    "department": "ARTH",
+    "number": "16",
+    "subnumber": "16",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-16-16"
+  },
+  {
     "course_name": "Rembrandt ",
     "department": "ARTH",
     "number": "16",
@@ -1678,6 +1705,13 @@
     "number": "16",
     "subnumber": "22",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-16-22"
+  },
+  {
+    "course_name": "Aesthetics of the Digital",
+    "department": "ARTH",
+    "number": "16",
+    "subnumber": "23",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-16-23"
   },
   {
     "course_name": "The Architecture of Late Antiquity",
@@ -2041,6 +2075,12 @@
     "department": "ASTR",
     "number": "15",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Physics-and-Astronomy/ASTR-Astronomy-Undergraduate/ASTR-15"
+  },
+  {
+    "course_name": "Habitable Planets",
+    "department": "ASTR",
+    "number": "19",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Physics-and-Astronomy/ASTR-19"
   },
   {
     "course_name": "Galaxies and Cosmology",
@@ -3322,6 +3362,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/CHIN-Chinese/CHIN-44-02"
   },
   {
+    "course_name": "Reading, Translation, and Culture",
+    "department": "CHIN",
+    "number": "44",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/CHIN-44-04"
+  },
+  {
     "course_name": "Introduction to Classical Chinese",
     "department": "CHIN",
     "number": "51",
@@ -3478,6 +3525,13 @@
     "number": "10",
     "subnumber": "04",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/CLST-10-04"
+  },
+  {
+    "course_name": "Fictions of Sappho",
+    "department": "CLST",
+    "number": "10",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/CLST-10-05"
   },
   {
     "course_name": "Sport and Democratization",
@@ -3790,6 +3844,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-21"
   },
   {
+    "course_name": "Love, Desire, Faith,  and Individual Identity in Renaissance Literature",
+    "department": "COLT",
+    "number": "22",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-22-01"
+  },
+  {
     "course_name": "The Renaissance",
     "department": "COLT",
     "number": "22",
@@ -4004,6 +4065,13 @@
     "department": "COLT",
     "number": "52",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-52"
+  },
+  {
+    "course_name": "Modern Arabic Literature in Translation: Narrating Tradition, Change and Identity",
+    "department": "COLT",
+    "number": "53",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-53-01"
   },
   {
     "course_name": "Middle Eastern Literature",
@@ -4503,6 +4571,20 @@
     "number": "89",
     "subnumber": "10",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-89-10"
+  },
+  {
+    "course_name": "Cognitive Computing with Watson",
+    "department": "COSC",
+    "number": "89",
+    "subnumber": "11",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-89-11"
+  },
+  {
+    "course_name": "Advanced Topics in Machine Learning",
+    "department": "COSC",
+    "number": "89",
+    "subnumber": "12",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-89-12"
   },
   {
     "course_name": "Topics in Applied Computer Science",
@@ -8690,17 +8772,24 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-67"
   },
   {
-    "course_name": "Seminar in Geography",
-    "department": "GEOG",
-    "number": "80",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-80"
-  },
-  {
     "course_name": "10 Weeks, 10   Professors #BlackLivesMatter",
     "department": "GEOG",
     "number": "80",
     "subnumber": "03",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-80-03"
+  },
+  {
+    "course_name": "Visualizing American Cities, Creating \"Modern\" Identities",
+    "department": "GEOG",
+    "number": "80",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Geography/GEOG-80-04"
+  },
+  {
+    "course_name": "Seminar in Geography",
+    "department": "GEOG",
+    "number": "80",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-80"
   },
   {
     "course_name": "Field Research in the Czech Republic",
@@ -9051,6 +9140,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Upper-Level-Courses-the-Cross-Subfields/GOVT-20-05"
   },
   {
+    "course_name": "Religion and World Politics",
+    "department": "GOVT",
+    "number": "20",
+    "subnumber": "07",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-20-07"
+  },
+  {
     "course_name": "Development in Emerging Economies",
     "department": "GOVT",
     "number": "24",
@@ -9203,6 +9299,20 @@
     "number": "40",
     "subnumber": "15",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Comparative-Politics/GOVT-40-15"
+  },
+  {
+    "course_name": "Israel and Palestine:  The Media as a Battlefield",
+    "department": "GOVT",
+    "number": "40",
+    "subnumber": "16",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-40-16"
+  },
+  {
+    "course_name": "Jerusalem:  A Political History",
+    "department": "GOVT",
+    "number": "40",
+    "subnumber": "17",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-40-17"
   },
   {
     "course_name": "Politics of Africa",
@@ -9381,6 +9491,13 @@
     "number": "60",
     "subnumber": "10",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Political-Theory-and-Public-Law/GOVT-60-10"
+  },
+  {
+    "course_name": "Republicanism:  An Alternative",
+    "department": "GOVT",
+    "number": "60",
+    "subnumber": "11",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-60-11"
   },
   {
     "course_name": "Jurisprudence",
@@ -9648,6 +9765,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-84-12"
   },
   {
+    "course_name": "Improving Democracy:  Institutional Innovations and Experiments in Developing Nations",
+    "department": "GOVT",
+    "number": "84",
+    "subnumber": "13",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-84-13"
+  },
+  {
     "course_name": "Rebel Governance During the Civil War",
     "department": "GOVT",
     "number": "84",
@@ -9695,6 +9819,13 @@
     "number": "84",
     "subnumber": "33",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-84-33"
+  },
+  {
+    "course_name": "U.S. Policy in Africa and the Great Challenges Africa Faces in the Future",
+    "department": "GOVT",
+    "number": "84",
+    "subnumber": "34",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-84-34"
   },
   {
     "course_name": "Diplomacy",
@@ -9786,6 +9917,13 @@
     "number": "85",
     "subnumber": "23",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-85-23"
+  },
+  {
+    "course_name": "National Security Policy and Decision Making",
+    "department": "GOVT",
+    "number": "85",
+    "subnumber": "24",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-85-24"
   },
   {
     "course_name": "International Law",
@@ -12517,6 +12655,13 @@
     "number": "5",
     "subnumber": "01",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Mathematics/MATH-Mathematics-Undergraduate/MATH-5-01"
+  },
+  {
+    "course_name": "Fundamental Applied Mathematics for the Sciences",
+    "department": "MATH",
+    "number": "5",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Mathematics/MATH-5-04"
   },
   {
     "course_name": "First-Year Seminar in Mathematics",
@@ -16165,6 +16310,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Quantitative-Social-Sciences/QSS-30-03"
   },
   {
+    "course_name": "Evolutionary Game Theory and Applications",
+    "department": "QSS",
+    "number": "30",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Quantitative-Social-Sciences/QSS-30-04"
+  },
+  {
     "course_name": "Topics in Digital History: U.S. History Through Census Data",
     "department": "QSS",
     "number": "30",
@@ -16500,6 +16652,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Intermediate-Courses/REL-29"
   },
   {
+    "course_name": "Sacred Cities: Jerusalem",
+    "department": "REL",
+    "number": "30",
+    "subnumber": "02",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Religion/REL-30-02"
+  },
+  {
     "course_name": "Sacred Cities",
     "department": "REL",
     "number": "30",
@@ -16773,6 +16932,12 @@
     "department": "REL",
     "number": "67",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Intermediate-Courses/REL-67"
+  },
+  {
+    "course_name": "Religion in World Politics",
+    "department": "REL",
+    "number": "69",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Religion/REL-69"
   },
   {
     "course_name": "Foreign Study in Religion I",
@@ -17941,6 +18106,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-80-10"
   },
   {
+    "course_name": "New Sexual and Social Identity in Film and Literature in Post-Franco Spain",
+    "department": "SPAN",
+    "number": "80",
+    "subnumber": "11",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-80-11"
+  },
+  {
     "course_name": "Senior Seminar in Hispanic Studies",
     "department": "SPAN",
     "number": "80",
@@ -17982,6 +18154,12 @@
     "department": "SPEE",
     "number": "25",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Institute-for-Writing-and-Rhetoric/SPEE-Speech/SPEE-25"
+  },
+  {
+    "course_name": "How New Media Shape Our Lives: Rhetoric, Theory, and Praxis",
+    "department": "SPEE",
+    "number": "26",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Institute-for-Writing-and-Rhetoric/SPEE-26"
   },
   {
     "course_name": "Intercultural Communication",
@@ -18030,6 +18208,12 @@
     "department": "SPEE",
     "number": "36",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Institute-for-Writing-and-Rhetoric/SPEE-Speech/SPEE-36"
+  },
+  {
+    "course_name": "Health Communication",
+    "department": "SPEE",
+    "number": "37",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Institute-for-Writing-and-Rhetoric/SPEE-37"
   },
   {
     "course_name": "Resistance To Influence: Inoculation Theory-Based Persuasion",

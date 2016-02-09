@@ -1401,6 +1401,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Studies/AMES-Asian-and-Middle-Eastern-Studies/AMES-42-10"
     },
     {
+        "course_name": "Food and Religion in South Asia: The Raw, the Cooked, and the Leftovers",
+        "department": "AMES",
+        "description": "Food\u2014what people consume, share, offer their gods, and cast off\u2014commands intense attention in South Asian religions. It\u2019s one way Hindus define themselves in relation to others (including other Hindus). It\u2019s coded with values like purity and pollution, subtlety and grossness. And it embodies histories, not only of migration, trade, and colonialism but also of ethicized actions\u2014karmas. In India, \u201cyou are what you eat\u201d has been a truism for thousands of years.",
+        "instructors": [],
+        "number": "42",
+        "offered": null,
+        "subnumber": "11",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Asian-and-Middle-Eastern-Studies/AMES-42-11"
+    },
+    {
         "course_name": "Music and Dance of North India",
         "department": "AMES",
         "description": "This experimental interdisciplinary course explores traditional North Indian (Hindustani) musicand dance as both an artistic practice and a cultural system. Course work combines regular grouplessons on the tabla\u2014the principal percussion instrument in the performance of Hindustaniraga\u2014with weekly reading, listening, and viewing assignments focusing on Indian music theory,history, and aesthetics. Visiting artists will demonstrate the central dance, instrumental, and vocalforms of Hindustani performing arts. No prior musical experience required.",
@@ -2588,6 +2598,15 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-64"
     },
     {
+        "course_name": "Conservation and Development",
+        "department": "ANTH",
+        "description": "The terms \u2018conservation\u2019 and \u2018development\u2019 are ubiquitous, but there is little agreement on their meanings or their efficacy. We study how these processes impact \u2018traditional\u2019 cultures and how indigenous peoples have responded. Development and conservation have cultures of their own so we will examine their worldviews, discourses, and practices. We explore how anthropological methods can be used to analyze resource conflicts, understand the limits of dominant approaches, and think constructively about alternatives.",
+        "instructors": [],
+        "number": "65",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Anthropology/ANTH-65"
+    },
+    {
         "course_name": "Ethnicity and Nationalism",
         "department": "ANTH",
         "description": "Ethnic politics and nationalist movements dominated the 20th century and continue to play a major role in shaping the world today. This course explores these important subjects through an anthropological lens by examining such topics as the symbols, rituals and myths of ethnic and national identity; nationalism, ethnic minorities and the state; and homeland and diaspora nationalism. Ethnographic case studies range from indigenous nationalism to that of the newly independent states of Eastern and Central Europe. (TOPIC)",
@@ -2924,15 +2943,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-59"
     },
     {
-        "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
-        "department": "ARAB",
-        "description": "This course is an introduction to the study of modern Arabic literature through readings and discussion of key texts in prose and poetry from the 19th and 20th centuries. Each offering of the course will be organized around a particular author, genre, theme, or period. Topics may include, inter alia, the question of tradition and modernity, the construction of an Arab national identity, the colonial encounter, post-coloniality, and the status of women in Arab society.   \nCourses numbered 61 - 63 are literature-in-translation courses, and do not require knowledge of the Arabic language. There are no prerequisites and courses are open to students of all classes. They may be repeated for credit if the topic varies.",
-        "instructors": [],
-        "number": "61",
-        "offered": null,
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
-    },
-    {
         "course_name": "Modern Arabic Fiction",
         "department": "ARAB",
         "description": "This course is an introduction to twentieth-century fiction across the Arab world. Looking at works from North Africa to the Middle East, we will examine how Arab writers and filmmakers have dealt with such themes as nationalism, immigration, freedom, sexuality, war, violence, and religion. Authors include Tayyib Salih, Mohamed Choukri, Ghassan Kanafani, Tahar Wattar, and Hanah al-Shaykh, among others.",
@@ -2983,6 +2993,25 @@
         "offered": "16S: 2",
         "subnumber": "06",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61-06"
+    },
+    {
+        "course_name": "Modern Arabic Literature in Translation: Narrating Tradition, Change and Identity",
+        "department": "ARAB",
+        "description": "This course is an introduction to the modern Arabic narrative tradition through the close reading of a number of key texts by leading twentieth and twenty-first centuries Arab authors. It takes as its focus a critical examination of representations of identity and change in modern Arabic discourses. Blending lectures and class discussions,the course will also explore the ways in which literary forms and narrative strategies tend to reinforce or contest normative power structures. Examination of motifs, literary styles, and assumptions pertaining to gender, sexuality, and class and socio-religious affiliation will also be undertaken.The course will further examine the profound ways in which the colonial encounter has impacted (narratives of) identity with a particular emphasis on constructions of the Arab Self in relation to a Western \u201cOther\u201dReadings for the course will be drawn from the works of Naguib Mahfouz (Egypt),Tayyib Salih (Sudan), Ghassan Kanafani (Palestine), Hanan Al Shaykh (Lebanon), Mohamed Berrada (Morocco), and others. The course will be taught in English.",
+        "instructors": [],
+        "number": "61",
+        "offered": null,
+        "subnumber": "07",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-61-07"
+    },
+    {
+        "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
+        "department": "ARAB",
+        "description": "This course is an introduction to the study of modern Arabic literature through readings and discussion of key texts in prose and poetry from the 19th and 20th centuries. Each offering of the course will be organized around a particular author, genre, theme, or period. Topics may include, inter alia, the question of tradition and modernity, the construction of an Arab national identity, the colonial encounter, post-coloniality, and the status of women in Arab society.   \nCourses numbered 61 - 63 are literature-in-translation courses, and do not require knowledge of the Arabic language. There are no prerequisites and courses are open to students of all classes. They may be repeated for credit if the topic varies.",
+        "instructors": [],
+        "number": "61",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
     },
     {
         "course_name": "Marvels and Wonder in Medieval Arabic Culture",
@@ -3225,6 +3254,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Art-History/ARTH-Art-History/ARTH-16-03"
     },
     {
+        "course_name": "Two Thousand Years of Korean Painting",
+        "department": "ARTH",
+        "description": "This course explores Korea\u2019s long painting tradition from the earliest petroglyphs to the 21st century. We will look at Goguryeo mural paintings, Goryeo Buddhist Paintings, and Joseon landscapes, portraits, genre, and folk paintings, as well as Korea\u2019s modern and contemporary art, including North Korean propaganda posters. We will ask questions like: How have Korean paintings reflected changes in religious beliefs, political idealogy, and material culture? What quintessential aesthetica values (if any) are found in Korean painting? How much does contemporary \u201cglobal\u201d Korean painting contain the legacy of the Korean painting tradition?No previous knowledge of Korean art is required.",
+        "instructors": [],
+        "number": "16",
+        "offered": null,
+        "subnumber": "16",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-16-16"
+    },
+    {
         "course_name": "Rembrandt ",
         "department": "ARTH",
         "description": "Rembrandt van Rijn was Holland\u2019s preeminent artist in the seventeenth century. This course considers Rembrandt\u2019s extraordinary achievements as an etcher, focusing especially on the artist\u2019s highly imaginative and experimental use of the etching medium, the broad range of subjects and expressive power of the prints, as well as the functions the prints served in Rembrandt\u2019s time. All our classes will make use of the Hood Museum's superb collection of Rembrandt prints, thus allowing students to do first-hand study of the artist's original works.",
@@ -3295,6 +3334,16 @@
         "offered": null,
         "subnumber": "22",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-16-22"
+    },
+    {
+        "course_name": "Aesthetics of the Digital",
+        "department": "ARTH",
+        "description": "This course confronts one of the most urgent and elusive problems of our day: the relationship of aesthetics to the rise of digital media. Drawing on a range of critical texts and artistic practices, we will consider how fundamental aesthetic categories such as materiality and form are transformed through the radical shift from a work-oriented to a medium-oriented conception of art and reality. In broader terms, this module explores the rapidly mutable audio-visual environments/interfaces of the digital age and their impact on social relations and cultural production. We will also examine the tensions between intimacy and distance, distraction and attention, and passivity and participation that characterize image consumption within the routines of contemporary technological culture. Finally, this module offers a historical and political framework for understanding contemporary art\u2019s seeming disavowal of the digital and the expanding non-stop processes of twenty-first-century capitalism that underpin it. At the same time, we will assess some of emancipatory possibilities opened by the accessibility and affordability of digital cameras, editing software and mobile devices. As well as making use of the interpretive methods of art history, this module will introduce students to tools drawn from social semiotics, media studies, anthropology, visual culture, cybernetics and design philosophy.",
+        "instructors": [],
+        "number": "16",
+        "offered": null,
+        "subnumber": "23",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-16-23"
     },
     {
         "course_name": "The Architecture of Late Antiquity",
@@ -4017,6 +4066,15 @@
         "number": "15",
         "offered": "16S: 10A     17W: D.F.S.P.     17S: 10A",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Physics-and-Astronomy/ASTR-Astronomy-Undergraduate/ASTR-15"
+    },
+    {
+        "course_name": "Habitable Planets",
+        "department": "ASTR",
+        "description": "Is the Earth unique, or are there other planets in the universe which can support life? This question has been pondered for thousands of years, and humanity is now on the cusp of being able to answer this question. This course will examine the question of planetary habitability, focusing on the processes which made the Earth habitable, and the likelihood of finding other habitable planets in the universe. Topics to be covered include the creation of the elements, the formation of structure in the universe, planetary system formation, the habitability of Earth and other bodies in the solar system, the future habitability of Earth, and the prospects of finding habitable planets around other stars.",
+        "instructors": [],
+        "number": "19",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Physics-and-Astronomy/ASTR-19"
     },
     {
         "course_name": "Galaxies and Cosmology",
@@ -6687,6 +6745,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/CHIN-Chinese/CHIN-44-02"
     },
     {
+        "course_name": "Reading, Translation, and Culture",
+        "department": "CHIN",
+        "description": "This course is designed to advance the student\u2019s communicative skills in a\u00a0bilingual situation, viz., Chinese and English, as well as the student\u2019s reading and\u00a0writing abilities in Chinese in today\u2019s ever interculturally conscious world.\u00a0The topics that we will examine include (but are not limited to) some of\u00a0the basic questions and issues with which English-speaking, young adult\u00a0students of the Chinese language frequently deal: Chinese semantics, syntax,\u00a0grammar, style and rhetoric (including metaphor); the Chinese writing system;\u00a0and last but not least the relationship between language and culture. The course\u00a0will be conducted in both Chinese and English, depending on the linguistic\u00a0proficiency of the students in the class. Readings will include books and\u00a0articles in both English and Chinese.",
+        "instructors": [],
+        "number": "44",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/CHIN-44-04"
+    },
+    {
         "course_name": "Introduction to Classical Chinese",
         "department": "CHIN",
         "description": "An introduction to the basic grammar and vocabulary of the Classical Chinese language, using examples from a selection of texts from the Warring States Period (5th to 3rd century B.C.E.).",
@@ -6996,6 +7064,16 @@
         "offered": null,
         "subnumber": "04",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/CLST-10-04"
+    },
+    {
+        "course_name": "Fictions of Sappho",
+        "department": "CLST",
+        "description": "Goddess of poetry, sexual predator, exotic holiday destination, lovelorn suicide, schoolmistress, parchment scrap: these are among the associations clustering around Sappho. From antiquity to the twenty-first century her poems and the legends about her life and loves have fascinated writers, artists and musicians as different as Queen Victoria, Willa Cather, Boccaccio, Jeanette Winterson, Ezra Pound, Gounod, and Ovid. We sample some of the twists and turns in this seemingly endless stream of fantasy and creative reaproppriation.",
+        "instructors": [],
+        "number": "10",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/CLST-10-05"
     },
     {
         "course_name": "Sport and Democratization",
@@ -7657,6 +7735,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-21"
     },
     {
+        "course_name": "Love, Desire, Faith,  and Individual Identity in Renaissance Literature",
+        "department": "COLT",
+        "description": "This class will examine one of the major focal points of the Renaissance in diverse cultural contexts. What constitutes one's idea of self? To what extent is it a function of religious, political, social, and generic institutions and conventions? How do new philosophical and literary ideas about love, desire, faith, marriage, and power influence the development of public and private perceptions of identity, as well as their representations to others? Texts by Erasmus, Luther, Calvin, Rabelais, Montaigne, Shakespeare, Cervantes, Navarre, Castiglione, Machiavelli, Ariosto, Ficino, Valois, Th\u00e9vet, and others.",
+        "instructors": [],
+        "number": "22",
+        "offered": null,
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-22-01"
+    },
+    {
         "course_name": "The Renaissance",
         "department": "COLT",
         "description": "",
@@ -8001,6 +8089,16 @@
         "number": "52",
         "offered": null,
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-52"
+    },
+    {
+        "course_name": "Modern Arabic Literature in Translation: Narrating Tradition, Change and Identity",
+        "department": "COLT",
+        "description": "This course is an introduction to the modern Arabic narrative tradition through the close reading of a number of key texts by leading twentieth and twenty-first centuries Arab authors. It takes as its focus a critical examination of representations of identity and change in modern Arabic discourses. Blending lectures and class discussions, the course will also explore the ways in which literary forms and narrative strategies tend to reinforce or contest normative power structures. Examination of motifs, literary styles, and assumptions pertaining to gender, sexuality, and class and socio-religious affiliation will also be undertaken.The course will further examine the profound ways in which the colonial encounter has impacted (narratives of) identity with a particular emphasis on constructions of the Arab Self in relation to a Western \u201cOther\u201dReadings for the course will be drawn from the works of Naguib Mahfouz (Egypt),Tayyib Salih (Sudan), Ghassan Kanafani (Palestine), Hanan Al Shaykh (Lebanon), Mohamed Berrada (Morocco), and others. The course will be taught in English.",
+        "instructors": [],
+        "number": "53",
+        "offered": null,
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-53-01"
     },
     {
         "course_name": "Middle Eastern Literature",
@@ -8966,6 +9064,26 @@
         "offered": null,
         "subnumber": "10",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-89-10"
+    },
+    {
+        "course_name": "Cognitive Computing with Watson",
+        "department": "COSC",
+        "description": "Building a computer program capable of answering questions with human-level competence has been one of the grand challenges of Artificial Intelligence. IBM\u2019s Watson system has achieved remarkable results. This class will explore the AI methods used in Watson. Topics include: natural language processing, knowledge representation, automated reasoning, machine learning, and information retrieval. Students will work in teams to develop applications that use Watson as a Cloud Service in some novel way. This class will be one of few in the world to use Watson, helping to shape the future of \u201cCognitive Computing.\u201dIn the spirit of acapstone experience, the class will focus on projects and group work that culminates in building a novel application for question answering. Student teams will benefit from drawing on experience from various other classes, including data mining, information retrieval, natural-language processing, mobile computing and entrepreneurship.Understanding the strengths and limitations of current question-answering technology will be key to a successful application. We will read and discuss research publications on various aspects of the technology, primarily focused on the Watson system.",
+        "instructors": [],
+        "number": "89",
+        "offered": null,
+        "subnumber": "11",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-89-11"
+    },
+    {
+        "course_name": "Advanced Topics in Machine Learning",
+        "department": "COSC",
+        "description": "This is an advanced research topic course for students that have al-ready taken COCS74/174 or an equivalent machine learning class, giving in-depth coverage of currently active research areas in machine learning. The course will connect to open research questions in machine learning, giving startingpoints for futurework. Main topics include probabilistic graphical models, inference and learning, Markovchain MonteCarlo, deep networks, nonparametric and kernel methods, ndrelated application areas. The students will read and present recently published papers, and write paper critiques. In addition, students will be required to propose and complete a term project. There is no midterm or fi\\fnal exam.",
+        "instructors": [],
+        "number": "89",
+        "offered": null,
+        "subnumber": "12",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-89-12"
     },
     {
         "course_name": "Topics in Applied Computer Science",
@@ -17556,15 +17674,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-67"
     },
     {
-        "course_name": "Seminar in Geography",
-        "department": "GEOG",
-        "description": "This course focuses on topics in advanced human geography that are not regularly taught as part of the curriculum. Course content will vary and reflect the interests and expertise of the instructor.",
-        "instructors": [],
-        "number": "80",
-        "offered": "Not taught 15F through 17S",
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-80"
-    },
-    {
         "course_name": "10 Weeks, 10   Professors #BlackLivesMatter",
         "department": "GEOG",
         "description": "",
@@ -17573,6 +17682,25 @@
         "offered": null,
         "subnumber": "03",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-80-03"
+    },
+    {
+        "course_name": "Visualizing American Cities, Creating \"Modern\" Identities",
+        "department": "GEOG",
+        "description": "This course uses theories and methods of Cultural Geography and Film and Media Studies to study how the American city was shaped by and constituted through an increasingly mobile and enfranchised public since the beginning of the 20th century. In addition, this course examines the literal and figurative constructions of the suburb and home as alternatives to the city's public visibility, and how cultures marginalized by markers of race/ethnicity, class or sexuality negotiated public spaces.",
+        "instructors": [],
+        "number": "80",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Geography/GEOG-80-04"
+    },
+    {
+        "course_name": "Seminar in Geography",
+        "department": "GEOG",
+        "description": "This course focuses on topics in advanced human geography that are not regularly taught as part of the curriculum. Course content will vary and reflect the interests and expertise of the instructor.",
+        "instructors": [],
+        "number": "80",
+        "offered": "Not taught 15F through 17S",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Geography/GEOG-Geography/GEOG-80"
     },
     {
         "course_name": "Field Research in the Czech Republic",
@@ -18297,6 +18425,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Upper-Level-Courses-the-Cross-Subfields/GOVT-20-05"
     },
     {
+        "course_name": "Religion and World Politics",
+        "department": "GOVT",
+        "description": "This course examines the relationship between religious and political change, focusing on Africa, the Middle East, South Asia, and Ireland. Within Africa, we will examine the development of a theology of racial separation, known as apartheid, and its opponents; as well as religious tensions in Nigeria, most notably the challenge of Boko Haram to the cohesion of the Nigerian state. Topics will include theories concerning the clash of civilizations, the rise of fundamentalist political movements, liberation theologies, religion and violence, the relationship of religions to the State, and the religious dimensions of political movements. We will also examine the way in which religious and political perspectives on such issues as gender, sexuality, race, and war reinforce or clash with one another in the public arena of national and/or regional debates.",
+        "instructors": [],
+        "number": "20",
+        "offered": null,
+        "subnumber": "07",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-20-07"
+    },
+    {
         "course_name": "Development in Emerging Economies",
         "department": "GOVT",
         "description": "Countries in developing regions of the world face a number of unique challenges within a globalized economy as their financial and trade links become ever closely intertwined with those of powerful, developed countries that dominate international economic institutions. Drawing on a wide range of case studies, this course investigates some of these new developments in the world economy. What strategies can developing countries adapt in order to develop most efficiently in a global market-oriented economy? How can a country maximize its chances for economic success, and what precisely is the role of international financial and trade institutions in their development? Readings in this course range from theoretical academic writings on development strategies to policy pieces written by local practitioners and by those working for international financial and trade institutions.",
@@ -18613,6 +18751,26 @@
         "offered": "15F: 12",
         "subnumber": "15",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Comparative-Politics/GOVT-40-15"
+    },
+    {
+        "course_name": "Israel and Palestine:  The Media as a Battlefield",
+        "department": "GOVT",
+        "description": "The role of the media in violent conflict situations has become and increasing critical area of study and research over the past generation.\u00a0 The Israeli-Palestine conflict and the role of the media within the conflict will serve as the central focus of the course.\u00a0 Comparing current conflicts to previous wars- including wars such as Korea and Vietnam, Afghanistan, Bosnia, and Chechnya - we find that they relatively limited in scope.\u00a0 Yet, while violent conflicts in almost every part of the world, including Asia, Africa, Europe (the Ukraine and Russia), most of the world's attention focuses on the Middle East.",
+        "instructors": [],
+        "number": "40",
+        "offered": null,
+        "subnumber": "16",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-40-16"
+    },
+    {
+        "course_name": "Jerusalem:  A Political History",
+        "department": "GOVT",
+        "description": "Controversy surrounds the future of Jerusalem - and not just in our times.\u00a0 For more than 3,000 years, ever since Jerusalem first appeared on the stage of history as a Holy City and the City of th Kingdom, it has been envloped in political and theological struggles.\u00a0 Countless battles and wars have been associated with Jerusalem, the city that is home to the three montheistic religions.",
+        "instructors": [],
+        "number": "40",
+        "offered": null,
+        "subnumber": "17",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-40-17"
     },
     {
         "course_name": "Politics of Africa",
@@ -18982,6 +19140,16 @@
         "offered": "Not offered in AY 2015 - 2016.  May be offered in AY 2015 - 2016.",
         "subnumber": "10",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Political-Theory-and-Public-Law/GOVT-60-10"
+    },
+    {
+        "course_name": "Republicanism:  An Alternative",
+        "department": "GOVT",
+        "description": "This course will introduce students to republican political theory. Republicanism is often described as a theory of liberty, and one that contrasts usefully with liberalism. Our goal in this class will be to determine what it means to live in a \u2018republic,\u2019 comparing recent arguments made by neo-republicans like Quentin Skinner and Philip Pettit with the source material upon which they claim to be building. Topics will include: the meaning and importance of liberty relative to other political values, like justice and equality; how republican liberty might be institutionalized; the role played by civic virtue in sustaining free institutions; and \u2018private\u2019 forms of domination, e.g. sexual and family relationships.",
+        "instructors": [],
+        "number": "60",
+        "offered": null,
+        "subnumber": "11",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-60-11"
     },
     {
         "course_name": "Jurisprudence",
@@ -19513,6 +19681,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-84-12"
     },
     {
+        "course_name": "Improving Democracy:  Institutional Innovations and Experiments in Developing Nations",
+        "department": "GOVT",
+        "description": "Representative Democracy is now practiced on most continents and in a wide variety of settings. Yet important challenges limit democratic processes in \u201cnew\u201d or \u201cdeveloping\u201d Democracies in Asia, Africa and beyond: elite influence or capture, lack of inclusiveness, citizen apathy, weak accountability, the (often poor) quality of representatives, lack of transparency etc..... In this class, we will assess these limitations and concretely review the efforts and innovations pushed by international institutions and international donors to attenuate these problems. That is, we will review strategies implemented to decentralize, to increase participatory processes, to increase citizen control of politicians, and to limit the influence of elites. In doing so, we will rely on existing studies and experiments in order to evaluate the extent to which these strategies have led to concrete improvements in the lives of the citizens of these countries, the objective being to expose students to the institutional engineering strategies designed by policy practitioners in international institutions and in the NGO sector.",
+        "instructors": [],
+        "number": "84",
+        "offered": null,
+        "subnumber": "13",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-84-13"
+    },
+    {
         "course_name": "Rebel Governance During the Civil War",
         "department": "GOVT",
         "description": "In this course, we describe, compare and analyze the governments that guerrillas and other rebels create for people living in the territories they control in the midst of civil wars. Why do rebels do it? What kinds of governments do they form? Are these governments different from those run by states recognized in the international system? Since rebels are usually weaker than the states they challenge, why wouldn't they put all their resources into the war? Is ideology important in explaining why rebels form governments and how they shape those governments? Do guerrillas interested in winning the \"hearts and minds\" of local residents set up different sorts of governments than warlords? Do rebels who fight for secession of their region make different types of governments from insurgents who want to take over the state? Can civilians influence the governments that rebels set up?",
@@ -19597,6 +19775,16 @@
         "offered": null,
         "subnumber": "33",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-84-33"
+    },
+    {
+        "course_name": "U.S. Policy in Africa and the Great Challenges Africa Faces in the Future",
+        "department": "GOVT",
+        "description": "This course will provide an in-depth and comprehensive understanding of U.S. foreign policy toward Africa and how it has evolved over the past several decades. The course will also examine emerging political, economic and social trends in Africa that will impact the continent's future. The class will draw on scholarly texts, relating them as appropriate to current events and significant developments across Africa. At the end of the seminar, students should have a solid understanding of the most important issues and conflicts in Africa today, the emerging issues that could threaten Africa's future political stability and economic progress and the key drivers and components of U.S. foreign policy toward Africa. Students should also have a deeper understanding of the political, economic, and strategic significance of Africa's largest and most important states, as well as the significant drivers behind current Chinese, Turkish, Brazilian and Indian policies in Africa.",
+        "instructors": [],
+        "number": "84",
+        "offered": null,
+        "subnumber": "34",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-84-34"
     },
     {
         "course_name": "Diplomacy",
@@ -19767,6 +19955,16 @@
         "offered": "Not offered in AY 2015 - 2016.  May be offered in AY 2016 - 2017.",
         "subnumber": "23",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-85-23"
+    },
+    {
+        "course_name": "National Security Policy and Decision Making",
+        "department": "GOVT",
+        "description": "This course will afford students the opportunity to experience the process of national security policy-making through role-play and intensive interaction mediated by faculty and visitors with extensive White House experience and direct involvement in significant strategic decisions.The course will consist of two parts:\u00a0 The first introduces the students to the national security decision-making process that was instituted under the National Security Act of 1947 and explores its evolution and the varied roles that national security advisors have historically played.\u00a0 Students will also review the major strategic visions that have shaped US national security policy since 1945; untangle the roles and complex interaction of key branches of government, the media, interest groups, multilateral bodies, and non-governmental organizations.The second part will be dedicated to three two-week modules that focus on events or challenges that necessitate National Security Council meetings at various levels in the \u201creal world.\u201d\u00a0 These issues will range from acute crises to chronic problems that might develop into a crisis in some plausible future.\u00a0 The first week of each module will be dedicated to a review and discussion of the literature relating to the specific module\u2019s policy challenge.\u00a0 The second week will be dedicated to simulated NSC staff meetings or meetings of the Deputies or Principals Committee.\u00a0 Over the course of the seminar, students will rotate through the different roles, so that each participant understands how policymakers\u2019 choices tend to be shaped by their institutional role.",
+        "instructors": [],
+        "number": "85",
+        "offered": null,
+        "subnumber": "24",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-85-24"
     },
     {
         "course_name": "International Law",
@@ -25137,6 +25335,16 @@
         "offered": "15W: 12, 16W: Arrange",
         "subnumber": "01",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Mathematics/MATH-Mathematics-Undergraduate/MATH-5-01"
+    },
+    {
+        "course_name": "Fundamental Applied Mathematics for the Sciences",
+        "department": "MATH",
+        "description": "Mathematics is the language of science. However, mathematics preparation for most science students typically involves only the study of calculus at the university level. While many scientific problems involve calculus, two other areas of mathematics are equally (if not more) important: linear algebra and probability. For example, linear algebra is fundamental to stoichiometry and the conservation of matter in chemistry, hydrology and atmospheric dynamics in earth sciences, and cell growth and population dynamics in biology. Moreover, most features of the natural world are probabilistic and frequently best described by probability models, such as the firing of neurons in the brain or the timing of earthquakes. Both are also central to all problems in statistics. This course will explore the application of linear algebra and probability to problems across the sciences. We will cover the basics of solving linear algebra and probability problems as well as formulating simple models to describe and analyze natural phenomena from across the sciences.",
+        "instructors": [],
+        "number": "5",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Mathematics/MATH-5-04"
     },
     {
         "course_name": "First-Year Seminar in Mathematics",
@@ -32164,6 +32372,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Quantitative-Social-Sciences/QSS-30-03"
     },
     {
+        "course_name": "Evolutionary Game Theory and Applications",
+        "department": "QSS",
+        "description": "The course introduces basic concepts in evolutionary game theory, including evolutionarily stable strategies, replicator dynamics, finite populations, and games on networks, along with applications to social evolution, particularly to understanding human cooperation.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Quantitative-Social-Sciences/QSS-30-04"
+    },
+    {
         "course_name": "Topics in Digital History: U.S. History Through Census Data",
         "department": "QSS",
         "description": "This course focuses on using data from historical censuses (1850-2000) to examine U.S. history. We will discuss what the census tells us about the past, the role of the census in policy-making, and the history of the census. The course comprises four units: race, (im)migration, work, and family. For each, you will learn how to find, analyze, and visualize census data using R and how to write about quantitative historical analysis in a digital medium.",
@@ -32774,6 +32992,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Intermediate-Courses/REL-29"
     },
     {
+        "course_name": "Sacred Cities: Jerusalem",
+        "department": "REL",
+        "description": "According to G.A. Smith in hisHistorical Geography of the Holy Land, Jerusalem \u201cstands aloof, waterless, [and] on the road to nowhere.\u201d Yet, despite its geographic, agricultural, and economic limitations, Jerusalem has been transformed into a city of tremendous religious significance. This course will examine the cultural history of Jerusalem over three millennia, primarily as the symbolic focus of three faiths: Judaism, Christianity, and Islam. The course content will focus on the transformation of sacred space as reflected by literary and archaeological evidence by examining the artifacts, architectural monuments, and iconography in relation to written sources. In addition, this course will examine the creation of mythic Jerusalem through event and experience.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "subnumber": "02",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Religion/REL-30-02"
+    },
+    {
         "course_name": "Sacred Cities",
         "department": "REL",
         "description": "This course will explore the ways in which different religious traditions shaped and have been shaped by the sacred cities in which they are established. We will explore the way in which local topography, communities, and tradition shaped the sacred urban landscape and how the local holy places of the city influence the larger religious tradition of which it is a part. Open to all.",
@@ -33287,6 +33515,15 @@
         "number": "67",
         "offered": "Not offered in the period from 15F through 17S",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Intermediate-Courses/REL-67"
+    },
+    {
+        "course_name": "Religion in World Politics",
+        "department": "REL",
+        "description": "Modernization theorists confidently predicted that religion would cease to be a matter of public concern and would become limited to individual and private spheres by the end of the twentieth century. The Iranian Revolution put an end to such speculation. This course examines the relationship between religious pluralism and political affairs in European, African, and Asian nations. Case studies will include Northern Ireland, Nigeria, South Africa, the Middle East, and India.",
+        "instructors": [],
+        "number": "69",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Religion/REL-69"
     },
     {
         "course_name": "Foreign Study in Religion I",
@@ -35718,6 +35955,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-80-10"
     },
     {
+        "course_name": "New Sexual and Social Identity in Film and Literature in Post-Franco Spain",
+        "department": "SPAN",
+        "description": "This course addresses changes in Spanish society since the end of the dictatorship. \u00a0These include new conceptualizations of family, love, eroticism, sexuality, sex (biology) versus gender (culture), masculinity, femininity, perverts, freaks, prostitution, sex-positive movements, pornography, and a reevaluation of morals and Spanish culture.",
+        "instructors": [],
+        "number": "80",
+        "offered": null,
+        "subnumber": "11",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-80-11"
+    },
+    {
         "course_name": "Senior Seminar in Hispanic Studies",
         "department": "SPAN",
         "description": "The senior seminar in Hispanic Studies is designed to provide Spanish majors with a small group setting that facilitates in-depth discussion of key concepts of critical theory, literary studies, and the discipline. The seminar will encourage students to research and explore relevant topics related to Hispanic literature and the arts and experiment with the application of the different concepts under discussion in creative ways (essay writing, visual arts projects, performance pieces, etc).",
@@ -35798,6 +36045,15 @@
         "number": "25",
         "offered": "16S: 10A",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Institute-for-Writing-and-Rhetoric/SPEE-Speech/SPEE-25"
+    },
+    {
+        "course_name": "How New Media Shape Our Lives: Rhetoric, Theory, and Praxis",
+        "department": "SPEE",
+        "description": "This course will investigate commonplace and emerging new media\u2014social networking sites, online virtual worlds, transmedia, and others\u2014through critical reflection on the ways these technologies are shaping and reshaping our lives. We will draw on rhetorical theory to help us understand and analyze these contexts. The course will engage you with new media via projects that invite you to participate in existing contexts, create new ones, and display and create knowledge through speeches and written work.",
+        "instructors": [],
+        "number": "26",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Institute-for-Writing-and-Rhetoric/SPEE-26"
     },
     {
         "course_name": "Intercultural Communication",
@@ -35882,6 +36138,15 @@
         "number": "36",
         "offered": null,
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Institute-for-Writing-and-Rhetoric/SPEE-Speech/SPEE-36"
+    },
+    {
+        "course_name": "Health Communication",
+        "department": "SPEE",
+        "description": "This course is designed to provide a broad introduction to human communication in a health-care context. We will examine basic medical models, the roles of health professionals, patients and caregivers, social and cultural issues, communication in health organizations, and the role of mass media. Emphasis will be on the social analysis of social support, ethics, organizational culture, planning health promotion campaigns, cultural conceptions of health and illness, and social scientific theory.",
+        "instructors": [],
+        "number": "37",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Institute-for-Writing-and-Rhetoric/SPEE-37"
     },
     {
         "course_name": "Resistance To Influence: Inoculation Theory-Based Persuasion",
