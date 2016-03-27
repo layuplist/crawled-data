@@ -504,7 +504,18 @@
         ],
         "number": "81",
         "offered": "Not offered in the period 15F through 16S.",
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81"
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81-01"
+    },
+    {
+        "course_name": "Telling Stories for Social Change",
+        "department": "AAAS",
+        "description": "Our social structure is full of unseen, unspoken, and unheard dynamics that create visible and invisible social walls. Students in this course have the unique opportunity to collaborate with a group of people from behind those social walls from two different perspectives: theoretical and practical. Students study the causes of this invisibility and social isolation (mainly pertaining to incarceration and addiction) by participating in an interdisciplinary arts program with local community members from these invisible populations while at the same time attending discussion-based seminars. This combination of practice and theory asks for students to go beyond a critical reflection on our society by contributing to constructive social actions towards change.",
+        "instructors": [],
+        "number": "81",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/African-and-African-American-Studies/AAAS-81-05"
     },
     {
         "course_name": "The Black Arts Movement",
@@ -517,8 +528,7 @@
         ],
         "number": "81",
         "offered": "Not offered in the period 15F through 16S.",
-        "subnumber": "01",
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81-01"
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81"
     },
     {
         "course_name": "Religion and the Civil Rights Movement",
@@ -719,6 +729,16 @@
         "offered": null,
         "subnumber": "12",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/African-and-African-American-Studies/AAAS-88-12"
+    },
+    {
+        "course_name": "Women Writing Memoir",
+        "department": "AAAS",
+        "description": "This course examines the autobiographical writing of a variety of women from across the globe. Paying attention to the socio-political contexts within which these women write, we will discuss the ways in which these authors negotiate different worlds while being marginalized along vectors such as race, class, and gender. For this reason, the class is inherently interdisciplinary. Most of the works we will examine have achieved significant critical acclaim, and we will also examine the artistic innovations in these narratives. Texts will include works such as Staceyann Chinn\u2019sThe Other Side of Paradise, Jackie Kay\u2019sRed Dust Road,Jeanette Winterson\u2019sWhy Be Happy When You Could Be Normal?, Malala Yousafzai\u2019sI am Malala, Janet Mock\u2019sRedefining Realnessand Marjane Satrapi'sPersepolis.",
+        "instructors": [],
+        "number": "88",
+        "offered": null,
+        "subnumber": "13",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/African-and-African-American-Studies/AAAS-88-13"
     },
     {
         "course_name": "Independent Study in African and African American Studies",
@@ -3540,6 +3560,15 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Art-History/ARTH-Art-History/ARTH-33"
     },
     {
+        "course_name": "Castles, Cloisters, Cathedrals",
+        "department": "ARTH",
+        "description": "This course explores the origins and development of architecture during the Middle Ages (roughly from the fourth to the fifteenth century). While generally arranged chronologically, some classes will focus on themes such as the role of architects and patrons, the influence of pilgrims and monks as well as the cross-cultural impact of Islamic and Byzantine architecture on the buildings of medieval Western Europe. Not only will we explore the people and institutions that commissioned the great buildings of the Middle Ages, but also we will explore how these structures were built. Finally, as an instance of experiential learning, we will take some initial steps toward reconstructing a medieval building on the Dartmouth campus in order to understand the fundamental principles informing medieval buildings.",
+        "instructors": [],
+        "number": "34",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-34"
+    },
+    {
         "course_name": "Islamic Architecture",
         "department": "ARTH",
         "description": "This course examines the architecture of Islamic cultures from the seventh-century rise of the Umayyad dynasty to the modern centers of Dubai and Doha. By studying the historical contexts within which Islamic architecture developed, we will consider major themes, chronological developments and regional variations in both religious and secular architecture. Additionally, by examining instances of cross-cultural influence, we will explore pivotal interactions between Islamic and non-Islamic architectural traditions.",
@@ -3604,6 +3633,15 @@
         "number": "43",
         "offered": "Not offered in the period from 15F through 16S.",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Art-History/ARTH-Art-History/ARTH-43"
+    },
+    {
+        "course_name": "Italian Renaissance Architecture",
+        "department": "ARTH",
+        "description": "This course focuses on buildings constructed in Italy between 1420 and 1580. During this time, the Italian peninsula was a hotbed of revolutionary ideas about how architecture could shape and be shaped by the human will. The Renaissance saw the emergence of a new type of architecture, which took its cue from the needs, activities, and aspirations of people who defined themselves as \u201cmodern.\u201d The chronologically presented material is interspersed with classes dedicated to the broad themes of the course (humanism, the inspirational role of ancient and medieval buildings, living conditions and styles, the rising profession of the architect, etc.). Lectures and readings will focus on the major thinkers, designers, and patrons of the period as well as on the economic, political, and religious forces that were at play in the formation of such ambitious and beautiful buildings.",
+        "instructors": [],
+        "number": "44",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-44"
     },
     {
         "course_name": "Southern Baroque Art",
@@ -7507,6 +7545,33 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/College-Courses/COCO-College-Courses/COCO-15"
     },
     {
+        "course_name": "Audio-Vision: Film, Music, Sound",
+        "department": "COCO",
+        "description": "This interdisciplinary course explores the intersection of Film, Music and Sound, navigating alternatively through the history of film and music from both perspectives, proposing a dual approach to film and music, imaging and sound. The course alternates topics of cinema, music and sound and requires extensive viewing and listening, weekly readings and class discussions.Topics ranging from sound experiments of the early avant-garde, through Visual Music, visual sound, audiovisual arts, experimental audiovisual installations and live arts practices will be studied along classic Hollywood, European and Asian films. Focusing on the connections between filmmakers, composers and artists, while tracing the evolution of audio-vision and its interconnections with music composition and sound innovation. The course structure is a double helix interconnected history of film and modern music from 1895 till today.",
+        "instructors": [],
+        "number": "16",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/College-Courses/COCO-16"
+    },
+    {
+        "course_name": "Electronics for Musicians",
+        "department": "COCO",
+        "description": "From recording performances to synthetisizing sounds, electronics permeate music making. This course introduces students to the technology behind music production. The course will cover analog electronics from microphone to speaker, digital electronics from the acquisition of sounds, their digital processing and their digital synthesis. Labs will situate electronics theory within the practice of music making. The course will conclude with students completing a project in the design of an electronic instrument of their choice.",
+        "instructors": [],
+        "number": "17",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/College-Courses/COCO-17"
+    },
+    {
+        "course_name": "Impact Design: The psychology and design of user experiences that engage, delight, and inform",
+        "department": "COCO",
+        "description": "In this experimental course we examine a new field, Impact Design. We focus on impact from the vantage point of both the user who is being engaged, and the person/team designing the initiative that creates the impact. Students will learn how to combine core principles from human psychology with the tools of design thinking to create meaningful and engaging user experiences. Using techniques from storytelling, observational learning and visualization, students will learn how to create tools and present information in ways that maximize anticipation, engagement and the experience of delight that promotes learning and adoption.",
+        "instructors": [],
+        "number": "18",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/College-Courses/COCO-18"
+    },
+    {
         "course_name": "Cognition",
         "department": "COGS",
         "description": "An introduction to the study of thought, memory, language, and attention from the point of view of information processing.\u00a0\u00a0In surveying research in cognitive psychology, substantial contact is made with related cognitive sciences, such as artificial intelligence, linguistics, neuroscience, and contemporary philosophy.\u00a0 In the course of examining general principles of cognition, the following topics are discussed:\u00a0 mental imagery; concepts; reasonong; discourse, monetary and courtroom decision making; eye-witness testimony; social attribution and sterotyping; language in chimpanzees; expert systems; the relationship between information processing and conscious experience; and the philosophical foundations of cognitive science.",
@@ -7538,6 +7603,15 @@
         "offered": null,
         "subnumber": "02",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Cognitive-Science/COGS-Cognitive-Science/COGS-11-02"
+    },
+    {
+        "course_name": "Introduction to Computational Neuroscience",
+        "department": "COGS",
+        "description": "Your brain is composed of low-precision, slow, sparsely-connected computing elements, yet it outperforms any extant computer on tasks ranging from perception to planning. Computational Neuroscience has as its twin goals the scientific understanding of how brains compute thought, and the engineering capability to reconstruct the identified computations. Topics in the class included anatomical circuit design, physiological operating rules, evolutionary derivation, mathematical analyses, and emergent behavior, as well as development of applications from robotics to medicine.",
+        "instructors": [],
+        "number": "21",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Cognitive-Science/COGS-21"
     },
     {
         "course_name": "Philosophy and Computers",
@@ -7676,6 +7750,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-10-15"
     },
     {
+        "course_name": "Flashes of Recognition in Modernist Literature",
+        "department": "COLT",
+        "description": "Modernist literature is full of sudden moments of insight that transform the way the world is perceived. Such literary epiphanies allow writers to explore the subjective dimensions of consciousness and experiment with new modes of storytelling. The course will explore the question of how to interpret flashes of recognition and consider whether language can adequately represent them. Readings of works by Chekhov, Joyce, Proust, Woolf, Musil, Yeats, Rilke, Kafka, and Beckett.",
+        "instructors": [],
+        "number": "10",
+        "offered": null,
+        "subnumber": "16",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-10-16"
+    },
+    {
         "course_name": "What is Comparative Literature?",
         "department": "COLT",
         "description": "Particular offerings of this course seek to introduce the student to the aims, assumptions and methodologies of reading and the study of literature. This course is designed as an introductory course to the Comparative Literature major and other literature and humanities majors. It is recommended that students complete English/WRIT 5before enrolling in COLT 10.",
@@ -7683,6 +7767,26 @@
         "number": "10",
         "offered": null,
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-10"
+    },
+    {
+        "course_name": "Women\u2019s Literature and Technologies of Transmission from the Long Nineteenth Century to the Present",
+        "department": "COLT",
+        "description": "In this course, we will explore women\u2019s writing and different technologies that transmit those texts from the long nineteenth-century to the present. Our goal is to think about how these works\u2014their genres, forms, circulation, and content\u2014shape impressions of and access to women\u2019s writing. Our analyses will traverse a range of works and media from nineteenth-century poetry and serial novels to contemporary electronic editions.",
+        "instructors": [],
+        "number": "18",
+        "offered": null,
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-18-01"
+    },
+    {
+        "course_name": "The Humanist in the Computer: Making Digital (Con)Texts",
+        "department": "COLT",
+        "description": "This course introduces the emerging field of the Digital Humanities, a discipline and a set of practices that ask how computers reshape the way we study literature and art to better understand what it means to be human. For example, we will learn how to computationally \u201cread\u201d a very large collection of novels, publish electronic texts encoded in XML, write interactive essays in Twine or Inkle, and analyze electronic literature like e-poems and video games.",
+        "instructors": [],
+        "number": "18",
+        "offered": null,
+        "subnumber": "02",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-18-02"
     },
     {
         "course_name": "Literature and Other Media",
@@ -7816,6 +7920,15 @@
         "offered": "Not Offered in the Period 2015-17",
         "subnumber": "03",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-29-03"
+    },
+    {
+        "course_name": "Topics in Translation Studies",
+        "department": "COLT",
+        "description": "Courses under this rubric will explore an aspect of translation theory, often with a hands-on practical component.They may be taken as a follow-on from COLT 19, but can also be taken independently.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-30"
     },
     {
         "course_name": "Topics in Poetry",
@@ -8164,6 +8277,16 @@
         "offered": "Not offered in the period 2015-17",
         "subnumber": "07",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-57-07"
+    },
+    {
+        "course_name": "The Humanities and Human Rights",
+        "department": "COLT",
+        "description": "This course will focus on the deep connections between democracy and the role of the arts in the public sphere. Never has the public sphere been so challenged by the logic of an all-encompassing economic rationale. This course will cross disciplinary boundaries as we read literature with care and learn how to read literarily a wide array of theoretical and filmic texts. Our goal will be to travel from the theoretical to the particular and vice-versa, from the literary and filmic stories to the suprapersonal, to the wider polity and back to the personal, with texts that share a passion for change through recognizing our shared vulnerability and humanity, and bear witness to how the experience of crisis is also a gendered one.",
+        "instructors": [],
+        "number": "57",
+        "offered": null,
+        "subnumber": "08",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-57-08"
     },
     {
         "course_name": "Literature and Music",
@@ -8720,6 +8843,15 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-51"
     },
     {
+        "course_name": "Full-Stack Web Development",
+        "department": "COSC",
+        "description": "The Web is a powerful delivery tool for complex real-time applications.\u00a0 This is an introduction to full stack Web application development \u2014 the approach of integrating numerous techniques and technologies to build modern Web applications.\u00a0 Topics include: static pages, Internet protocols, layout, markup, event-driven asynchronous programming, deployment, security, scalability, and user experience. Projects include building real-time Web applications with front-end UIs and server-side APIs.",
+        "instructors": [],
+        "number": "52",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-52"
+    },
+    {
         "course_name": "Security and Privacy",
         "department": "COSC",
         "description": "The migration of important social processes to distributed, electronic systems raises critical security and privacy issues. Precisely defining security and privacy is difficult; designing and deploying systems that provide these properties is even harder. This course examines what security and privacy mean in these settings, the techniques that might help, and how to use these techniques effectively. Our intention is to equip computer professionals with the breadth of knowledge necessary to navigate this emerging area.",
@@ -8826,6 +8958,15 @@
         "number": "65",
         "offered": "16S: 9L",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-65"
+    },
+    {
+        "course_name": "Introduction to Human-Computer Interaction",
+        "department": "COSC",
+        "description": "This course provides the fundamentals of human-computer interaction, including human factors, usability, user-centered design, prototyping, and usability evaluation. Students will learn the skills and knowledge to identify users\u2019 needs and limitations through observations and interviews. They will experience rapid prototyping and will learn common HCI evaluation techniques, such as qualitative and quantitative methods, to evaluate their designs and implementations. Additionally, students will be exposed to the state-of-the-art research within HCI.",
+        "instructors": [],
+        "number": "67",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-67"
     },
     {
         "course_name": "Risks of the Internet of Things to Society (RIOTS)",
@@ -12908,6 +13049,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-53-35"
     },
     {
+        "course_name": "Shakespeare Adaptations",
+        "department": "ENGL",
+        "description": "What happens when movie writers and directors adapt Shakespeare\u2019s plays for the screen? How does an audience\u2019s awareness of a literary precedent influence reception? What kinds of adaptations do we value and what role does their faithfulness to originals play? This course will look at twelve adaptations of major plays that most consider somewhat radical (e.g.Chicken Rice War;Omkara,Ran,Forbidden Planet,Scotland, P.A.) exploring the conceptual and cinematic strengths of the adaptations, as well as what their attempts to preserve or recast elements of Shakespeare\u2019s plays reveals about the energies of the originals. Each film should thus prove a site of discussion in its own right, as well as an interpretive text that both critiques and argues the merits of the source text. Students can expect to read seven plays and see at least two adaptations of each, writing short responses to each play and film on canvas. Course Group IV",
+        "instructors": [],
+        "number": "54",
+        "offered": null,
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-54-01"
+    },
+    {
         "course_name": "Poetry and Poetic Theory",
         "department": "ENGL",
         "description": "In this course, we will primarily examine theories of poetry, relying mainly on The Norton Anthology of Criticism and Theory and Poetry in Theory, 1900-2000 (Blackwell). These volumes provide a rich, comprehensive overview of poetic theory from its beginnings in Greek antiquity virtually to the present, covering Anglo-American, Continental, and other theorists. No single poetry anthology will be used, but poetic examples will be studied at every stage, generally posted on Blackboard. We will consider the \"philosophy\" of poetic composition in different historical periods and contexts, and will examine the continuing interplay between poetic theory and practice. The point of the course will be to get a grip on ways in which people have thought about poetry from the earliest times to the present, and to consider the sometimes antagonistic interplay between theorizing about poetry and writing it.",
@@ -12992,6 +13143,16 @@
         "offered": "16W:10",
         "subnumber": "14",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-55-14"
+    },
+    {
+        "course_name": "British Fictions of Revolution",
+        "department": "ENGL",
+        "description": "The year 1848 was, for most of Western Europe, a year of revolution. In England, one of the few countries to escape widespread violence, 1848 was a year of rampant publication. The texts published in the UK, ranging from Marx and Engels\u2019The Communist Manifestoto Gothic novels and Pre-Raphaelite poems, do not always seem obviously radical or even similar to one another in theme and mood. Are these texts in fact revolutionary? Are any of the texts politically or socially conservative, or do they represent conservative characters or perspectives? Do they take revolutionary forms or structures? To what extent are the texts participating in the same public sphere and historical moment? In responding to these questions, this colloquium will read literary texts (by Gaskell, Dickens, Emily Bronte, Christina Rossetti, Browning, and Tennyson) alongside artistic and political manifestos, popular political poetry, visual images, scientific and critical prose, and contemporary literary criticism (feminist, Marxist, psychoanalytic, poststructuralist). Students will work toward a substantial research project (12-15 pages) focused on a topic related to the course and of their choosing.",
+        "instructors": [],
+        "number": "62",
+        "offered": null,
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-62-01"
     },
     {
         "course_name": "Jane Austen",
@@ -13280,6 +13441,16 @@
         "offered": null,
         "subnumber": "28",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-V-Senior-Seminars/ENGL73-28"
+    },
+    {
+        "course_name": "Reading Freud",
+        "department": "ENGL",
+        "description": "Why read Freud? Many of his most famous ideas (the Oedipus Complex, for example) have been discredited, disparaged, devalued, decried. So why read Freud? Using that question \u2014 a question that, in its very persistence, already crystalizes all that is most troubling, provocative, and intriguing about the Freudian text \u2014 students in this class will read Freud for his enduring value as the inventor, in psychoanalysis, of one of modernity\u2019s most disturbing art forms, as an influential theorist of figuration and representation, as a fearless inquirer into the mysteries of gender and sexuality, and as a speculative thinker who continues to have a hold on our imagination precisely because he could never quite come to grips with all that had a hold on his imagination. Above all, we shall read Freud for what he has to teach us about the importance of risking failure and embarrassment, of remaining restless and uncertain in respect to one\u2019s own thinking, of finding oneself in over one\u2019s head. The texts we shall use to pursue this line of inquiry may or may not include any of the following:Studies on Hysteria,The Interpretation of Dreams,Three Essays on Sexuality, the case histories of Dora and the Wolf Man,Papers on Metapsychologyand onTechnique,Introductory Lectures on Psychoanalysis,Beyond the Pleasure Principle,Inhibitions, Symptoms and Anxiety,Civilization and Its Discontents, and essays such as \u201cProject for a Scientific Psychology,\u201d \u201cScreen Memories,\u201d \u201cThe Uncanny,\u201d \u201cThe Moses of Michelangelo,\u201d \u201cOn Narcissism,\u201d \u201cTwo Principles of Mental Functioning,\u201d \u201cA Child Is Being Beaten,\u201d \u201cThe Economic Problem of Masochism,\u201d \u201cConstructions in Analysis,\u201d \u201cAnalysis Terminal and Interminable,\u201d and \u201cHumor.\u201d",
+        "instructors": [],
+        "number": "74",
+        "offered": null,
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-74-01"
     },
     {
         "course_name": "High Theory",
@@ -13649,6 +13820,15 @@
         "number": "10",
         "offered": "16X: 10",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Engineering-Sciences/ENGS-Engineering-Sciences-Undergraduate/ENGS-10"
+    },
+    {
+        "course_name": "The Way Things Work: A Visual Introduction to Engineering",
+        "department": "ENGS",
+        "description": "Students will explore and compare engineered solutions to challenges orproblems in the world around them. They will sketch and build models tohelp them understand and communicate. After being exposed to some basicengineering principles they will be asked to further investigate specificchallenges and possible engineering solutions. What is the problem or need?What are some possible engineered solutions? What are the pros and cons ofthe different solutions? How could these solutions be improved? They willcommunicate their findings visually to the class, to the Thayer community,and beyond.",
+        "instructors": [],
+        "number": "11",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Engineering-Sciences/ENGS-11"
     },
     {
         "course_name": "Design Thinking",
@@ -15991,6 +16171,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Film-and-Media-Studies/FILM-Film-and-Media-Studies/FILM-47-20"
     },
     {
+        "course_name": "Visualizing American Cities, Creating Modern Identities",
+        "department": "FILM",
+        "description": "From silent films toMad Men, the American city has been the site through which \u201cmodern\u201d identities have been imagined and created. This course draws on Cultural Geography and Film and Media Studies in order to interrogate this development. Through a variety of readings and screenings of films and TV shows, we will be examining American downtowns, suburbs, and homes as sites for the construction of classed, racialized, sexualized and gendered identities in three different time periods: the early 20th century, the post WWII era, and the contemporary period. We will interrogate such topics as: the real and imagined role of \u201cshopping\u201d women and gender in the shaping of modern downtowns; the relationship between the American suburb, new sexual identities and the filmPillow Talk; and how a particular nostalgia for the past that has led to the popularity of such shows asMad Mencan also be seen on the streets of Hanover (neo-traditional urbanism).",
+        "instructors": [],
+        "number": "47",
+        "offered": null,
+        "subnumber": "21",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Film-and-Media-Studies/FILM-47-21"
+    },
+    {
         "course_name": "The Map",
         "department": "FILM",
         "description": "Maps involve purposeful omission; they require compression; they are subjective in their emphasis and purposeful omission;they require compression;they are subjective in their emphasis and perspective;they are of the imagination and create illusions of space, time, and place. The Map, the group visits map collections, reads critical and historic essays, investigates digital maps and territories, and interviews artists, cartographers, and geographers about their practices. Weekly assignments include several maps per week--fanciful, conceptual, and practical.",
@@ -17694,6 +17884,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Geography/GEOG-80-04"
     },
     {
+        "course_name": "10 Weeks, 10 Professors: #BlackLivesMatter",
+        "department": "GEOG",
+        "description": "This collaboratively taught course seeks toanswer the call of activists around the countryto examine racialization, state violence, andinequality in the context of the#BlackLivesMatter movement. To begin, itoffers a context for the events in Ferguson,Missouri in 2014. Then, it situates thoseevents in a broader history of race and racismin the United States. Finally, the coursehighlights black feminist and queerapproaches to questions of trauma,community, politics, and survival.",
+        "instructors": [],
+        "number": "80",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Geography/GEOG-80-05"
+    },
+    {
         "course_name": "Seminar in Geography",
         "department": "GEOG",
         "description": "This course focuses on topics in advanced human geography that are not regularly taught as part of the curriculum. Course content will vary and reflect the interests and expertise of the instructor.",
@@ -19395,6 +19595,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-81-08"
     },
     {
+        "course_name": "Democracy in Age of Populism",
+        "department": "GOVT",
+        "description": "After the Trump campaign, national electoral politics in the US may never be the same.\u00a0 How should we understand the populist movements currently capturing headlines across the democratic world?\u00a0 Populist movements do not challenge democratic ideology, but they do challenge key democratic institutions, among them political parties and limits on executive power.\u00a0 Do their dynamism and appeal suggest democratic decline or democratic renewal?\u00a0 Could democracy soon be history, or will it rebound from its current difficulties, as it has on many past occasions (e.g. in post-1945 Europe)? \u00a0How have economic change, new technologies, cultural trends, shifts in the international system affected the putative ideational, social, and institutional foundations on which democratic government rests?\u00a0 Can democracy work in the absence of strong, stable parties?\u00a0 How can we think intelligently about democracy's recurrent crises and the enormous challenges of democratization?",
+        "instructors": [],
+        "number": "81",
+        "offered": null,
+        "subnumber": "09",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-81-09"
+    },
+    {
         "course_name": "The Rise and Fall of Great Powers",
         "department": "GOVT",
         "description": "Great powers disproportionately affect the stability and character of world politics. In this course we explore the complex and consequential process that is the rise and fall of great powers. We begin by examining the nature of the international system, the nature of power, and how the anarchic world system encourages countries to behave. We then turn to the process of \u201crising\u201d and study how countries achieve economic growth. We examine what is needed for them to sustain growth over time, as opposed to seeing their growth fizzle, as many fast-growing economies have done. We also look at how countries manage the environmental and human consequences of industrialization. We look at how great powers are able (or not able) to develop and deploy effective military power. Finally we examine the causes and consequences of decline\u2014why great powers fall, and whether the process of decline is expected to be stable or unstable.",
@@ -20123,6 +20333,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-86-04"
     },
     {
+        "course_name": "Utopia and Its Critics",
+        "department": "GOVT",
+        "description": "Utopia is the repository of mankind\u2019s highest moral, social, and political ideals.\u00a0Yet, the utopian politics of the twentieth century, from Hitler\u2019s \u201cThousand Year Reich\u201d to the Soviet \u201cWorkers\u2019 Paradise,\u201d have caused many people to reject utopia as na\u00efve and dangerous. Formerly, the problem was how to achieve utopia; now the problem is how to avoid utopia. In this course, we shall explore the great classic utopias, from Thomas More to Charlotte Perkins Gilman as well as the critique of utopia by Christian, Marxist, and Conservative thinkers. What is the role of utopia in the political imagination today?",
+        "instructors": [],
+        "number": "86",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-86-05"
+    },
+    {
         "course_name": "Morality of Capitalism",
         "department": "GOVT",
         "description": "Is capitalism moral? Do the qualities of character that conduce to success in a capitalist economy also contribute to becoming a good person? Are the goals of a capitalism economy primarily material (the production of wealth), or should capitalist markets also aim to elicit, recognize, and reward admirable qualities of mind and character? Readings will be drawn from the history of moral and political thought, including Machiavelli, Locke, and Smith. Topics will also include contemporary controversies such as commodification and the distribution of income. Assignments will include short papers, presentations, and a long paper. A background in political philosophy (such as Gov 6) will be very helpful.",
@@ -20577,6 +20797,16 @@
         "offered": "15X: Arrange",
         "subnumber": "04",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Classics-Classical-Studies-Greek-Latin/GRK-Greek/GRK-30-04"
+    },
+    {
+        "course_name": "Mythology Seminar",
+        "department": "GRK",
+        "description": "The mythological narratives of the Greeks and Romans can be studied at numerous different levels and by a variety of methods. In this seminar, we consider a series of myths that are of particularly evocative of cultural anxieties concerned with birth, death, and rebirth; gender and sexuality; and personal identity.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/GRK-30-05"
     },
     {
         "course_name": "Independent Reading and Research",
@@ -24137,6 +24367,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Latin-American-Latino-and-Caribbean-Studies/LACS-Latin-American-and-Caribbean-Studies/LACS-50-10"
     },
     {
+        "course_name": "Chronicling Mexico City: Journalism and Social Change",
+        "department": "LACS",
+        "description": "From the 1968 student revolts and the massacre at Tlatelolco to the 2014 gruesome Ayotzinapa student murders; from Subcomandante Marcos\u2019s 1994 caravan from the southern border of the nation to the city center; from the narco wars and contemporary snuff fiction; from the massive anti-MGO corn revolts staged by performance artist Jesusa Rodriguez, Mexico City has changed radically. Over the last four decades Mexico City, has been at the center of global politics anticipating, sometimes by decades, problems that would arise elsewhere. In response to these rapid changes, a new form blending journalism with fiction techniques emerged. This particular blend is called the chronicle \u2013la cr\u00f3nica\u2013 and combines the urgency of daily journalism with the subjective effort of the journalist \u2013el cronista\u2013 to break down stereotypes with the task of describing reality by denouncing social injustice and reductive categories that are limiting to the human experience. Carlos Monsiv\u00e1is, a leading chronicler of the city, famously called this period in the city a transition from the \u201capocalyptic\u201d to the \u201cpostapocalytic.\u201d",
+        "instructors": [],
+        "number": "50",
+        "offered": null,
+        "subnumber": "12",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Latin-American-Latino-and-Caribbean-Studies/LACS-50-12"
+    },
+    {
         "course_name": "Latin American Politics",
         "department": "LACS",
         "description": "This course is an introduction to the political development and the current context of politics in Latin America.\u00a0 It combines examination of the region as a whole with material on the politics of specific countries.\u00a0 The central theme of the course is to evaluate the challenges of establishing democracy in the region.\u00a0 We consider the impact of political culture, populism, economic development, the \u2018curse\u2019 of natural resources, guerrillas and narco-traffickers, and the legacies of military rule and revolutionary regimes on contemporary Latin American politics.",
@@ -24510,6 +24750,16 @@
         "offered": "15X: Arrange",
         "subnumber": "03",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Classics-Classical-Studies-Greek-Latin/LAT-Latin/LAT-30-03"
+    },
+    {
+        "course_name": "Mythology Seminar",
+        "department": "LAT",
+        "description": "The mythological narratives of the Greeks and Romans can be studied at numerous different levels and by a variety of methods. In this seminar, we consider a series of myths that are of particularly evocative of cultural anxieties concerned with birth, death, and rebirth; gender and sexuality; and personal identity.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/LAT-30-04"
     },
     {
         "course_name": "Independent Reading and Research",
@@ -29425,6 +29675,15 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Philosophy/PHIL-Philosophy/PHIL-26"
     },
     {
+        "course_name": "Philosophy of Science",
+        "department": "PHIL",
+        "description": "In this course students examine the history, practices, methods and assumptions of the natural and social sciences. Topics may include:\u00a0 the objects and methods of scientific inquiry; causation and explanation; the structure and function of laws and theories; the role of mathematics and models in science; scientific representation; induction and probability; scientific revolutions; the intersections of science and value; and the sociology of science.",
+        "instructors": [],
+        "number": "27",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Philosophy/PHIL-27"
+    },
+    {
         "course_name": "Heidegger's Being and Time",
         "department": "PHIL",
         "description": "This course will focus on Heidegger\u2019s Being and Time. Topics to be discussed include: the foundations of metaphysics, knowing-how vs. knowing-that, agency, practical reason, social identity, social ontology, philosophical methodology, and the phenomenology of everyday experience.",
@@ -31231,15 +31490,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-50-10"
     },
     {
-        "course_name": "Issues in Information Processing",
-        "department": "PSYC",
-        "description": "Courses with this number consider topics from the areas of perception, memory, cognition, and quantitative models from the point of view of information processing. Material is treated at an intermediate level on a set of issues not covered in Psychology 21 and 28. Selection of issues is left to the discretion of the instructor, but specific emphasis is given to methodology. Enrollment limited to 35 students.",
-        "instructors": [],
-        "number": "51",
-        "offered": null,
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-51"
-    },
-    {
         "course_name": "The Neuroscience of the mind-body problem",
         "department": "PSYC",
         "description": "Neuroscience has learned a great deal about how neurons function, and Psychologists have learned a lot about the contents and processes of the mind. But we lack a deep understanding of the bridge that must link these two sides of the \"mind-body\" problem. We do not yet fully understand (1) how information is processed, transformed and communicated by neurons, (2) how consciousness can be realized in physical neuronal activity, or (3) how mental events realized in physical brain events can be causal of subsequent mental and physical events. This course will focus on what is known about the neural code and the neural bases of consciousness, mental causation and free will and what is not yet understood. We will focus on reading original research articles and chapters from books that attempt to get at these deep and challenging conceptual and empirical issues.\u00a0 A particular focus will be the relationship of attentional processing to consciousness, and its neural bases. Students will be expected to write up critiques of readings, and present on topics of common interest.",
@@ -31355,6 +31605,25 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-51-09"
     },
     {
+        "course_name": "Perceptual Learning and Skill Acquisition",
+        "department": "PSYC",
+        "description": "Sensory systems represent an essential interface between the organism and its environment. Throughout life the organism continuously interacts with stimuli, objects and environments and this interaction has a long-lasting effect on its central nervous system. The neuroscience of learning and memory attempts to explain how the nervous system adapts to new environments and learns through repeated practice. This course will introduce concepts in neuroscience required to understand the changes that occur in biological nervous systems when an organism is repeatedly exposed to a particular stimulus configuration.",
+        "instructors": [],
+        "number": "51",
+        "offered": null,
+        "subnumber": "10",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Psychological-and-Brain-Sciences/PSYC-51-10"
+    },
+    {
+        "course_name": "Issues in Information Processing",
+        "department": "PSYC",
+        "description": "Courses with this number consider topics from the areas of perception, memory, cognition, and quantitative models from the point of view of information processing. Material is treated at an intermediate level on a set of issues not covered in Psychology 21 and 28. Selection of issues is left to the discretion of the instructor, but specific emphasis is given to methodology. Enrollment limited to 35 students.",
+        "instructors": [],
+        "number": "51",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-51"
+    },
+    {
         "course_name": "Issues in Learning and Development",
         "department": "PSYC",
         "description": "Courses with this number consider several important sub-fields of learning and psychological development. Material is treated at an intermediate level on a set of issues not covered in Psychology 22 and 25. Selection of issues is left to the discretion of the instructor, but they will be selected with emphasis upon the psychological principles emerging from the study of humans and animals in the context of learning, early experience, and maturations. Enrollment limited to 35 students.",
@@ -31448,6 +31717,16 @@
         "offered": "16S: 10A",
         "subnumber": "03",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-54-03"
+    },
+    {
+        "course_name": "Neuromarketing and Consumer Neuroscience",
+        "department": "PSYC",
+        "description": "How do measures of the brain and body\u00a0map onto a brand\u00a0marketer\u2019s return on a research investment? This course focuses on the history and topics related to the nascent, yet burgeoning, cross-disciplinary field of consumer neuroscience and new technological advances in marketing related to neuromarketing. The course will provide a unique vantage on the multiple academic and applied histories of the field, its ethical ramifications, along with general perspectives focusing on current practices and potential future directions, including the implications of predicting mass consumer behavior from small test samples. Students will have the opportunity to engage with some of the most notable academic and practitioners in the field and will participate in a capstone project of original research applying theory and utilizing psycho physiological tools applied in real-world neuromarketing research.",
+        "instructors": [],
+        "number": "54",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Psychological-and-Brain-Sciences/PSYC-54-05"
     },
     {
         "course_name": "An Introduction to Pscyhological Assessment",
@@ -31634,6 +31913,16 @@
         "offered": "15F:  10A",
         "subnumber": "03",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-86-03"
+    },
+    {
+        "course_name": "Advanced Neuroscience Seminar and Annual Meeting: Topics on the cutting edge in neuroscience",
+        "department": "PSYC",
+        "description": "This seminar will explore topics and issues that are on the cutting edge of neuroscience. Topics will be selected from among those that are the subject of special lectures, panels, and keynote addresses scheduled for the upcoming Annual Meeting of the Society for Neuroscience (November 12-16 in San Diego, CA).\u00a0 During each class meeting, we will read and discuss several articles on one of the topics.\u00a0 By November 12 we will be intimately familiar with the content of the scheduled presentations.\u00a0 We will then travel to the Annual Meeting in San Diego and attend these presentations.",
+        "instructors": [],
+        "number": "86",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Psychological-and-Brain-Sciences/PSYC-86-04"
     },
     {
         "course_name": "Nature and Nurture",
@@ -33603,15 +33892,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Intermediate-Courses/REL-74"
     },
     {
-        "course_name": "Seminars",
-        "department": "REL",
-        "description": "The contents of this course will vary from term to term, see individual topic descriptions.",
-        "instructors": [],
-        "number": "80",
-        "offered": null,
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Advanced-Courses/REL-80"
-    },
-    {
         "course_name": "Prophetism in the Black World",
         "department": "REL",
         "description": "This seminar utilizes interdisciplinary perspectives to examine the relatively widespread phenomena of prophetism in the black world. By utilizing historical. anthropological, and comparative religious perspectives, the seminar will explore the lives and prophetic careers of people who claimed direct revelation from the supreme being or lesser spirits in indigenous African religions, Islam, and African and African American Christianity. We will examine such movements before the European occupation of most of Africa as well as the colonial and post-colonial eras. We will also examine African American movements from the period of slavery and from the twentieth century. Topics will include women's prophetic movements, religious critiques of underdevelopment, the process of inculturation of Islam and Christianity, and the role of religion in Resistance to foreign or domestic domination.",
@@ -33648,6 +33928,25 @@
         "offered": "16S: 2A",
         "subnumber": "06",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Advanced-Courses/REL-80-06"
+    },
+    {
+        "course_name": "Religion and Health",
+        "department": "REL",
+        "description": "This seminar explores topics related to religion and health, science and the sacred, spirituality and compassionate care. We begin with common readings on four themes, then develop specialized bibliographies aimed at exploring each student\u2019s interests. During the remainder of the term, students will report on their specialized reading and will devise a focus for a final extensive research paper. Students are urged to bring their own religious perspectives\u2014including atheism\u2014to their reading list and final project.",
+        "instructors": [],
+        "number": "80",
+        "offered": null,
+        "subnumber": "07",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Religion/REL-80-07"
+    },
+    {
+        "course_name": "Seminars",
+        "department": "REL",
+        "description": "The contents of this course will vary from term to term, see individual topic descriptions.",
+        "instructors": [],
+        "number": "80",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Advanced-Courses/REL-80"
     },
     {
         "course_name": "Dickinson Distinguished Scholar Seminar",
@@ -35117,6 +35416,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Sociology/SOCY-49-22"
     },
     {
+        "course_name": "Critical Political Economy",
+        "department": "SOCY",
+        "description": "Political economy was formulated as a central field of research since the 19th century, designed to comprehend both fields - politics and economics - and how they interact, at the local, regional and global level. Since the 2008 financial crisis it became a very popular field of research, highlighting varied and opposed theoretical approaches. The course will focus on critical perspectives to political economy, including a. class conflict, race and ethnic relations and the world system; b. state institutions and their relation to civil society, capital and labor organizations; and c. late developments of the neoliberal economy, the social and economic implications of inequality, and global protests of the 99%.",
+        "instructors": [],
+        "number": "49",
+        "offered": null,
+        "subnumber": "23",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Sociology/SOCY-49-23"
+    },
+    {
         "course_name": "Lower Division Special Topics Courses",
         "department": "SOCY",
         "description": "",
@@ -35311,6 +35620,16 @@
         "number": "70",
         "offered": "Not offered in the period from 15F to 17S.",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-70"
+    },
+    {
+        "course_name": "Global Inequality Protests",
+        "department": "SOCY",
+        "description": "Three years after the 2008 financial crisis a protest movement sparked in Tunisia, and expanded by contagion to Egypt, Morocco and India, and from there to Spain, Chile, Israel, and finally arrived to Wall Street, giving the name to the global movement as the Occupy social movement. These cases largely differ from one another, but have in common their opposition to inequality and readiness to struggle against it. The course will focus on the comparison of protest movements and the political processes each case provoked, using theories of social movements and political sociology, and analyzing the economic, social and political context before the protests sparked and the after movements' peaks. We will analyze and discuss in class the Occupy Wall Street movement and the political process it provoked in the US. Each student will chose an international case for comparison, presenting it in class and writing a research paper of their own as a final essay. Students will work in teams of two for their presentations and final research paper.",
+        "instructors": [],
+        "number": "79",
+        "offered": null,
+        "subnumber": "09",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Sociology/SOCY-79-09"
     },
     {
         "course_name": "Upper Division Special Topics Courses",
@@ -35725,9 +36044,19 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-45-01"
     },
     {
-        "course_name": "Machos &amp; Malinches",
+        "course_name": "Diaspora and Economic Imaginaries in Hispanic Caribbean Literature",
         "department": "SPAN",
-        "description": "The objectives of this course are to examine how gender and sexuality align with or contest local discourses on Latino/a American cultural autochthony and national identity, and to explore gender and sexuality in the context of global culture and transnationalism. Along with primary literary texts, film, art, and music, students will engage with scholarly readings that contextualize historical, cultural, and linguistic traditions and scrutinize the political implications of oppositional discourses on gender and sexuality.",
+        "description": "This course will explore how colonialism, slavery, migration, and exile have influenced the way Cubans, Dominicans, and Puerto Ricans imagine themselves as social agents who have or lack the ability to change their economic conditions. Students will gain an understanding of the economic theories that find their articulation in fiction, theater, and film through the representation of lived experience, cultural contact and conflict, and political and social movements. Readings will be in both Spanish and English, while class discussions and written assignments will be conducted in Spanish.",
+        "instructors": [],
+        "number": "45",
+        "offered": null,
+        "subnumber": "02",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-45-02"
+    },
+    {
+        "course_name": "Politics of Masculinity: Latin American Narrative, Film, and Politics.",
+        "department": "SPAN",
+        "description": "This course explores the fictions of gender that found national identities, postcolonial dreams of liberation, and dissident movements. We will study complex representations of masculinity in Latin American fiction, film, and political discourse in order to understand how certain ideas about masculinity subtend concepts of political legitimacy, and how some experimental texts critique those ideas. Readings include novels, short stories, films, and political claims as well as sociological, psychoanalytic, and feminist theories of masculinity.",
         "instructors": [],
         "number": "50",
         "offered": null,
@@ -35761,6 +36090,16 @@
         "offered": "15F: 12",
         "subnumber": "05",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-Spanish/SPAN-55-05"
+    },
+    {
+        "course_name": "Slaughterhouses. The Life and Death of Humans and Animals in the Southern Cone",
+        "department": "SPAN",
+        "description": "This course focuses on the slaughterhouse as an image that has haunted Latin American cultures for centuries, especially in the Southern Cone region. The image of the slaughterhouse for a society can be used to define, contrast, compare or put into question our own subjectivity for it highlights the flesh and blood that go into human labor At the same time, the image of the slaughterhouse denounces the abusive nature of power, a regulating force applied to bodies, both human and non-human. Using the image of the slaughterhouse in texts and images spanning 250 years of Southern cone history, we will explore various issues and debates within animal studies, from animal rights and biopolitics to modernization of killing, exploitation of bodies and zones of indetermination between animals and humans. Texts and images include: Echeverr\u00eda, Lamborghini, Vi\u00f1as, Walsh, Larra, Kohan, Busqued, Solanas, Sanjines, Foucault, Deleuze, Agamben and Giorgi.",
+        "instructors": [],
+        "number": "55",
+        "offered": null,
+        "subnumber": "06",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-55-06"
     },
     {
         "course_name": "Race and Ethnicity in Hispanic Studies",
@@ -35874,6 +36213,26 @@
         "offered": null,
         "subnumber": "04",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-73-04"
+    },
+    {
+        "course_name": "Utopia is Alive and Kicking",
+        "department": "SPAN",
+        "description": "The question is: where and how do we find it? During the 20th century, the utopian literary narrative field appeared to be dominated by dystopias. With growing skepticism, there was talk of the death of utopias\u2026 just as there was talk of the death of the novel. Undaunted and unfazed by such apocalyptic talk, this course will track down and explore the utopian in its multiple forms and manifestations. We will take as a theoretical point of departure Ernst Bloch\u2019s fundamental distinction between classic narrative utopian paradigms such as More\u2019s Utopia and the ever changing field of the utopian and its multiple manifestations \u2014Bloch\u2019s electricity\u2014as we map out the creative movement of utopian thought. Beginning with the Avant-garde movements we will discuss new utopian paradigms as they intersect with artistic, literary and political discourses, exploring and displaying new visions of a better world for a better humankind. Materials will include Julio Cort\u00e1zar\u2019s Hopscotch, Fern\u00e1ndez Mallo\u2019s Nocilla trilogy as well as avant-garde painting, surrealist writings, experimental novels, political manifestoes, technological game changers and a fascinating journey into the new alternative utopian spaces opened up by a new frontier: the internet",
+        "instructors": [],
+        "number": "73",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-73-05"
+    },
+    {
+        "course_name": "Borges. An Introduction",
+        "department": "SPAN",
+        "description": "30 years after his death in 1986, Argentine writer Jorge Luis Borges remains one of the giants of\u00a0twentieth-century literature. More troubling for his critics, he is also one of the last century\u2019s most potent literary myths. Like other \u201cmodernists\u201d (Beckett, Kafka, Joyce, Proust), he has a reputation for obscurity and difficulty, yet despite this his work permeates our culture in unique ways. The word \u201cBorgesian\u201d resonates even amongst those who know little Borges. This course sets out to help the student to think critically about Borges and his major works and themes: the mystery of time and self and memory, the extreme idealist notion that life is a dream (and the various other metaphysical puzzles and paradoxes for which he had an apparently inexhaustible fondness), the monstrous multiplication of words and worlds, the celebration of disinterested physical courage, types of treachery, what he called his \u201challmarks\u2014Buenos Aires, ancestor worship, old Germanic tongues\u201d\u2014and those obsessive and ubiquitous images of mirrors, swords, labyrinths, and tigers \u201cthat the resigned reader has already reckoned on.\u201d",
+        "instructors": [],
+        "number": "73",
+        "offered": null,
+        "subnumber": "06",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-73-06"
     },
     {
         "course_name": "Special Topics in Hispanic Literary and Cultural Production",
@@ -36253,6 +36612,16 @@
         "offered": null,
         "subnumber": "13",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Theater/THEA-Theater/THEA-10-13"
+    },
+    {
+        "course_name": "Voices:Perform Activism",
+        "department": "THEA",
+        "description": "In this course we will examine the intersection of activism and performance in the Americas. \u201cPerformance\u201d will refer to a wide range of embodied artistic practices from street theater, community-based theater, site-specific performance art, interventionist art, Hip Hop, and muralism. We will study the ways in which performance has been used as a forum that not only raises political, social, and cultural consciousness, but also interrupts daily life and rehearses notions of community in the 20th and 21st centuries. Theoretical articles on performance and activism will serve to complement the varied modes of performance studied and explicate how they have sparked civic dialogue and social change. We will pay special attention to the ways Latin American and Latino activist practitioners have engaged civil society as well as government and corporate structures through their praxis. Throughout the term, we will revisit the questions: why be an activist, where, how and when; and how can performance be placed at the service of activism. Class discussions and activities will underscore the critical interconnection between theory and practice (praxis). In addition to studying the power of performance as a tool for activism students will have the opportunity to experience hands-on performance techniques that can be used to engage social and political issues of concern to the class. Working in groups, students will take a stance on one of these issues before creating a public intervention.\u00a0These interventions might draw from street/guerilla theater, installation art, invisible theater, performance art, dance, protest poetry, photography, muralism, or digitally mediated performance. This course is open to all students with or without experience in theater. Dist. ART. A'Ness and Hernandez.",
+        "instructors": [],
+        "number": "10",
+        "offered": null,
+        "subnumber": "23",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Theater/THEA-10-23"
     },
     {
         "course_name": "Theatre and Society I: Classical and Medieval Performance",
@@ -37493,6 +37862,16 @@
         "offered": "Not offered in the period 15F to 17S",
         "subnumber": "03",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGST-67-03"
+    },
+    {
+        "course_name": "Humanities and Human Rights: Thoughts on Community",
+        "department": "WGSS",
+        "description": "This course will focus on the deep connections between democracy and the role of the arts in the public sphere.\u00a0 We will focus on the work of artists who deem that the role of their creations is to generate dialogue around issues of social justice. We will study the work of writers,\u00a0 filmmakers, documentarians, photographers, and poets, individuals, who make \"energy\" (intellectual energy) usable in different places and contexts.\u00a0 This course will cross disciplinary boundaries and follow the \"comparative method\" scrupulously.\u00a0 We will be reading literature with care and learning how to read literarily\u2014with intensive textual scrutiny, defiance, and metatheoretical awareness\u2014a wide array of theoretical, visual and filmic texts.",
+        "instructors": [],
+        "number": "67",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Womens-Gender-and-Sexuality-Studies/WGSS-67-04"
     },
     {
         "course_name": "Seminar in Women's, Gender, and Sexuality Studies",

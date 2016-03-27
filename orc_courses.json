@@ -236,14 +236,21 @@
     "course_name": "The Black Arts Movement",
     "department": "AAAS",
     "number": "81",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81"
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81-01"
+  },
+  {
+    "course_name": "Telling Stories for Social Change",
+    "department": "AAAS",
+    "number": "81",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/African-and-African-American-Studies/AAAS-81-05"
   },
   {
     "course_name": "The Black Arts Movement",
     "department": "AAAS",
     "number": "81",
-    "subnumber": "01",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81-01"
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/African-and-African-American-Studies/AAAS-African-and-African-American-Studies/AAAS-81"
   },
   {
     "course_name": "Religion and the Civil Rights Movement",
@@ -356,6 +363,13 @@
     "number": "88",
     "subnumber": "12",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/African-and-African-American-Studies/AAAS-88-12"
+  },
+  {
+    "course_name": "Women Writing Memoir",
+    "department": "AAAS",
+    "number": "88",
+    "subnumber": "13",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/African-and-African-American-Studies/AAAS-88-13"
   },
   {
     "course_name": "Independent Study in African and African American Studies",
@@ -1811,6 +1825,12 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Art-History/ARTH-Art-History/ARTH-33"
   },
   {
+    "course_name": "Castles, Cloisters, Cathedrals",
+    "department": "ARTH",
+    "number": "34",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-34"
+  },
+  {
     "course_name": "Islamic Architecture",
     "department": "ARTH",
     "number": "35",
@@ -1845,6 +1865,12 @@
     "department": "ARTH",
     "number": "43",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Art-History/ARTH-Art-History/ARTH-43"
+  },
+  {
+    "course_name": "Italian Renaissance Architecture",
+    "department": "ARTH",
+    "number": "44",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Art-History/ARTH-44"
   },
   {
     "course_name": "Southern Baroque Art",
@@ -3710,6 +3736,24 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/College-Courses/COCO-College-Courses/COCO-15"
   },
   {
+    "course_name": "Audio-Vision: Film, Music, Sound",
+    "department": "COCO",
+    "number": "16",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/College-Courses/COCO-16"
+  },
+  {
+    "course_name": "Electronics for Musicians",
+    "department": "COCO",
+    "number": "17",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/College-Courses/COCO-17"
+  },
+  {
+    "course_name": "Impact Design: The psychology and design of user experiences that engage, delight, and inform",
+    "department": "COCO",
+    "number": "18",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/College-Courses/COCO-18"
+  },
+  {
     "course_name": "Cognition",
     "department": "COGS",
     "number": "2",
@@ -3728,6 +3772,12 @@
     "number": "11",
     "subnumber": "02",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Cognitive-Science/COGS-Cognitive-Science/COGS-11-02"
+  },
+  {
+    "course_name": "Introduction to Computational Neuroscience",
+    "department": "COGS",
+    "number": "21",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Cognitive-Science/COGS-21"
   },
   {
     "course_name": "Philosophy and Computers",
@@ -3807,10 +3857,31 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-10-15"
   },
   {
+    "course_name": "Flashes of Recognition in Modernist Literature",
+    "department": "COLT",
+    "number": "10",
+    "subnumber": "16",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-10-16"
+  },
+  {
     "course_name": "What is Comparative Literature?",
     "department": "COLT",
     "number": "10",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-10"
+  },
+  {
+    "course_name": "Women’s Literature and Technologies of Transmission from the Long Nineteenth Century to the Present",
+    "department": "COLT",
+    "number": "18",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-18-01"
+  },
+  {
+    "course_name": "The Humanist in the Computer: Making Digital (Con)Texts",
+    "department": "COLT",
+    "number": "18",
+    "subnumber": "02",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-18-02"
   },
   {
     "course_name": "Literature and Other Media",
@@ -3898,6 +3969,12 @@
     "number": "29",
     "subnumber": "03",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-29-03"
+  },
+  {
+    "course_name": "Topics in Translation Studies",
+    "department": "COLT",
+    "number": "30",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-30"
   },
   {
     "course_name": "Topics in Poetry",
@@ -4111,6 +4188,13 @@
     "number": "57",
     "subnumber": "07",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-57-07"
+  },
+  {
+    "course_name": "The Humanities and Human Rights",
+    "department": "COLT",
+    "number": "57",
+    "subnumber": "08",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Comparative-Literature/COLT-57-08"
   },
   {
     "course_name": "Literature and Music",
@@ -4393,6 +4477,12 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-51"
   },
   {
+    "course_name": "Full-Stack Web Development",
+    "department": "COSC",
+    "number": "52",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-52"
+  },
+  {
     "course_name": "Security and Privacy",
     "department": "COSC",
     "number": "55",
@@ -4445,6 +4535,12 @@
     "department": "COSC",
     "number": "65",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-65"
+  },
+  {
+    "course_name": "Introduction to Human-Computer Interaction",
+    "department": "COSC",
+    "number": "67",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Computer-Science/COSC-67"
   },
   {
     "course_name": "Risks of the Internet of Things to Society (RIOTS)",
@@ -6420,6 +6516,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-53-35"
   },
   {
+    "course_name": "Shakespeare Adaptations",
+    "department": "ENGL",
+    "number": "54",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-54-01"
+  },
+  {
     "course_name": "Poetry and Poetic Theory",
     "department": "ENGL",
     "number": "54",
@@ -6467,6 +6570,13 @@
     "number": "55",
     "subnumber": "14",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-55-14"
+  },
+  {
+    "course_name": "British Fictions of Revolution",
+    "department": "ENGL",
+    "number": "62",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-62-01"
   },
   {
     "course_name": "Jane Austen",
@@ -6621,6 +6731,13 @@
     "number": "73",
     "subnumber": "28",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-V-Senior-Seminars/ENGL73-28"
+  },
+  {
+    "course_name": "Reading Freud",
+    "department": "ENGL",
+    "number": "74",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/English/ENGL-74-01"
   },
   {
     "course_name": "High Theory",
@@ -6785,6 +6902,12 @@
     "department": "ENGS",
     "number": "10",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Engineering-Sciences/ENGS-Engineering-Sciences-Undergraduate/ENGS-10"
+  },
+  {
+    "course_name": "The Way Things Work: A Visual Introduction to Engineering",
+    "department": "ENGS",
+    "number": "11",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Engineering-Sciences/ENGS-11"
   },
   {
     "course_name": "Design Thinking",
@@ -7915,6 +8038,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Film-and-Media-Studies/FILM-Film-and-Media-Studies/FILM-47-20"
   },
   {
+    "course_name": "Visualizing American Cities, Creating Modern Identities",
+    "department": "FILM",
+    "number": "47",
+    "subnumber": "21",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Film-and-Media-Studies/FILM-47-21"
+  },
+  {
     "course_name": "The Map",
     "department": "FILM",
     "number": "48",
@@ -8786,6 +8916,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Geography/GEOG-80-04"
   },
   {
+    "course_name": "10 Weeks, 10 Professors: #BlackLivesMatter",
+    "department": "GEOG",
+    "number": "80",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Geography/GEOG-80-05"
+  },
+  {
     "course_name": "Seminar in Geography",
     "department": "GEOG",
     "number": "80",
@@ -9618,6 +9755,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-81-08"
   },
   {
+    "course_name": "Democracy in Age of Populism",
+    "department": "GOVT",
+    "number": "81",
+    "subnumber": "09",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-81-09"
+  },
+  {
     "course_name": "The Rise and Fall of Great Powers",
     "department": "GOVT",
     "number": "81",
@@ -10010,6 +10154,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-86-04"
   },
   {
+    "course_name": "Utopia and Its Critics",
+    "department": "GOVT",
+    "number": "86",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Government/GOVT-86-05"
+  },
+  {
     "course_name": "Morality of Capitalism",
     "department": "GOVT",
     "number": "86",
@@ -10229,6 +10380,13 @@
     "number": "30",
     "subnumber": "04",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Classics-Classical-Studies-Greek-Latin/GRK-Greek/GRK-30-04"
+  },
+  {
+    "course_name": "Mythology Seminar",
+    "department": "GRK",
+    "number": "30",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/GRK-30-05"
   },
   {
     "course_name": "Independent Reading and Research",
@@ -12102,6 +12260,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Latin-American-Latino-and-Caribbean-Studies/LACS-Latin-American-and-Caribbean-Studies/LACS-50-10"
   },
   {
+    "course_name": "Chronicling Mexico City: Journalism and Social Change",
+    "department": "LACS",
+    "number": "50",
+    "subnumber": "12",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Latin-American-Latino-and-Caribbean-Studies/LACS-50-12"
+  },
+  {
     "course_name": "Latin American Politics",
     "department": "LACS",
     "number": "51",
@@ -12265,6 +12430,13 @@
     "number": "30",
     "subnumber": "03",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Classics-Classical-Studies-Greek-Latin/LAT-Latin/LAT-30-03"
+  },
+  {
+    "course_name": "Mythology Seminar",
+    "department": "LAT",
+    "number": "30",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Classics-Classical-Studies-Greek-Latin/LAT-30-04"
   },
   {
     "course_name": "Independent Reading and Research",
@@ -14803,6 +14975,12 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Philosophy/PHIL-Philosophy/PHIL-26"
   },
   {
+    "course_name": "Philosophy of Science",
+    "department": "PHIL",
+    "number": "27",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Philosophy/PHIL-27"
+  },
+  {
     "course_name": "Heidegger's Being and Time",
     "department": "PHIL",
     "number": "28",
@@ -15753,12 +15931,6 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-50-10"
   },
   {
-    "course_name": "Issues in Information Processing",
-    "department": "PSYC",
-    "number": "51",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-51"
-  },
-  {
     "course_name": "The Neuroscience of the mind-body problem",
     "department": "PSYC",
     "number": "51",
@@ -15815,6 +15987,19 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-51-09"
   },
   {
+    "course_name": "Perceptual Learning and Skill Acquisition",
+    "department": "PSYC",
+    "number": "51",
+    "subnumber": "10",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Psychological-and-Brain-Sciences/PSYC-51-10"
+  },
+  {
+    "course_name": "Issues in Information Processing",
+    "department": "PSYC",
+    "number": "51",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-51"
+  },
+  {
     "course_name": "Issues in Learning and Development",
     "department": "PSYC",
     "number": "52",
@@ -15868,6 +16053,13 @@
     "number": "54",
     "subnumber": "03",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-54-03"
+  },
+  {
+    "course_name": "Neuromarketing and Consumer Neuroscience",
+    "department": "PSYC",
+    "number": "54",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Psychological-and-Brain-Sciences/PSYC-54-05"
   },
   {
     "course_name": "An Introduction to Pscyhological Assessment",
@@ -15962,6 +16154,13 @@
     "number": "86",
     "subnumber": "03",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Psychological-and-Brain-Sciences/PSYC-Psychological-and-Brain-Sciences/PSYC-86-03"
+  },
+  {
+    "course_name": "Advanced Neuroscience Seminar and Annual Meeting: Topics on the cutting edge in neuroscience",
+    "department": "PSYC",
+    "number": "86",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Psychological-and-Brain-Sciences/PSYC-86-04"
   },
   {
     "course_name": "Nature and Nurture",
@@ -16979,12 +17178,6 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Intermediate-Courses/REL-74"
   },
   {
-    "course_name": "Seminars",
-    "department": "REL",
-    "number": "80",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Advanced-Courses/REL-80"
-  },
-  {
     "course_name": "Prophetism in the Black World",
     "department": "REL",
     "number": "80",
@@ -17004,6 +17197,19 @@
     "number": "80",
     "subnumber": "06",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Advanced-Courses/REL-80-06"
+  },
+  {
+    "course_name": "Religion and Health",
+    "department": "REL",
+    "number": "80",
+    "subnumber": "07",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Religion/REL-80-07"
+  },
+  {
+    "course_name": "Seminars",
+    "department": "REL",
+    "number": "80",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Religion/REL-Religion/Advanced-Courses/REL-80"
   },
   {
     "course_name": "Dickinson Distinguished Scholar Seminar",
@@ -17690,6 +17896,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Sociology/SOCY-49-22"
   },
   {
+    "course_name": "Critical Political Economy",
+    "department": "SOCY",
+    "number": "49",
+    "subnumber": "23",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Sociology/SOCY-49-23"
+  },
+  {
     "course_name": "Lower Division Special Topics Courses",
     "department": "SOCY",
     "number": "49",
@@ -17784,6 +17997,13 @@
     "department": "SOCY",
     "number": "70",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-70"
+  },
+  {
+    "course_name": "Global Inequality Protests",
+    "department": "SOCY",
+    "number": "79",
+    "subnumber": "09",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Sociology/SOCY-79-09"
   },
   {
     "course_name": "Upper Division Special Topics Courses",
@@ -17962,7 +18182,14 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-45-01"
   },
   {
-    "course_name": "Machos &amp; Malinches",
+    "course_name": "Diaspora and Economic Imaginaries in Hispanic Caribbean Literature",
+    "department": "SPAN",
+    "number": "45",
+    "subnumber": "02",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-45-02"
+  },
+  {
+    "course_name": "Politics of Masculinity: Latin American Narrative, Film, and Politics.",
     "department": "SPAN",
     "number": "50",
     "subnumber": "03",
@@ -17981,6 +18208,13 @@
     "number": "55",
     "subnumber": "05",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-Spanish/SPAN-55-05"
+  },
+  {
+    "course_name": "Slaughterhouses. The Life and Death of Humans and Animals in the Southern Cone",
+    "department": "SPAN",
+    "number": "55",
+    "subnumber": "06",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-55-06"
   },
   {
     "course_name": "Race and Ethnicity in Hispanic Studies",
@@ -18053,6 +18287,20 @@
     "number": "73",
     "subnumber": "04",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-73-04"
+  },
+  {
+    "course_name": "Utopia is Alive and Kicking",
+    "department": "SPAN",
+    "number": "73",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-73-05"
+  },
+  {
+    "course_name": "Borges. An Introduction",
+    "department": "SPAN",
+    "number": "73",
+    "subnumber": "06",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Spanish-and-Portuguese-Languages-and-Literatures/SPAN-73-06"
   },
   {
     "course_name": "Special Topics in Hispanic Literary and Cultural Production",
@@ -18266,6 +18514,13 @@
     "number": "10",
     "subnumber": "13",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Theater/THEA-Theater/THEA-10-13"
+  },
+  {
+    "course_name": "Voices:Perform Activism",
+    "department": "THEA",
+    "number": "10",
+    "subnumber": "23",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Theater/THEA-10-23"
   },
   {
     "course_name": "Theatre and Society I: Classical and Medieval Performance",
@@ -18893,6 +19148,13 @@
     "number": "67",
     "subnumber": "03",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGST-67-03"
+  },
+  {
+    "course_name": "Humanities and Human Rights: Thoughts on Community",
+    "department": "WGSS",
+    "number": "67",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015s/Supplement/Courses/Womens-Gender-and-Sexuality-Studies/WGSS-67-04"
   },
   {
     "course_name": "Seminar in Women's, Gender, and Sexuality Studies",

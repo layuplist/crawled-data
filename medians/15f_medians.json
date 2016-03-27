@@ -140,7 +140,7 @@
       "number": "42",
       "subnumber": "06"
     },
-    "enrollment": "16",
+    "enrollment": "17",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -181,7 +181,7 @@
       "department": "ANTH",
       "number": "006"
     },
-    "enrollment": "68",
+    "enrollment": "69",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -213,7 +213,7 @@
       "department": "ANTH",
       "number": "018"
     },
-    "enrollment": "11",
+    "enrollment": "12",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -253,8 +253,8 @@
       "department": "ANTH",
       "number": "058"
     },
-    "enrollment": "20",
-    "median": "A-/B+",
+    "enrollment": "21",
+    "median": "B+",
     "section": "01",
     "term": "15F"
   },
@@ -263,7 +263,7 @@
       "department": "ANTH",
       "number": "060"
     },
-    "enrollment": "15",
+    "enrollment": "16",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -334,7 +334,7 @@
       "department": "ARTH",
       "number": "001"
     },
-    "enrollment": "46",
+    "enrollment": "47",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -378,7 +378,7 @@
       "number": "17",
       "subnumber": "09"
     },
-    "enrollment": "11",
+    "enrollment": "12",
     "median": "A",
     "section": "01",
     "term": "15F"
@@ -430,8 +430,8 @@
       "number": "11",
       "subnumber": "01"
     },
-    "enrollment": "57",
-    "median": "B+",
+    "enrollment": "58",
+    "median": "B+/B",
     "section": "01",
     "term": "15F"
   },
@@ -450,7 +450,7 @@
       "department": "BIOL",
       "number": "012"
     },
-    "enrollment": "46",
+    "enrollment": "49",
     "median": "B",
     "section": "02",
     "term": "15F"
@@ -531,7 +531,7 @@
       "department": "CHEM",
       "number": "005"
     },
-    "enrollment": "84",
+    "enrollment": "86",
     "median": "B",
     "section": "01",
     "term": "15F"
@@ -561,8 +561,8 @@
       "department": "CHEM",
       "number": "051"
     },
-    "enrollment": "78",
-    "median": "B+/B",
+    "enrollment": "80",
+    "median": "B",
     "section": "01",
     "term": "15F"
   },
@@ -581,7 +581,7 @@
       "department": "CHIN",
       "number": "001"
     },
-    "enrollment": "10",
+    "enrollment": "11",
     "median": "A",
     "section": "02",
     "term": "15F"
@@ -701,6 +701,16 @@
   {
     "course": {
       "department": "CLST",
+      "number": "029"
+    },
+    "enrollment": "10",
+    "median": "B+/B",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "CLST",
       "number": "030"
     },
     "enrollment": "10",
@@ -755,7 +765,7 @@
       "department": "COLT",
       "number": "001"
     },
-    "enrollment": "48",
+    "enrollment": "49",
     "median": "A",
     "section": "01",
     "term": "15F"
@@ -820,7 +830,7 @@
       "department": "COSC",
       "number": "001"
     },
-    "enrollment": "176",
+    "enrollment": "177",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -882,7 +892,7 @@
       "department": "COSC",
       "number": "030"
     },
-    "enrollment": "47",
+    "enrollment": "49",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -892,7 +902,7 @@
       "department": "COSC",
       "number": "031"
     },
-    "enrollment": "53",
+    "enrollment": "55",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -1046,7 +1056,7 @@
       "department": "EARS",
       "number": "001"
     },
-    "enrollment": "52",
+    "enrollment": "53",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -1116,7 +1126,7 @@
       "department": "ECON",
       "number": "001"
     },
-    "enrollment": "71",
+    "enrollment": "72",
     "median": "B",
     "section": "03",
     "term": "15F"
@@ -1126,7 +1136,7 @@
       "department": "ECON",
       "number": "001"
     },
-    "enrollment": "71",
+    "enrollment": "72",
     "median": "B",
     "section": "04",
     "term": "15F"
@@ -1336,7 +1346,7 @@
       "department": "ECON",
       "number": "028"
     },
-    "enrollment": "30",
+    "enrollment": "31",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -1346,7 +1356,7 @@
       "department": "ECON",
       "number": "028"
     },
-    "enrollment": "30",
+    "enrollment": "31",
     "median": "B+",
     "section": "02",
     "term": "15F"
@@ -1424,6 +1434,26 @@
   {
     "course": {
       "department": "ECON",
+      "number": "070"
+    },
+    "enrollment": "16",
+    "median": "A",
+    "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "ECON",
+      "number": "070"
+    },
+    "enrollment": "18",
+    "median": "A",
+    "section": "02",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "ECON",
       "number": "076"
     },
     "enrollment": "12",
@@ -1467,6 +1497,16 @@
       "number": "016"
     },
     "enrollment": "13",
+    "median": "A-",
+    "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "EDUC",
+      "number": "051"
+    },
+    "enrollment": "11",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -1565,6 +1605,46 @@
   },
   {
     "course": {
+      "department": "ENGL",
+      "number": "090"
+    },
+    "enrollment": "12",
+    "median": "A /A-",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "090"
+    },
+    "enrollment": "13",
+    "median": "A-",
+    "section": "91",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "091"
+    },
+    "enrollment": "13",
+    "median": "A-",
+    "section": "91",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "092"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "91",
+    "term": "15F"
+  },
+  {
+    "course": {
       "department": "ENGS",
       "number": "002"
     },
@@ -1648,8 +1728,8 @@
       "department": "ENGS",
       "number": "027"
     },
-    "enrollment": "35",
-    "median": "A",
+    "enrollment": "36",
+    "median": "A /A-",
     "section": "01",
     "term": "15F"
   },
@@ -1688,7 +1768,7 @@
       "department": "ENGS",
       "number": "066"
     },
-    "enrollment": "47",
+    "enrollment": "49",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -1738,7 +1818,7 @@
       "department": "ENVS",
       "number": "003"
     },
-    "enrollment": "83",
+    "enrollment": "84",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -1778,8 +1858,8 @@
       "department": "ENVS",
       "number": "060"
     },
-    "enrollment": "35",
-    "median": "B+",
+    "enrollment": "36",
+    "median": "B+/B",
     "section": "01",
     "term": "15F"
   },
@@ -1850,8 +1930,8 @@
       "number": "43",
       "subnumber": "01"
     },
-    "enrollment": "17",
-    "median": "B+",
+    "enrollment": "18",
+    "median": "B+/B",
     "section": "01",
     "term": "15F"
   },
@@ -1870,7 +1950,7 @@
       "department": "FREN",
       "number": "001"
     },
-    "enrollment": "17",
+    "enrollment": "18",
     "median": "A",
     "section": "02",
     "term": "15F"
@@ -2002,7 +2082,7 @@
       "department": "GEOG",
       "number": "006"
     },
-    "enrollment": "40",
+    "enrollment": "43",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -2122,7 +2202,7 @@
       "department": "GOVT",
       "number": "004"
     },
-    "enrollment": "43",
+    "enrollment": "44",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -2162,7 +2242,7 @@
       "department": "GOVT",
       "number": "010"
     },
-    "enrollment": "25",
+    "enrollment": "27",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -2172,7 +2252,7 @@
       "department": "GOVT",
       "number": "010"
     },
-    "enrollment": "31",
+    "enrollment": "32",
     "median": "B+",
     "section": "02",
     "term": "15F"
@@ -2321,7 +2401,7 @@
       "number": "81",
       "subnumber": "08"
     },
-    "enrollment": "11",
+    "enrollment": "12",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -2343,7 +2423,7 @@
       "number": "83",
       "subnumber": "02"
     },
-    "enrollment": "17",
+    "enrollment": "18",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -2379,6 +2459,37 @@
     "enrollment": "13",
     "median": "A-",
     "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "090"
+    },
+    "enrollment": "16",
+    "median": "A",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "091"
+    },
+    "enrollment": "16",
+    "median": "A-",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "92",
+      "subnumber": "02"
+    },
+    "enrollment": "16",
+    "median": "A-",
+    "section": "90",
     "term": "15F"
   },
   {
@@ -2490,8 +2601,8 @@
       "department": "HIST",
       "number": "028"
     },
-    "enrollment": "17",
-    "median": "A",
+    "enrollment": "20",
+    "median": "A /A-",
     "section": "01",
     "term": "15F"
   },
@@ -2590,6 +2701,28 @@
   {
     "course": {
       "department": "HIST",
+      "number": "95",
+      "subnumber": "01"
+    },
+    "enrollment": "16",
+    "median": "A-",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "HIST",
+      "number": "95",
+      "subnumber": "02"
+    },
+    "enrollment": "16",
+    "median": "A-",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "HIST",
       "number": "96",
       "subnumber": "06"
     },
@@ -2654,7 +2787,7 @@
       "department": "INTS",
       "number": "016"
     },
-    "enrollment": "40",
+    "enrollment": "43",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -2665,7 +2798,7 @@
       "number": "80",
       "subnumber": "01"
     },
-    "enrollment": "21",
+    "enrollment": "22",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -2811,7 +2944,7 @@
       "number": "50",
       "subnumber": "10"
     },
-    "enrollment": "13",
+    "enrollment": "14",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -2922,7 +3055,7 @@
       "department": "MATH",
       "number": "001"
     },
-    "enrollment": "32",
+    "enrollment": "34",
     "median": "B",
     "section": "01",
     "term": "15F"
@@ -2932,7 +3065,7 @@
       "department": "MATH",
       "number": "001"
     },
-    "enrollment": "32",
+    "enrollment": "34",
     "median": "B",
     "section": "02",
     "term": "15F"
@@ -2942,7 +3075,7 @@
       "department": "MATH",
       "number": "003"
     },
-    "enrollment": "218",
+    "enrollment": "222",
     "median": "B-",
     "section": "01",
     "term": "15F"
@@ -2952,7 +3085,7 @@
       "department": "MATH",
       "number": "003"
     },
-    "enrollment": "218",
+    "enrollment": "222",
     "median": "B-",
     "section": "02",
     "term": "15F"
@@ -2962,7 +3095,7 @@
       "department": "MATH",
       "number": "003"
     },
-    "enrollment": "218",
+    "enrollment": "222",
     "median": "B-",
     "section": "03",
     "term": "15F"
@@ -2972,7 +3105,7 @@
       "department": "MATH",
       "number": "003"
     },
-    "enrollment": "218",
+    "enrollment": "222",
     "median": "B-",
     "section": "04",
     "term": "15F"
@@ -2982,7 +3115,7 @@
       "department": "MATH",
       "number": "003"
     },
-    "enrollment": "218",
+    "enrollment": "222",
     "median": "B-",
     "section": "05",
     "term": "15F"
@@ -2992,7 +3125,7 @@
       "department": "MATH",
       "number": "008"
     },
-    "enrollment": "109",
+    "enrollment": "110",
     "median": "B",
     "section": "01",
     "term": "15F"
@@ -3002,7 +3135,7 @@
       "department": "MATH",
       "number": "008"
     },
-    "enrollment": "109",
+    "enrollment": "110",
     "median": "B",
     "section": "02",
     "term": "15F"
@@ -3012,7 +3145,7 @@
       "department": "MATH",
       "number": "008"
     },
-    "enrollment": "109",
+    "enrollment": "110",
     "median": "B",
     "section": "03",
     "term": "15F"
@@ -3072,7 +3205,7 @@
       "department": "MATH",
       "number": "020"
     },
-    "enrollment": "22",
+    "enrollment": "23",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -3152,8 +3285,18 @@
       "department": "MATH",
       "number": "050"
     },
-    "enrollment": "13",
+    "enrollment": "14",
     "median": "B+",
+    "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "MATH",
+      "number": "053"
+    },
+    "enrollment": "10",
+    "median": "A-/B+",
     "section": "01",
     "term": "15F"
   },
@@ -3305,8 +3448,18 @@
       "number": "81",
       "subnumber": "09"
     },
-    "enrollment": "17",
+    "enrollment": "18",
     "median": "A-",
+    "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "PBPL",
+      "number": "085"
+    },
+    "enrollment": "12",
+    "median": "A",
     "section": "01",
     "term": "15F"
   },
@@ -3409,10 +3562,32 @@
     "course": {
       "department": "PHIL",
       "number": "50",
+      "subnumber": "17"
+    },
+    "enrollment": "14",
+    "median": "A-",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "PHIL",
+      "number": "50",
       "subnumber": "21"
     },
     "enrollment": "13",
     "median": "A-",
+    "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "PHIL",
+      "number": "80",
+      "subnumber": "13"
+    },
+    "enrollment": "10",
+    "median": "A-/B+",
     "section": "01",
     "term": "15F"
   },
@@ -3431,7 +3606,7 @@
       "department": "PHYS",
       "number": "013"
     },
-    "enrollment": "102",
+    "enrollment": "103",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -3441,7 +3616,7 @@
       "department": "PHYS",
       "number": "013"
     },
-    "enrollment": "102",
+    "enrollment": "103",
     "median": "B+",
     "section": "02",
     "term": "15F"
@@ -3471,7 +3646,7 @@
       "department": "PHYS",
       "number": "043"
     },
-    "enrollment": "33",
+    "enrollment": "34",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -3491,7 +3666,7 @@
       "department": "PSYC",
       "number": "006"
     },
-    "enrollment": "63",
+    "enrollment": "64",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -3501,7 +3676,7 @@
       "department": "PSYC",
       "number": "010"
     },
-    "enrollment": "54",
+    "enrollment": "55",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -3585,7 +3760,7 @@
       "subnumber": "07"
     },
     "enrollment": "22",
-    "median": "A",
+    "median": "A /A-",
     "section": "01",
     "term": "15F"
   },
@@ -3718,7 +3893,7 @@
       "department": "REL ",
       "number": "001"
     },
-    "enrollment": "40",
+    "enrollment": "41",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -3749,7 +3924,7 @@
       "number": "19",
       "subnumber": "06"
     },
-    "enrollment": "16",
+    "enrollment": "17",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -3818,6 +3993,37 @@
   },
   {
     "course": {
+      "department": "REL ",
+      "number": "070"
+    },
+    "enrollment": "13",
+    "median": "B+",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "REL ",
+      "number": "071"
+    },
+    "enrollment": "13",
+    "median": "B",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "REL ",
+      "number": "74",
+      "subnumber": "07"
+    },
+    "enrollment": "13",
+    "median": "B+",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
       "department": "RUSS",
       "number": "010"
     },
@@ -3841,8 +4047,8 @@
       "department": "RUSS",
       "number": "027"
     },
-    "enrollment": "10",
-    "median": "A /A-",
+    "enrollment": "11",
+    "median": "A-",
     "section": "01",
     "term": "15F"
   },
@@ -3881,7 +4087,7 @@
       "department": "SART",
       "number": "016"
     },
-    "enrollment": "10",
+    "enrollment": "11",
     "median": "A",
     "section": "01",
     "term": "15F"
@@ -3941,7 +4147,7 @@
       "department": "SOCY",
       "number": "023"
     },
-    "enrollment": "31",
+    "enrollment": "32",
     "median": "B+",
     "section": "01",
     "term": "15F"
@@ -3951,7 +4157,7 @@
       "department": "SOCY",
       "number": "035"
     },
-    "enrollment": "25",
+    "enrollment": "26",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -3982,7 +4188,7 @@
       "department": "SPAN",
       "number": "001"
     },
-    "enrollment": "82",
+    "enrollment": "83",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -3992,7 +4198,7 @@
       "department": "SPAN",
       "number": "001"
     },
-    "enrollment": "82",
+    "enrollment": "83",
     "median": "A-",
     "section": "02",
     "term": "15F"
@@ -4002,7 +4208,7 @@
       "department": "SPAN",
       "number": "001"
     },
-    "enrollment": "82",
+    "enrollment": "83",
     "median": "A-",
     "section": "03",
     "term": "15F"
@@ -4012,7 +4218,7 @@
       "department": "SPAN",
       "number": "001"
     },
-    "enrollment": "82",
+    "enrollment": "83",
     "median": "A-",
     "section": "04",
     "term": "15F"
@@ -4022,7 +4228,7 @@
       "department": "SPAN",
       "number": "001"
     },
-    "enrollment": "82",
+    "enrollment": "83",
     "median": "A-",
     "section": "05",
     "term": "15F"
@@ -4032,7 +4238,7 @@
       "department": "SPAN",
       "number": "002"
     },
-    "enrollment": "88",
+    "enrollment": "89",
     "median": "A-",
     "section": "01",
     "term": "15F"
@@ -4042,7 +4248,7 @@
       "department": "SPAN",
       "number": "002"
     },
-    "enrollment": "88",
+    "enrollment": "89",
     "median": "A-",
     "section": "02",
     "term": "15F"
@@ -4052,7 +4258,7 @@
       "department": "SPAN",
       "number": "002"
     },
-    "enrollment": "88",
+    "enrollment": "89",
     "median": "A-",
     "section": "03",
     "term": "15F"
@@ -4062,7 +4268,7 @@
       "department": "SPAN",
       "number": "002"
     },
-    "enrollment": "88",
+    "enrollment": "89",
     "median": "A-",
     "section": "04",
     "term": "15F"
@@ -4072,7 +4278,7 @@
       "department": "SPAN",
       "number": "002"
     },
-    "enrollment": "88",
+    "enrollment": "89",
     "median": "A-",
     "section": "05",
     "term": "15F"
@@ -4175,6 +4381,26 @@
     "enrollment": "19",
     "median": "A-",
     "section": "02",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "020"
+    },
+    "enrollment": "17",
+    "median": "A-",
+    "section": "91",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "021"
+    },
+    "enrollment": "17",
+    "median": "A-",
+    "section": "91",
     "term": "15F"
   },
   {
@@ -4195,6 +4421,16 @@
     "enrollment": "16",
     "median": "A /A-",
     "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "032"
+    },
+    "enrollment": "17",
+    "median": "A",
+    "section": "91",
     "term": "15F"
   },
   {
@@ -4277,8 +4513,8 @@
       "department": "THEA",
       "number": "015"
     },
-    "enrollment": "14",
-    "median": "A /A-",
+    "enrollment": "15",
+    "median": "A-",
     "section": "01",
     "term": "15F"
   },
@@ -4388,8 +4624,8 @@
       "number": "23",
       "subnumber": "02"
     },
-    "enrollment": "17",
-    "median": "A",
+    "enrollment": "20",
+    "median": "A /A-",
     "section": "01",
     "term": "15F"
   },
@@ -4421,8 +4657,8 @@
       "number": "56",
       "subnumber": "11"
     },
-    "enrollment": "17",
-    "median": "B+",
+    "enrollment": "18",
+    "median": "B+/B",
     "section": "01",
     "term": "15F"
   },
@@ -4451,6 +4687,86 @@
   {
     "course": {
       "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "14",
+    "median": "B+",
+    "section": "01",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "15",
+    "median": "A-",
+    "section": "02",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "15",
+    "median": "B+",
+    "section": "03",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "15",
+    "median": "A-",
+    "section": "04",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "14",
+    "median": "A /A-",
+    "section": "05",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "12",
+    "median": "A /A-",
+    "section": "06",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "15",
+    "median": "B+",
+    "section": "07",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
+      "number": "002"
+    },
+    "enrollment": "14",
+    "median": "B+",
+    "section": "08",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "WRIT",
       "number": "005"
     },
     "enrollment": "16",
@@ -4463,7 +4779,7 @@
       "department": "WRIT",
       "number": "005"
     },
-    "enrollment": "14",
+    "enrollment": "15",
     "median": "A-",
     "section": "02",
     "term": "15F"
