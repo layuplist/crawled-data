@@ -1628,9 +1628,29 @@
       "department": "ENGL",
       "number": "091"
     },
+    "enrollment": "12",
+    "median": "B+",
+    "section": "90",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "091"
+    },
     "enrollment": "13",
     "median": "A-",
     "section": "91",
+    "term": "15F"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "092"
+    },
+    "enrollment": "12",
+    "median": "B+",
+    "section": "90",
     "term": "15F"
   },
   {
