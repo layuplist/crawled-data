@@ -15,7 +15,7 @@
       "department": "AAAS",
       "number": "025"
     },
-    "enrollment": "24",
+    "enrollment": "25",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -266,7 +266,7 @@
       "department": "ANTH",
       "number": "014"
     },
-    "enrollment": "45",
+    "enrollment": "46",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -306,7 +306,7 @@
       "department": "ANTH",
       "number": "048"
     },
-    "enrollment": "27",
+    "enrollment": "28",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -356,7 +356,7 @@
       "department": "ARTH",
       "number": "004"
     },
-    "enrollment": "42",
+    "enrollment": "43",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -370,6 +370,36 @@
     "enrollment": "16",
     "median": "A-/B+",
     "section": "01",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "ARTH",
+      "number": "010"
+    },
+    "enrollment": "14",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "ARTH",
+      "number": "011"
+    },
+    "enrollment": "14",
+    "median": "A-",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "ARTH",
+      "number": "012"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "90",
     "term": "16S"
   },
   {
@@ -408,7 +438,7 @@
       "department": "ARTH",
       "number": "076"
     },
-    "enrollment": "18",
+    "enrollment": "19",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -418,8 +448,8 @@
       "department": "ASTR",
       "number": "001"
     },
-    "enrollment": "93",
-    "median": "B+",
+    "enrollment": "94",
+    "median": "A-/B+",
     "section": "01",
     "term": "16S"
   },
@@ -449,7 +479,7 @@
       "department": "BIOL",
       "number": "010"
     },
-    "enrollment": "11",
+    "enrollment": "12",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -470,7 +500,7 @@
       "department": "BIOL",
       "number": "012"
     },
-    "enrollment": "52",
+    "enrollment": "53",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -490,7 +520,7 @@
       "department": "BIOL",
       "number": "013"
     },
-    "enrollment": "38",
+    "enrollment": "39",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -510,7 +540,7 @@
       "department": "BIOL",
       "number": "032"
     },
-    "enrollment": "20",
+    "enrollment": "21",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -630,7 +660,7 @@
       "department": "CHEM",
       "number": "051"
     },
-    "enrollment": "59",
+    "enrollment": "61",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -732,7 +762,7 @@
       "number": "10",
       "subnumber": "02"
     },
-    "enrollment": "11",
+    "enrollment": "12",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -787,7 +817,7 @@
       "number": "02",
       "subnumber": "01"
     },
-    "enrollment": "11",
+    "enrollment": "12",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -798,8 +828,8 @@
       "number": "05",
       "subnumber": "01"
     },
-    "enrollment": "10",
-    "median": "B+/B",
+    "enrollment": "11",
+    "median": "B+",
     "section": "01",
     "term": "16S"
   },
@@ -819,7 +849,7 @@
       "department": "COCO",
       "number": "006"
     },
-    "enrollment": "15",
+    "enrollment": "16",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -863,7 +893,7 @@
       "subnumber": "14"
     },
     "enrollment": "16",
-    "median": "A /A-",
+    "median": "A",
     "section": "01",
     "term": "16S"
   },
@@ -926,7 +956,7 @@
       "department": "COSC",
       "number": "010"
     },
-    "enrollment": "77",
+    "enrollment": "81",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -948,6 +978,17 @@
     },
     "enrollment": "17",
     "median": "A",
+    "section": "01",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "COSC",
+      "number": "29",
+      "subnumber": "03"
+    },
+    "enrollment": "10",
+    "median": "B+",
     "section": "01",
     "term": "16S"
   },
@@ -1036,7 +1077,7 @@
       "department": "COSC",
       "number": "074"
     },
-    "enrollment": "30",
+    "enrollment": "31",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -1095,6 +1136,17 @@
   {
     "course": {
       "department": "COSC",
+      "number": "129",
+      "subnumber": "6"
+    },
+    "enrollment": "10",
+    "median": "B+",
+    "section": "01",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "COSC",
       "number": "165"
     },
     "enrollment": "30",
@@ -1117,7 +1169,7 @@
       "department": "COSC",
       "number": "174"
     },
-    "enrollment": "30",
+    "enrollment": "31",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -1138,8 +1190,8 @@
       "department": "EARS",
       "number": "001"
     },
-    "enrollment": "47",
-    "median": "A-",
+    "enrollment": "50",
+    "median": "A-/B+",
     "section": "01",
     "term": "16S"
   },
@@ -1148,7 +1200,7 @@
       "department": "EARS",
       "number": "003"
     },
-    "enrollment": "137",
+    "enrollment": "139",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -1349,7 +1401,7 @@
       "number": "022"
     },
     "enrollment": "48",
-    "median": "A-/B+",
+    "median": "A-",
     "section": "01",
     "term": "16S"
   },
@@ -1359,7 +1411,7 @@
       "number": "022"
     },
     "enrollment": "48",
-    "median": "A-/B+",
+    "median": "A-",
     "section": "02",
     "term": "16S"
   },
@@ -1368,7 +1420,7 @@
       "department": "ECON",
       "number": "022"
     },
-    "enrollment": "42",
+    "enrollment": "43",
     "median": "B",
     "section": "03",
     "term": "16S"
@@ -1378,7 +1430,7 @@
       "department": "ECON",
       "number": "022"
     },
-    "enrollment": "42",
+    "enrollment": "43",
     "median": "B",
     "section": "04",
     "term": "16S"
@@ -1468,7 +1520,7 @@
       "department": "ECON",
       "number": "038"
     },
-    "enrollment": "37",
+    "enrollment": "38",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -1609,7 +1661,7 @@
       "department": "EDUC",
       "number": "029"
     },
-    "enrollment": "37",
+    "enrollment": "38",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -1774,7 +1826,7 @@
       "department": "ENGL",
       "number": "037"
     },
-    "enrollment": "50",
+    "enrollment": "51",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -1890,7 +1942,7 @@
       "department": "ENGS",
       "number": "008"
     },
-    "enrollment": "26",
+    "enrollment": "28",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -1970,7 +2022,7 @@
       "department": "ENGS",
       "number": "025"
     },
-    "enrollment": "45",
+    "enrollment": "46",
     "median": "B",
     "section": "01",
     "term": "16S"
@@ -2030,7 +2082,7 @@
       "department": "ENGS",
       "number": "056"
     },
-    "enrollment": "24",
+    "enrollment": "26",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -2182,7 +2234,7 @@
       "department": "ENVS",
       "number": "061"
     },
-    "enrollment": "21",
+    "enrollment": "22",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -2258,8 +2310,8 @@
       "number": "47",
       "subnumber": "21"
     },
-    "enrollment": "10",
-    "median": "B+/B",
+    "enrollment": "11",
+    "median": "B+",
     "section": "01",
     "term": "16S"
   },
@@ -2377,6 +2429,17 @@
     "course": {
       "department": "FREN",
       "number": "10",
+      "subnumber": "09"
+    },
+    "enrollment": "11",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "FREN",
+      "number": "10",
       "subnumber": "10"
     },
     "enrollment": "12",
@@ -2406,10 +2469,50 @@
   },
   {
     "course": {
+      "department": "FREN",
+      "number": "024"
+    },
+    "enrollment": "10",
+    "median": "A",
+    "section": "01",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "FREN",
+      "number": "029"
+    },
+    "enrollment": "16",
+    "median": "A /A-",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "FREN",
+      "number": "030"
+    },
+    "enrollment": "16",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "FREN",
+      "number": "031"
+    },
+    "enrollment": "16",
+    "median": "A /A-",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
       "department": "GEOG",
       "number": "001"
     },
-    "enrollment": "43",
+    "enrollment": "44",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -2419,7 +2522,7 @@
       "department": "GEOG",
       "number": "002"
     },
-    "enrollment": "35",
+    "enrollment": "36",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -2429,7 +2532,7 @@
       "department": "GEOG",
       "number": "003"
     },
-    "enrollment": "20",
+    "enrollment": "21",
     "median": "A",
     "section": "01",
     "term": "16S"
@@ -2480,7 +2583,7 @@
       "department": "GEOG",
       "number": "025"
     },
-    "enrollment": "38",
+    "enrollment": "39",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -2551,8 +2654,8 @@
       "number": "80",
       "subnumber": "04"
     },
-    "enrollment": "10",
-    "median": "B+/B",
+    "enrollment": "11",
+    "median": "B+",
     "section": "01",
     "term": "16S"
   },
@@ -2591,7 +2694,7 @@
       "department": "GERM",
       "number": "003"
     },
-    "enrollment": "10",
+    "enrollment": "11",
     "median": "A",
     "section": "01",
     "term": "16S"
@@ -2651,8 +2754,8 @@
       "department": "GOVT",
       "number": "003"
     },
-    "enrollment": "38",
-    "median": "A-/B+",
+    "enrollment": "39",
+    "median": "B+",
     "section": "01",
     "term": "16S"
   },
@@ -2722,7 +2825,7 @@
       "department": "GOVT",
       "number": "010"
     },
-    "enrollment": "33",
+    "enrollment": "34",
     "median": "B+",
     "section": "02",
     "term": "16S"
@@ -2732,8 +2835,8 @@
       "department": "GOVT",
       "number": "010"
     },
-    "enrollment": "22",
-    "median": "A /A-",
+    "enrollment": "23",
+    "median": "A-",
     "section": "03",
     "term": "16S"
   },
@@ -2753,7 +2856,7 @@
       "number": "20",
       "subnumber": "07"
     },
-    "enrollment": "29",
+    "enrollment": "30",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -2873,7 +2976,7 @@
       "number": "83",
       "subnumber": "07"
     },
-    "enrollment": "16",
+    "enrollment": "17",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -2957,11 +3060,41 @@
   },
   {
     "course": {
+      "department": "GOVT",
+      "number": "093"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "094"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "095"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
       "department": "HIST",
       "number": "04",
       "subnumber": "01"
     },
-    "enrollment": "40",
+    "enrollment": "41",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -3181,8 +3314,8 @@
       "department": "INTS",
       "number": "015"
     },
-    "enrollment": "26",
-    "median": "A-/B+",
+    "enrollment": "27",
+    "median": "B+",
     "section": "01",
     "term": "16S"
   },
@@ -3191,7 +3324,7 @@
       "department": "INTS",
       "number": "018"
     },
-    "enrollment": "35",
+    "enrollment": "36",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -3222,9 +3355,39 @@
       "number": "07",
       "subnumber": "05"
     },
-    "enrollment": "14",
-    "median": "A /A-",
+    "enrollment": "16",
+    "median": "A-",
     "section": "01",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "ITAL",
+      "number": "008"
+    },
+    "enrollment": "14",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "ITAL",
+      "number": "010"
+    },
+    "enrollment": "15",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "ITAL",
+      "number": "012"
+    },
+    "enrollment": "14",
+    "median": "A",
+    "section": "90",
     "term": "16S"
   },
   {
@@ -3254,7 +3417,7 @@
       "number": "30",
       "subnumber": "09"
     },
-    "enrollment": "18",
+    "enrollment": "19",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -3520,7 +3683,7 @@
       "department": "MATH",
       "number": "022"
     },
-    "enrollment": "98",
+    "enrollment": "99",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -3530,7 +3693,7 @@
       "department": "MATH",
       "number": "022"
     },
-    "enrollment": "98",
+    "enrollment": "99",
     "median": "B+",
     "section": "02",
     "term": "16S"
@@ -3540,7 +3703,7 @@
       "department": "MATH",
       "number": "022"
     },
-    "enrollment": "98",
+    "enrollment": "99",
     "median": "B+",
     "section": "03",
     "term": "16S"
@@ -3550,7 +3713,7 @@
       "department": "MATH",
       "number": "022"
     },
-    "enrollment": "98",
+    "enrollment": "99",
     "median": "B+",
     "section": "04",
     "term": "16S"
@@ -3580,7 +3743,7 @@
       "department": "MATH",
       "number": "024"
     },
-    "enrollment": "18",
+    "enrollment": "19",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -3745,7 +3908,7 @@
       "number": "57",
       "subnumber": "03"
     },
-    "enrollment": "11",
+    "enrollment": "12",
     "median": "A",
     "section": "01",
     "term": "16S"
@@ -3971,7 +4134,7 @@
       "department": "PHYS",
       "number": "004"
     },
-    "enrollment": "26",
+    "enrollment": "77",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -3992,8 +4155,8 @@
       "department": "PHYS",
       "number": "014"
     },
-    "enrollment": "85",
-    "median": "B+",
+    "enrollment": "36",
+    "median": "B",
     "section": "01",
     "term": "16S"
   },
@@ -4002,7 +4165,7 @@
       "department": "PHYS",
       "number": "014"
     },
-    "enrollment": "85",
+    "enrollment": "77",
     "median": "B+",
     "section": "02",
     "term": "16S"
@@ -4083,7 +4246,7 @@
       "department": "PSYC",
       "number": "010"
     },
-    "enrollment": "67",
+    "enrollment": "68",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -4113,7 +4276,7 @@
       "department": "PSYC",
       "number": "022"
     },
-    "enrollment": "25",
+    "enrollment": "26",
     "median": "A",
     "section": "01",
     "term": "16S"
@@ -4209,7 +4372,7 @@
       "number": "54",
       "subnumber": "03"
     },
-    "enrollment": "25",
+    "enrollment": "26",
     "median": "A",
     "section": "01",
     "term": "16S"
@@ -4279,16 +4442,6 @@
   },
   {
     "course": {
-      "department": "QSS ",
-      "number": "045"
-    },
-    "enrollment": "24",
-    "median": "A",
-    "section": "01",
-    "term": "16S"
-  },
-  {
-    "course": {
       "department": "REL ",
       "number": "010"
     },
@@ -4302,7 +4455,7 @@
       "department": "REL ",
       "number": "018"
     },
-    "enrollment": "48",
+    "enrollment": "49",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -4313,7 +4466,7 @@
       "number": "19",
       "subnumber": "18"
     },
-    "enrollment": "27",
+    "enrollment": "28",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -4376,7 +4529,7 @@
       "department": "REL ",
       "number": "069"
     },
-    "enrollment": "29",
+    "enrollment": "30",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -4396,7 +4549,7 @@
       "department": "RUSS",
       "number": "013"
     },
-    "enrollment": "68",
+    "enrollment": "69",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -4507,7 +4660,7 @@
       "department": "SOCY",
       "number": "001"
     },
-    "enrollment": "47",
+    "enrollment": "48",
     "median": "A",
     "section": "01",
     "term": "16S"
@@ -4559,7 +4712,7 @@
       "department": "SOCY",
       "number": "016"
     },
-    "enrollment": "23",
+    "enrollment": "24",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -4589,7 +4742,7 @@
       "department": "SOCY",
       "number": "046"
     },
-    "enrollment": "24",
+    "enrollment": "25",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -4610,7 +4763,7 @@
       "number": "49",
       "subnumber": "22"
     },
-    "enrollment": "38",
+    "enrollment": "39",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -4620,7 +4773,7 @@
       "department": "SOCY",
       "number": "056"
     },
-    "enrollment": "21",
+    "enrollment": "22",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -4848,11 +5001,41 @@
   {
     "course": {
       "department": "SPAN",
+      "number": "023"
+    },
+    "enrollment": "21",
+    "median": "A-",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "SPAN",
       "number": "030"
     },
     "enrollment": "15",
     "median": "A-",
     "section": "01",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "033"
+    },
+    "enrollment": "21",
+    "median": "A",
+    "section": "90",
+    "term": "16S"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "035"
+    },
+    "enrollment": "21",
+    "median": "A",
+    "section": "90",
     "term": "16S"
   },
   {
@@ -5174,7 +5357,7 @@
       "number": "33",
       "subnumber": "01"
     },
-    "enrollment": "24",
+    "enrollment": "25",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -5196,7 +5379,7 @@
       "number": "34",
       "subnumber": "04"
     },
-    "enrollment": "21",
+    "enrollment": "22",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -5229,7 +5412,7 @@
       "number": "37",
       "subnumber": "03"
     },
-    "enrollment": "38",
+    "enrollment": "39",
     "median": "B+",
     "section": "01",
     "term": "16S"
@@ -5273,7 +5456,7 @@
       "number": "07",
       "subnumber": "01"
     },
-    "enrollment": "12",
+    "enrollment": "14",
     "median": "A-",
     "section": "01",
     "term": "16S"
@@ -5295,7 +5478,7 @@
       "number": "07",
       "subnumber": "03"
     },
-    "enrollment": "15",
+    "enrollment": "16",
     "median": "A-",
     "section": "01",
     "term": "16S"
