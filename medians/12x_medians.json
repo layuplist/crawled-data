@@ -1,0 +1,1122 @@
+[
+  {
+    "course": {
+      "department": "AAAS",
+      "number": "026"
+    },
+    "enrollment": "14",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "AAAS",
+      "number": "080"
+    },
+    "enrollment": "18",
+    "median": "B+",
+    "section": "03",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "AMES",
+      "number": "015"
+    },
+    "enrollment": "51",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "AMES",
+      "number": "040"
+    },
+    "enrollment": "56",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "AMES",
+      "number": "042"
+    },
+    "enrollment": "26",
+    "median": "A-",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ANTH",
+      "number": "020"
+    },
+    "enrollment": "49",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ARTH",
+      "number": "059"
+    },
+    "enrollment": "46",
+    "median": "B",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ASTR",
+      "number": "002"
+    },
+    "enrollment": "59",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ASTR",
+      "number": "002"
+    },
+    "enrollment": "57",
+    "median": "A-",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ASTR",
+      "number": "003"
+    },
+    "enrollment": "66",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ASTR",
+      "number": "003"
+    },
+    "enrollment": "90",
+    "median": "A-",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "BIOL",
+      "number": "013"
+    },
+    "enrollment": "78",
+    "median": "B",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "BIOL",
+      "number": "014"
+    },
+    "enrollment": "102",
+    "median": "B",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "BIOL",
+      "number": "022"
+    },
+    "enrollment": "16",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "BIOL",
+      "number": "045"
+    },
+    "enrollment": "13",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CHEM",
+      "number": "052"
+    },
+    "enrollment": "47",
+    "median": "B",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CHEM",
+      "number": "063"
+    },
+    "enrollment": "17",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CHIN",
+      "number": "011"
+    },
+    "enrollment": "24",
+    "median": "A",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CHIN",
+      "number": "022"
+    },
+    "enrollment": "12",
+    "median": "A",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CHIN",
+      "number": "023"
+    },
+    "enrollment": "12",
+    "median": "A",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CHIN",
+      "number": "031"
+    },
+    "enrollment": "12",
+    "median": "A",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CHIN",
+      "number": "032"
+    },
+    "enrollment": "12",
+    "median": "A",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "CLST",
+      "number": "004"
+    },
+    "enrollment": "133",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "COLT",
+      "number": "067"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "COSC",
+      "number": "051"
+    },
+    "enrollment": "31",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "COSC",
+      "number": "056"
+    },
+    "enrollment": "56",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "EARS",
+      "number": "005"
+    },
+    "enrollment": "47",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "EARS",
+      "number": "040"
+    },
+    "enrollment": "26",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ECON",
+      "number": "020"
+    },
+    "enrollment": "53",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ECON",
+      "number": "020"
+    },
+    "enrollment": "53",
+    "median": "B+",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ECON",
+      "number": "026"
+    },
+    "enrollment": "61",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ECON",
+      "number": "026"
+    },
+    "enrollment": "61",
+    "median": "B+",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "024"
+    },
+    "enrollment": "48",
+    "median": "A /A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "067"
+    },
+    "enrollment": "14",
+    "median": "B+",
+    "section": "11",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "080"
+    },
+    "enrollment": "11",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGL",
+      "number": "080"
+    },
+    "enrollment": "12",
+    "median": "A-",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGS",
+      "number": "003"
+    },
+    "enrollment": "32",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGS",
+      "number": "003"
+    },
+    "enrollment": "35",
+    "median": "B+",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGS",
+      "number": "022"
+    },
+    "enrollment": "23",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGS",
+      "number": "025"
+    },
+    "enrollment": "35",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGS",
+      "number": "031"
+    },
+    "enrollment": "56",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENGS",
+      "number": "033"
+    },
+    "enrollment": "41",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENVS",
+      "number": "025"
+    },
+    "enrollment": "43",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "ENVS",
+      "number": "039"
+    },
+    "enrollment": "37",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FILM",
+      "number": "001"
+    },
+    "enrollment": "24",
+    "median": "B+/B",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FILM",
+      "number": "036"
+    },
+    "enrollment": "12",
+    "median": "A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FILM",
+      "number": "039"
+    },
+    "enrollment": "12",
+    "median": "B+",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FILM",
+      "number": "047"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FILM",
+      "number": "047"
+    },
+    "enrollment": "10",
+    "median": "A-",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FILM",
+      "number": "047"
+    },
+    "enrollment": "12",
+    "median": "A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FREN",
+      "number": "010"
+    },
+    "enrollment": "10",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "FREN",
+      "number": "040"
+    },
+    "enrollment": "14",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GEOG",
+      "number": "022"
+    },
+    "enrollment": "24",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GEOG",
+      "number": "042"
+    },
+    "enrollment": "15",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GERM",
+      "number": "003"
+    },
+    "enrollment": "15",
+    "median": "A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GERM",
+      "number": "005"
+    },
+    "enrollment": "15",
+    "median": "A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GERM",
+      "number": "006"
+    },
+    "enrollment": "15",
+    "median": "A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GERM",
+      "number": "046"
+    },
+    "enrollment": "22",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "006"
+    },
+    "enrollment": "25",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "010"
+    },
+    "enrollment": "32",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "040"
+    },
+    "enrollment": "23",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "050"
+    },
+    "enrollment": "35",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "059"
+    },
+    "enrollment": "27",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "068"
+    },
+    "enrollment": "15",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "GOVT",
+      "number": "069"
+    },
+    "enrollment": "23",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "HIST",
+      "number": "011"
+    },
+    "enrollment": "24",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "HIST",
+      "number": "013"
+    },
+    "enrollment": "22",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "HIST",
+      "number": "023"
+    },
+    "enrollment": "32",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "HIST",
+      "number": "057"
+    },
+    "enrollment": "27",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "HIST",
+      "number": "089"
+    },
+    "enrollment": "32",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "JWST",
+      "number": "067"
+    },
+    "enrollment": "15",
+    "median": "B+",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "LATS",
+      "number": "005"
+    },
+    "enrollment": "21",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "LING",
+      "number": "011"
+    },
+    "enrollment": "12",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "MATH",
+      "number": "020"
+    },
+    "enrollment": "36",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "MATH",
+      "number": "022"
+    },
+    "enrollment": "40",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "MATH",
+      "number": "031"
+    },
+    "enrollment": "15",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "MATH",
+      "number": "054"
+    },
+    "enrollment": "19",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "MUS ",
+      "number": "001"
+    },
+    "enrollment": "16",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "MUS ",
+      "number": "003"
+    },
+    "enrollment": "12",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "NAS ",
+      "number": "050"
+    },
+    "enrollment": "23",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PBPL",
+      "number": "040"
+    },
+    "enrollment": "40",
+    "median": "A-/B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PHIL",
+      "number": "002"
+    },
+    "enrollment": "16",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PHIL",
+      "number": "050"
+    },
+    "enrollment": "15",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PHYS",
+      "number": "003"
+    },
+    "enrollment": "53",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PHYS",
+      "number": "042"
+    },
+    "enrollment": "14",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PORT",
+      "number": "003"
+    },
+    "enrollment": "12",
+    "median": "A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PORT",
+      "number": "005"
+    },
+    "enrollment": "12",
+    "median": "A /A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PORT",
+      "number": "006"
+    },
+    "enrollment": "12",
+    "median": "A-",
+    "section": "90",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PSYC",
+      "number": "010"
+    },
+    "enrollment": "47",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PSYC",
+      "number": "011"
+    },
+    "enrollment": "29",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PSYC",
+      "number": "025"
+    },
+    "enrollment": "217",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "PSYC",
+      "number": "054"
+    },
+    "enrollment": "14",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "REL ",
+      "number": "002"
+    },
+    "enrollment": "21",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "REL ",
+      "number": "016"
+    },
+    "enrollment": "51",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "REL ",
+      "number": "019"
+    },
+    "enrollment": "10",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "REL ",
+      "number": "040"
+    },
+    "enrollment": "26",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "RUSS",
+      "number": "019"
+    },
+    "enrollment": "14",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "RUSS",
+      "number": "036"
+    },
+    "enrollment": "11",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SART",
+      "number": "015"
+    },
+    "enrollment": "14",
+    "median": "A /A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SART",
+      "number": "015"
+    },
+    "enrollment": "10",
+    "median": "A",
+    "section": "02",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SART",
+      "number": "016"
+    },
+    "enrollment": "14",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SART",
+      "number": "025"
+    },
+    "enrollment": "13",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SOCY",
+      "number": "022"
+    },
+    "enrollment": "20",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SOCY",
+      "number": "025"
+    },
+    "enrollment": "16",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SOCY",
+      "number": "044"
+    },
+    "enrollment": "21",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "003"
+    },
+    "enrollment": "16",
+    "median": "A-",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "020"
+    },
+    "enrollment": "12",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "SPAN",
+      "number": "060"
+    },
+    "enrollment": "10",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "THEA",
+      "number": "065"
+    },
+    "enrollment": "11",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "WGST",
+      "number": "010"
+    },
+    "enrollment": "31",
+    "median": "A",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "WGST",
+      "number": "032"
+    },
+    "enrollment": "15",
+    "median": "B+",
+    "section": "01",
+    "term": "12X"
+  },
+  {
+    "course": {
+      "department": "WGST",
+      "number": "056"
+    },
+    "enrollment": "13",
+    "median": "A",
+    "section": "09",
+    "term": "12X"
+  }
+]
