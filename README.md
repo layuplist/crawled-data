@@ -1,6 +1,6 @@
 # Layup List Data
 
-This branch holds the crawled data used in Layup List. They are imported using the importers in the `master` branch.
+This branch holds the crawled data used in Layup List. They are imported using the scripts in `/scripts/importers/` in the main Layup List repo (https://github.com/layuplist/layup-list)
 
 This includes:
 * ORC course data
@@ -8,7 +8,7 @@ This includes:
 * Course medians
 * Old layup lists and reviews
 
-In addition to the Python dependencies defined in `master`, running the crawling scripts requires **PhantomJS**.
+In addition to the dependencies defined in the main repo, running the `.js` scripts requires **PhantomJS**.
 
 ## Updating
 
