@@ -532,6 +532,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/African-and-African-American-Studies/AAAS-81-06"
     },
     {
+        "course_name": "Black Noir",
+        "department": "AAAS",
+        "description": "In this course, we will study black American literature that focuses the noir genre on black people themselves. We will read gritty, urban crime novels that attempt to expose inequities in black American lives and dispel the notion that a descent from whiteness results in blackness. Rather, the black people in these texts exist in darkness because they are living in alienated communities. We shall investigate how the noir genre is altered when \u201cnoirs\u201d are the subjects and the authors. In addition to primary texts, the course will engage critical responses to these works.",
+        "instructors": [],
+        "number": "81",
+        "offered": null,
+        "subnumber": "07",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/African-and-African-American-Studies/AAAS-81-07"
+    },
+    {
         "course_name": "Religion and the Civil Rights Movement",
         "department": "AAAS",
         "description": "An examination of the importance of religion in the drive for civil rights during the 1950s and 1960s. The course will look at the role of activists, clergy, sermons, and music in forging the consensus in favor of civil rights. Open to all.",
@@ -1348,6 +1358,16 @@
         "offered": "17X:10A",
         "subnumber": "08",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Studies/AMES-Asian-and-Middle-Eastern-Studies/AMES-40-08"
+    },
+    {
+        "course_name": "Music from the Lands of the Silk Road",
+        "department": "AMES",
+        "description": "Drawing from the world\u2019s rich and diverse musical traditions,\u00a0this\u00a0course focuses on music and musical life in a particular geographic region or on a specific topic addressed from a cross-cultural and/or interdisciplinary\u00a0perspective. The focus of this particular topic is\u00a0on music from the lands of the Silk Road--the network of\u00a0trade routes that\u00a0crisscrossed Eurasia, linking East Asia, South Asia, and Central Asia with Persia, the Middle East, and Europe. Examples will be drawn from contemporary musical traditions of Central Asia, Korea, Japan, China, Azerbaijan, and India. No prior musical experience is required.",
+        "instructors": [],
+        "number": "40",
+        "offered": null,
+        "subnumber": "09",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Asian-and-Middle-Eastern-Studies/AMES-40-09"
     },
     {
         "course_name": "Feminism, Islam and Modernity in the Muslim World",
@@ -2461,6 +2481,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-50-17"
     },
     {
+        "course_name": "Circumpolar Archaeology and Environments",
+        "department": "ANTH",
+        "description": "This course focuses on Arctic history as revealed by archaeological research on the 40,000-year history of humans in the Arctic and how Arctic peoples and cultures adapted to and changed Arctic environments from Late Pleistocene times to recent times. The course covers the historical development of Arctic archaeology, relevant archaeological and anthropological theory, methods of archaeological analysis and interpretation, and how archaeology is practiced in the North today. The latter topics will include issues like repatriation, museum collecting and display, heritage awareness, tourism, economic development, education, and climate change.",
+        "instructors": [],
+        "number": "50",
+        "offered": null,
+        "subnumber": "19",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Anthropology/ANTH-50-19"
+    },
+    {
         "course_name": "Colonialism and Its Legacies in Anthropological Perspective",
         "department": "ANTH",
         "description": "Between the 16th and mid-20th centuries, European nations and Japan colonized much of the rest of the world. This course examines similarities and differences in the practices of these colonial powers in different regions at different times and the impact they had on indigenous peoples and societies. It traces the ways in which colonial processes and experiences have shaped the politics, economics, and identities of both developed and developing nations in the world today.",
@@ -2638,6 +2668,15 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-65"
     },
     {
+        "course_name": "Human Biological Variation",
+        "department": "ANTH",
+        "description": "How do human populations adapt to their local environments? What is more important for influencing human variation\u2014genes or the environment? In this course you will learn about patterns of modern human biological variation as well as research methods employed by biological anthropologists to study these patterns. You will also learn important skills for all anthropologists, including hypothesis generation, study design, how to write a grant, and how to be an effective reviewer.",
+        "instructors": [],
+        "number": "66",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Anthropology/ANTH-66"
+    },
+    {
         "course_name": "Experiencing Human Origins and Evolution",
         "department": "ANTH",
         "description": "This course will examine current evidence for human origins and evolution, with a particular emphasis on South Africa. Students will learn and experience firsthand how fossils, archaeological sites, and living model systems are used collectively to reconstruct and interpret the path and circumstances by which we became human. A course extension in South Africa will be offered to enable direct experience with the sites, organisms, and challenges discussed in class.",
@@ -2697,6 +2736,15 @@
         "number": "75",
         "offered": "17F: 12",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-75"
+    },
+    {
+        "course_name": "The Evolution of Upright Walking",
+        "department": "ANTH",
+        "description": "This is an advanced course designed to explore in-depth both the historical and current understandings of human bipedalism. This course is reading-intensive, with an average of 5 primary journal papers assigned per meeting. We will investigate hypotheses for why bipedalism evolved, the form of locomotion bipedalism evolved from, and the fossil evidence for early hominin bipedality in the ardipithecines and australopithecines.",
+        "instructors": [],
+        "number": "76",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Anthropology/ANTH-76"
     },
     {
         "course_name": "Origins of Language",
@@ -2980,15 +3028,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-59"
     },
     {
-        "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
-        "department": "ARAB",
-        "description": "This course is an introduction to the study of modern Arabic literature through readings and discussion of key texts in prose and poetry from the 19th and 20th centuries. Each offering of the course will be organized around a particular author, genre, theme, or period. Topics may include, inter alia, the question of tradition and modernity, the construction of an Arab national identity, the colonial encounter, post-coloniality, and the status of women in Arab society.   \nCourses numbered 61 - 63 are literature-in-translation courses, and do not require knowledge of the Arabic language. There are no prerequisites and courses are open to students of all classes. They may be repeated for credit if the topic varies.",
-        "instructors": [],
-        "number": "61",
-        "offered": null,
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
-    },
-    {
         "course_name": "Modern Arabic Fiction",
         "department": "ARAB",
         "description": "This course is an introduction to twentieth-century fiction across the Arab world. Looking at works from North Africa to the Middle East, we will examine how Arab writers and filmmakers have dealt with such themes as nationalism, immigration, freedom, sexuality, war, violence, and religion. Authors include Tayyib Salih, Mohamed Choukri, Ghassan Kanafani, Tahar Wattar, and Hanah al-Shaykh, among others.",
@@ -3057,6 +3096,25 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61-08"
     },
     {
+        "course_name": "Egyptian Culture, Society, and Politics",
+        "department": "ARAB",
+        "description": "This seminar will examine the cultural, social, and political life of modern Egypt. One way of examining this complex society is through revisiting Egypt\u2019s struggle with modernity. From Mohamad Ali\u2019s modernization program in the 19th century to the recent chanting for freedom in Tahrir Square, Egypt\u2019s different social forces, state, and international partners have been shaping its modernity in different\u2014sometimes contradictory\u2014ways. This struggle transformed the political, economic, social and cultural landscape of the country, and continues to be the focal point of its unfolding drama. The spread of modern ideologies (nationalism, liberalism, socialism), the construction of Islamism, the reordering of social hierarchies and family structure, the transformation of norms and values, among other issues, are better understood when read as part of this long, twisted, and tormented march of modernity.",
+        "instructors": [],
+        "number": "61",
+        "offered": null,
+        "subnumber": "09",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-61-09"
+    },
+    {
+        "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
+        "department": "ARAB",
+        "description": "This course is an introduction to the study of modern Arabic literature through readings and discussion of key texts in prose and poetry from the 19th and 20th centuries. Each offering of the course will be organized around a particular author, genre, theme, or period. Topics may include, inter alia, the question of tradition and modernity, the construction of an Arab national identity, the colonial encounter, post-coloniality, and the status of women in Arab society.   \nCourses numbered 61 - 63 are literature-in-translation courses, and do not require knowledge of the Arabic language. There are no prerequisites and courses are open to students of all classes. They may be repeated for credit if the topic varies.",
+        "instructors": [],
+        "number": "61",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
+    },
+    {
         "course_name": "Marvels and Wonder in Medieval Arabic Culture",
         "department": "ARAB",
         "description": "This course explores a variety of medieval Arabic texts through the lens of wonder. It is through marveling at the foreign and inexplicable that we position ourselves in the world and separate the Self from the Other. Yet, wonder is also what prompts our curiosity for discovery and provokes our search for explanations. Where was the line drawn between the familiar and the strange in medieval Arabic culture? How was wonder defined? What role did it play?",
@@ -3104,19 +3162,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-63-03"
     },
     {
-        "course_name": "Topics in Arabic Literature and Culture",
-        "department": "ARAB",
-        "description": "This seminar is designed to examine closely literary and cultural texts employing theoretical and historical sources. Topics vary but might range from studies of individual authors to broader comparative themes.",
-        "instructors": [
-            {
-                "name": "Morsi"
-            }
-        ],
-        "number": "81",
-        "offered": "18S: 2A",
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-81"
-    },
-    {
         "course_name": "The New Arabic Novel",
         "department": "ARAB",
         "description": "In this seminar, we will read Arabic novels in translation published across the Middle East during the past decade. How have the authors of these texts grappled with recent transformations in post-9/11 Arab society, such as globalization, terrorism, gender relations, and war? How have old themes--including the clash between tradition and modernity, East-West relations, and the Israeli-Palestinian conflict--become renewed for the contemporary era? We will examine exciting recent novels from Egypt, Saudi Arabia, Iraq, Libya, Lebanon, and Palestine to answer these questions. This course has no prerequisites but familiarity with the history of the Middle East in the twentieth century and trends in contemporary Arabic prose during this period would be helpful.",
@@ -3143,6 +3188,29 @@
         "offered": "Not offered in the period from 16F through 18S",
         "subnumber": "02",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-81-02"
+    },
+    {
+        "course_name": "Images of the West in the Arabic Novel",
+        "department": "ARAB",
+        "description": "This course analyzes the ways Arabic novelists have constructed the image the \u201cWest\u201dand the socio-political function this image has served in Arab society. We will read tenrepresentative works by writers from Egypt, Lebanon, Algeria, Sudan, Palestine, andIraq. Written over more than half a century, these novels present different\u2014sometimescontradictory\u2014perspectives on the \u201cWest.\u201d Some of these novels are focused primarilyon East-West relations while others represent the West in the context of large-scale socioculturaltransformations in the Middle East and broader global political dynamics. Toanchor our discussion of the topic and to broaden our knowledge of the ways Arabicliterature has depicted the \u201cWest,\u201d we will also read a variety of critical texts that explorethe image of the West in the Arab world.",
+        "instructors": [],
+        "number": "81",
+        "offered": null,
+        "subnumber": "03",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-81-03"
+    },
+    {
+        "course_name": "Topics in Arabic Literature and Culture",
+        "department": "ARAB",
+        "description": "This seminar is designed to examine closely literary and cultural texts employing theoretical and historical sources. Topics vary but might range from studies of individual authors to broader comparative themes.",
+        "instructors": [
+            {
+                "name": "Morsi"
+            }
+        ],
+        "number": "81",
+        "offered": "18S: 2A",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-81"
     },
     {
         "course_name": "Bodies and Buildings: Introduction to the History of Art in the Ancient World and the Middle Ages",
@@ -7231,6 +7299,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-47"
     },
     {
+        "course_name": "Law and/as Literature",
+        "department": "COLT",
+        "description": "Ever since the exclusion of poets from Plato\u2019s Republic, literature has often been accused of being dangerous and useless to society. Law, on the other hand, with all of its sovereign splendor and control over society, is considered to work at the behest of thestatus quo. Although sharing the same medium (the written text), law and literature seem to be worlds apart. This class will probe the intricate relationship of law and literature, both the representation of the lawinliterature (as inOedipus,Michael Kohlhaas,Billy Budd,In the Penal Colony,The Trial) and how law itself in its rhetoric and theatricality is a kind of literature (particularly the courtroom drama): in other words, lawasliterature. Whether it be theUS Constitution, theDeclaration of Independence,The Declaration of the Rights of Man and of the Citizen, the testimony and court documents in the Eichmann Trial (see Arendt), or certain major Supreme Court decisions, the law cannot escape its figurative, theatrical, political and even criminal dimension. The conflicted and yet close relation of law and literature in its various permutations lies at the heart of this class. While representation of trials in literature may reflect self-consciously upon the political and legal thrust of the literary text, trials of literary works question the literature\u2019s status as legitimate object of scholarly inquiry. What are the accusations to which literary studies have had to answer? Is the law confined to the prohibiting, limiting and controlling part in this relationship while literature can operate as the transgressor of norms or as the playground for textual and societal experiments? The class will thus have to consider theinherent excess (or lawlessness) within the law itselfwhile at the same time addressingliterature\u2019s normative and disciplining effects.",
+        "instructors": [],
+        "number": "49",
+        "offered": null,
+        "subnumber": "04",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Comparative-Literature/COLT-49-04"
+    },
+    {
         "course_name": "Special Topics: Themes",
         "department": "COLT",
         "description": "",
@@ -7870,6 +7948,16 @@
         "number": "40",
         "offered": "Not offered every year",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-40"
+    },
+    {
+        "course_name": "Lower Bounds in Computer Science",
+        "department": "COSC",
+        "description": "In this course we shall study things that computerscannotdo. In a typical Algorithms course we learn several ingenious techniques to solve problems efficiently. In contrast, in this course we shall learn how to prove that certain problems cannot be solved too efficiently. For example, you probably know that a set of n integers can be sorted using O(n log n) comparisons. We shall now learn how to prove that O(n log n) is the best we can hope to do: in other words, (n log n) is alower boundon the number of comparisons required to sort.During the course we shall survey lower bound results from a wide range of areas in Computer Science. Broadly, we shall study decision trees, Boolean circuits, and communication protocols. We shall consider simple looking problems from each of these areas but, as we shall learn, even innocent looking lower bound results can be quite a challenge to prove.Proving lower bounds requires a puzzle-solving bent of mind rather than extensive knowledge of Algorithms; this course will involve quite different ways of thinking than CS 31. A love of mathematical reasoning always helps, but we will not be using any advanced mathematics itself.",
+        "instructors": [],
+        "number": "49",
+        "offered": null,
+        "subnumber": "03",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Computer-Science/COSC-49-03"
     },
     {
         "course_name": "Topics in Algorithms and Complexity",
@@ -10369,6 +10457,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-52-04"
     },
     {
+        "course_name": "Desire and Difference in 19th Century British Fiction",
+        "department": "ENGL",
+        "description": "This course will examine the phenomenon of moral panic in nineteenth-century British literature and culture through two linked but distinctive forms of sexual subjectivity:\u00a0 female heterosexuality and male homosexuality, connected forever in the 1885 Criminal Law Amendment Act that set the stage for the imprisonment of Oscar Wilde. We will consider the relationship between realist and sensationalist literary forms to trace the emergence and regulation of distinctly modern sexual subjectivities in mid- and late-nineteenth-century Britain.",
+        "instructors": [],
+        "number": "52",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/English/ENGL-52-05"
+    },
+    {
         "course_name": "Vox Clamantis: Wilderness in 19thC American Literature",
         "department": "ENGL",
         "description": "Inspired by the motto of Dartmouth College, this course examines tropes of wilderness in nineteenth-century American literature and the types of voices that cry out within them. While helping to establish a national literary tradition, the American 'deserto' or wilderness has also functioned as a kind of rhetorical staging area, in which various (often competing) notions of individualism, community, and political philosophy emerge. As a result, the novels, poems, slave narratives, and short stories of nineteenth-century American literature abound with landscapes as social and psychological as they are physical.\u00a0 Authors will include Nathaniel Hawthorne, Edgar Allan Poe, Frederick Douglass, Emily Dickinson, Herman Melville, Henry David Thoreau, Charles Chesnutt, Mark Twain, and Willa Cather.\u00a0 Dist: LIT; WCult: W. Course Group II.",
@@ -10452,6 +10550,16 @@
         "offered": "Not offered in 2016-17; May be offered in 2017-18",
         "subnumber": "06",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-53-06"
+    },
+    {
+        "course_name": "Black Noir",
+        "department": "ENGL",
+        "description": "In this course, we will study black American literature that focuses the noir genre on black people themselves. We will read gritty, urban crime novels that attempt to expose inequities in black American lives and dispel the notion that a descent from whiteness results in blackness. Rather, the black people in these texts exist in darkness because they are living in alienated communities. We shall investigate how the noir genre is altered when \u201cnoirs\u201d are the subjects and the authors. In addition to primary texts, the course will engage critical responses to these works.",
+        "instructors": [],
+        "number": "53",
+        "offered": null,
+        "subnumber": "07",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/English/ENGL-53-07"
     },
     {
         "course_name": "The Bloomsbury Group",
@@ -10638,6 +10746,16 @@
         "offered": "16X: 2",
         "subnumber": "02",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-54-02"
+    },
+    {
+        "course_name": "Young Adult Literature",
+        "department": "ENGL",
+        "description": "This course explores the genre of young adult fiction in the 20th and 21st centuries. While the course will begin with a brief consideration of the conventions and early history of the genre, most of the course will examine post-1970s (mostly American) young adult novels. We\u2019ll trace the evolution of the genre in relation to ideas of racial innocence, sentimentality, consent, queer childhood, and revolutionary girlhood, and position the novels within historical contexts such as the rise of mass incarceration, settler colonialism, fantasies of post-racial politics, and environmental disaster. At the end of the course, we\u2019ll consider how young adult novels have created not just reading but creative communities, and explore the kinds of fan productions that have emerged in relation to young adult novels. The course will include critical and creative assignments. Texts may includeThe Hunger Games; theHarry Potterseries;Are You There God; It\u2019s Me Margaret;The Outsiders;The Astonishing Life of Octavian Nothing;Vivian Apple at the End of the World;Fangirl; Aristotle and Dante Discover the Secrets of the Universe;Absolutely True Diary of a Part-Time Indian;The Fault in Our Stars;Ship Breaker;Long Division;Monster; Akata Witch;Make Your Home Among Strangers.",
+        "instructors": [],
+        "number": "54",
+        "offered": null,
+        "subnumber": "03",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/English/ENGL-54-03"
     },
     {
         "course_name": "Poetry and Poetic Theory",
@@ -13392,6 +13510,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Film-and-Media-Studies/FILM-Film-and-Media-Studies/FILM-47-21"
     },
     {
+        "course_name": "Buddhism and Film",
+        "department": "FILM",
+        "description": "Film is a powerful medium for expressing religious ideals and sentiments, but often produces stereotypes and misconceptions based on cultural presuppositions. This course will explore the ways in which films in Asia and the West have presented Buddhist religion, philosophy, practices, saints, and institutions. Readings will provide an introductory survey of central topics in Buddhism, but students will also learn to critically assess the films assigned weekly as multi-layer texts composed of sights and sounds.",
+        "instructors": [],
+        "number": "47",
+        "offered": null,
+        "subnumber": "22",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Film-and-Media-Studies/FILM-47-22"
+    },
+    {
         "course_name": "The Map",
         "department": "FILM",
         "description": "Maps involve purposeful omission; they require compression; they are subjective in their emphasis and purposeful omission;they require compression;they are subjective in their emphasis and perspective;they are of the imagination and create illusions of space, time, and place. The Map, the group visits map collections, reads critical and historic essays, investigates digital maps and territories, and interviews artists, cartographers, and geographers about their practices. Weekly assignments include several maps per week--fanciful, conceptual, and practical.",
@@ -15883,6 +16011,26 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Comparative-Politics/GOVT-40-15"
     },
     {
+        "course_name": "State-building in the Middle East and North Africa",
+        "department": "GOVT",
+        "description": "Trying to explain the differential outcomes of the Arab Spring uprisings in the Middle East and North Africa, this course analyzes the legacy of\u00a0state-building in the Middle East and North Africa. \u00a0It \u00a0argues that the impact of colonialism, of the type of\u00a0financial resources at the disposal of local governments, and of the emergence\u00a0(or lack thereof) of durable\u00a0state institutions proved instrumental in whether or not local governments were able to construct modern\u00a0states.",
+        "instructors": [],
+        "number": "40",
+        "offered": null,
+        "subnumber": "19",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-40-19"
+    },
+    {
+        "course_name": "Immigration Politics",
+        "department": "GOVT",
+        "description": "This course examines how countries in Europe and North America are responding to (and being transformed by) international migration.\u00a0 In the first half, we will focus on the determinants of migration, as well as governments\u2019 attempts to manage and\u00a0control population flows. In the second half, we will examine the increasingly contentious politics surrounding immigrant settlement, and will investigate\u00a0the consequences of policies that seek to promote the exclusion or inclusion of immigrants after arrival.",
+        "instructors": [],
+        "number": "40",
+        "offered": null,
+        "subnumber": "20",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-40-20"
+    },
+    {
         "course_name": "Politics of Africa",
         "department": "GOVT",
         "description": "This course examines post-colonial politics in sub-Saharan Africa, with particular focus on the events of the last decade. The course will be structured around three main themes: (1) patterns of economic growth and decline; (2) the transition to democratic political systems; and (3) political violence and civil conflict. While the course covers broad trends across the continent, it will also draw on case studies from particular countries.",
@@ -16056,6 +16204,16 @@
         "offered": "Not offered in AY 2016-2017.  May be offered in AY 2017-2018.",
         "subnumber": "14",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/International-Relations/GOVT-50-14"
+    },
+    {
+        "course_name": "THE RISE AND FALL OF GREAT POWERS",
+        "department": "GOVT",
+        "description": "Great powers disproportionately affect the stability and character of world politics. In this course we explore the complex and consequential process that is the rise and fall of great powers. We examine the nature of the international system, the nature of power, and how the anarchic world system encourages countries to behave.\u00a0 We then turn to the process of \u201crising\u201d and study how countries achieve economic growth. We examine what is needed for them to sustain growth over time, as opposed to seeing their growth fizzle, as many fast-growing economies have done. We also look at how countries manage the environmental and human consequences of industrialization. We look at how great powers succeed or fail at developing and deploying effective military power. Finally we examine the causes and consequences of decline\u2014why great powers fall, and whether the process of decline is expected to be associated with international instability.",
+        "instructors": [],
+        "number": "50",
+        "offered": null,
+        "subnumber": "16",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-50-16"
     },
     {
         "course_name": "Russian Foreign Policy",
@@ -16240,6 +16398,16 @@
         "offered": "Not offered in AY 2016-2017.  May be offered in AY 2017-2018.",
         "subnumber": "11",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Political-Theory-and-Public-Law/GOVT-60-11"
+    },
+    {
+        "course_name": "Libertarianism",
+        "department": "GOVT",
+        "description": "Libertarianism endorses strong individual rights against coercion, and as a result, strictly limited government, free exchange in markets, and social toleration. For this class, libertarianism is not so much a political program as a unique approach to thinking about people's moral rights and the purpose and legitimacy of the state. We will engage both defenses and criticisms of libertarianism, as well as different variants of the philosophy, using tools from philosophy, economics, and political science.",
+        "instructors": [],
+        "number": "60",
+        "offered": null,
+        "subnumber": "14",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-60-14"
     },
     {
         "course_name": "Jurisprudence",
@@ -16473,6 +16641,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-81-09"
     },
     {
+        "course_name": "The Rise of China",
+        "department": "GOVT",
+        "description": "This seminar explores the growth of Chinese wealth and power, and implications of that growth for regional and international politics. We begin by studying historical periods of Chinese strength and decline, and by studying China\u2019s past relations with the United States and its neighbors. We examine China\u2019s transition from a position of weakness into one of growing wealth and power, and how this may affect its relations with the world\u2019s most powerful country, the United States. Are the United States and China doomed for superpower confrontation, or can China\u2019s rise be accommodated? Next, we explore rising China\u2019s relations and disputes with its neighbors. This course has two primary goals: (1) to familiarize students with the international strategic issues that are salient to China\u2019s rise (in East Asia, and in U.S.-China relations); and (2) to provide students with analytic tools (theories and military analysis) useful to the study of East Asian international security relations.",
+        "instructors": [],
+        "number": "81",
+        "offered": null,
+        "subnumber": "10",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-81-10"
+    },
+    {
         "course_name": "Democracy in America: Tocqueville and His Critics",
         "department": "GOVT",
         "description": "",
@@ -16571,6 +16749,16 @@
         "offered": null,
         "subnumber": "08",
         "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-83-08"
+    },
+    {
+        "course_name": "Misperceptions in Politics: When Do They Matter and Why?",
+        "department": "GOVT",
+        "description": "Many citizens hold misperceptions about political facts. When and why do they matter? This course examines the causes and consequences of misperceptions, strategies for correcting misperceptions, and the tools scholars use to study misperceptions scientifically. These tools include surveys, experiments, and a widely used statistical computing program (R). Students will work together (with the instructor) to design, execute, and report an original experimental study of misperceptions.",
+        "instructors": [],
+        "number": "83",
+        "offered": null,
+        "subnumber": "09",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-83-09"
     },
     {
         "course_name": "Gender and American Politics",
@@ -17797,6 +17985,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/History/HIST-History/HIST-1"
     },
     {
+        "course_name": "Europe in the Age of Violence",
+        "department": "HIST",
+        "description": "The last two centuries were an era of dramatic transformations and contradictions: while Europeans enjoyed unprecedented prosperity, technological advances, and social mobility, they also unleashed and experienced empire, terror, total war, foreign occupations, and mass murder. Throughout these 100 years, contrasting visions of a new society ushered in a range of different regimes\u2014monarchical empires, liberal republics, murderous and racist dictatorships, Communist autocracies, and a democratic welfare states\u2014yet these visions also led to the emancipation of women, the development of a new consumer society, the creation of environmentalist movements and new counter-cultures, and the transformation of everyday lives.",
+        "instructors": [],
+        "number": "3",
+        "offered": null,
+        "subnumber": "03",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/History/HIST-3-03"
+    },
+    {
         "course_name": "Europe in Medieval and Early Modern Times",
         "department": "HIST",
         "description": "Emphasizing the analysis of primary sources, this course examines the foundation of Western European civilization from the fall of the Roman Empire to 1715. Topics include the origins of European nation states, the intellectual and cultural achievements of the Middle Ages and Renaissance, the rise of constitutionalism and absolutism, the economic and technological roots of Europe's global dominance, as well as the social, political, and religious crises that divided the continent. Lectures and small discussion groups.",
@@ -18294,6 +18492,16 @@
         "number": "29",
         "offered": "16F: 12",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/History/HIST-History/HIST-29"
+    },
+    {
+        "course_name": "Walmart to Wall Street: Excavating American Capitalism since 1970",
+        "department": "HIST",
+        "description": "This course takes on fundamental transformations in economic life from the end of the Bretton Woods system to the crisis of 2008. Rather than a chronological survey, it is an historical excavation of three key trends in the period: technological innovation; globalization; and financialization. Readings and lectures will contextualize each of these developments in the specific history of the post-Bretton Woods United States, and then trace their longer intellectual, political, and social origins.",
+        "instructors": [],
+        "number": "33",
+        "offered": null,
+        "subnumber": "01",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/History/HIST-33-01"
     },
     {
         "course_name": "Building America: An Architectural and Social History",
@@ -19315,6 +19523,16 @@
         "offered": "17S, 18S: 10A",
         "subnumber": "30",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/History/HIST-History/HIST-96-30"
+    },
+    {
+        "course_name": "The Crisis of he Late Middle Ages Reconsidered: Art, Artists, and Cultural Change",
+        "department": "HIST",
+        "description": "This seminar re-examines a famous period in European history through the lens of art.\u00a0 The \u201cLate Medieval Crisis\u201d conjures up images of Europe marked by decadence and decline, to be rejected or rejuvenated in the Renaissance and Reformation.\u00a0 Looking at cultural and intellectual changes expressed in the visual arts prompts a more nuanced approach, revealing the extraordinary fertility of thought and action in this time of transition.",
+        "instructors": [],
+        "number": "96",
+        "offered": null,
+        "subnumber": "31",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/History/HIST-96-31"
     },
     {
         "course_name": "The Crisis of he Late Middle Ages Reconsidered: Art, Artists, and Cultural Change",
@@ -21456,6 +21674,15 @@
         "number": "1",
         "offered": "16F, 17W, 17S, 17X, 17F, 18W, 18S: 12",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Linguistics/LING-Linguistics/LING-1"
+    },
+    {
+        "course_name": "Topics in the Study of Language",
+        "department": "LING",
+        "description": "Courses designated as Linguistics 5 are specifically designed for non-majors to provide them with a deeper awareness of the complexity of human language, linguistic geography or the intersection of language and human society.",
+        "instructors": [],
+        "number": "5",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Linguistics/LING-5"
     },
     {
         "course_name": "First-Year Seminar in Linguistics",
@@ -23770,15 +23997,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Native-American-Studies-Program/NAS-30-10"
     },
     {
-        "course_name": "Special Topics in Native American Studies",
-        "department": "NAS",
-        "description": "",
-        "instructors": [],
-        "number": "30",
-        "offered": null,
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Native-American-Studies-Program/NAS-Native-American-Studies/NAS-30"
-    },
-    {
         "course_name": "Language, Landscape, and Identity in Native North America: The Voices of time immemorial",
         "department": "NAS",
         "description": "Course overview:This course will explore the rich diversity of Native American languages in North America through ethnographic, linguistic, and literary texts and films. Students will be introduced to the global crisis know as language endangerment from a linguistics perspective to establish key concepts and concerns regarding language endangerment and language revitalization in contemporary indigenous communities. The students will also become familiar with language ideologies in a variety of Native American communities in North America to provide linguistic anthropological knowledge of community perspectives and responses to language endangerment. From there, the course will look closely at case studies that will explore concepts that include: (a) language and landscape from linguistic and anthropological perspectives; (b) language and environment from linguistic, anthropological, and traditional ecological knowledge perspectives; (c) language and identity from a critical indigenous perspective; (d) language, stories, and \u201cindigenous\u201d literacy criticism; (e) emerging practices of language advocacy and activism; (f) prospects of language futures through creativity and interdisciplinary collaboration.",
@@ -23791,6 +24009,25 @@
         "offered": "16F: 11",
         "subnumber": "10",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Native-American-Studies-Program/NAS-Native-American-Studies/NAS-30-10"
+    },
+    {
+        "course_name": "Circumpolar Archaeology and Environments",
+        "department": "NAS",
+        "description": "This course focuses on Arctic history as revealed by archaeological research on the 40,000-year history of humans in the Arctic and how Arctic peoples and cultures adapted to and changed Arctic environments from Late Pleistocene times to recent times. The course covers the historical development of Arctic archaeology, relevant archaeological and anthropological theory, methods of archaeological analysis and interpretation, and how archaeology is practiced in the North today. The latter topics will include issues like repatriation, museum collecting and display, heritage awareness, tourism, economic development, education, and climate change.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "subnumber": "11",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Native-American-Studies-Program/NAS-30-11"
+    },
+    {
+        "course_name": "Special Topics in Native American Studies",
+        "department": "NAS",
+        "description": "",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Native-American-Studies-Program/NAS-Native-American-Studies/NAS-30"
     },
     {
         "course_name": "Indians in American Literature",
@@ -27006,15 +27243,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/M-SS-18"
     },
     {
-        "course_name": "Special Topics in Quantitative Social Science",
-        "department": "QSS",
-        "description": "This course focuses on a particular topic of interest to students pursuing coursework in quantitative social science. The topics covered by QSS 30 will span economics, political science, sociology, and other fields. The specific topic of the course will change with each offering, and students may therefore take this course more than once.",
-        "instructors": [],
-        "number": "30",
-        "offered": null,
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/M-SS-30"
-    },
-    {
         "course_name": "Sports Analytics",
         "department": "QSS",
         "description": "Sports organizations are becoming increasingly aware that analytics are an important component of team success. \u00a0This course will introduce students to various statistical techniques used in modern sports analysis and in particular will teach participants how statistical methods can be used to analyze game outcomes and evaluate players and strategies. \u00a0The course will include lectures, in-class exercises using the R statistical computing environment, and guest speakers from the sports industry.",
@@ -27114,6 +27342,25 @@
         "offered": "17W: 10A",
         "subnumber": "07",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/QSS-30-07"
+    },
+    {
+        "course_name": "Misperceptions in Politics: When Do They Matter and Why?",
+        "department": "QSS",
+        "description": "Many citizens hold misperceptions about political facts. When and why do they matter? This course examines the causes and consequences of misperceptions, strategies for correcting misperceptions, and the tools scholars use to study misperceptions scientifically. These tools include surveys, experiments, and a widely used statistical computing program (R). Students will work together (with the instructor) to design, execute, and report an original experimental study of misperceptions.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "subnumber": "08",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Quantitative-Social-Sciences/QSS-30-08"
+    },
+    {
+        "course_name": "Special Topics in Quantitative Social Science",
+        "department": "QSS",
+        "description": "This course focuses on a particular topic of interest to students pursuing coursework in quantitative social science. The topics covered by QSS 30 will span economics, political science, sociology, and other fields. The specific topic of the course will change with each offering, and students may therefore take this course more than once.",
+        "instructors": [],
+        "number": "30",
+        "offered": null,
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/M-SS-30"
     },
     {
         "course_name": "Mathematical Models in the Social Science",
@@ -29733,15 +29980,6 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-48"
     },
     {
-        "course_name": "Lower Division Special Topics Courses",
-        "department": "SOCY",
-        "description": "",
-        "instructors": [],
-        "number": "49",
-        "offered": "Varies",
-        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-49"
-    },
-    {
         "course_name": "Israeli Society\u2014Structure, Institutions, Identities and Dynamics",
         "department": "SOCY",
         "description": "The goal of this course is to study\u00a0 Israeli society from a sociological perspective. The course analyzes the economic, political and social factors that shaped Israeli society from its inception, its historical transformation at the structural and institutional levels, and in the changing relations among different social groups. This course examines the establishment of the state, absorption of immigrants, ethnicity, messianic politics, Palestinian uprisings, peace process, and redefinitions of nationalism.",
@@ -29824,6 +30062,25 @@
         "offered": "16F: 2A",
         "subnumber": "23",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-49-23"
+    },
+    {
+        "course_name": "Sociology of Human Rights",
+        "department": "SOCY",
+        "description": "In 1948, theUniversal Declaration of Human Rightscalled on the world\u2019s nations to respect the \u201cinherent dignity and\u2026the equal inalienable rights\u201d of all people. But while the declaration helped globalize human rights, the world continues to experience genocide, torture, slavery, discrimination, and the wide-scale displacement of people. The course seeks to gain a greater appreciation of the complex social forces that impede human rights while also imagining new strategies to address current-day human rights challenges. Students will critically examine human rights case law, develop a non-governmental organization, and participate in a simulation of the United Nations Security Council.",
+        "instructors": [],
+        "number": "49",
+        "offered": null,
+        "subnumber": "24",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Sociology/SOCY-49-24"
+    },
+    {
+        "course_name": "Lower Division Special Topics Courses",
+        "department": "SOCY",
+        "description": "",
+        "instructors": [],
+        "number": "49",
+        "offered": "Varies",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-49"
     },
     {
         "course_name": "Sociology of Law",
@@ -31982,6 +32239,16 @@
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGSS-48-07"
     },
     {
+        "course_name": "Desire and Difference in 19th Century British Fiction",
+        "department": "WGSS",
+        "description": "This course will examine the phenomenon of moral panic in nineteenth-century British literature and culture through two linked but distinctive forms of sexual subjectivity:\u00a0 female heterosexuality and male homosexuality, connected forever in the 1885 Criminal Law Amendment Act that set the stage for the imprisonment of Oscar Wilde.\u00a0 We will consider the relationship between realist and sensationalist literary forms to trace the emergence and regulation of distinctly modern sexual subjectivities in mid- and late-nineteenth-century Britain.",
+        "instructors": [],
+        "number": "48",
+        "offered": null,
+        "subnumber": "08",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Womens-Gender-and-Sexuality-Studies/WGSS-48-08"
+    },
+    {
         "course_name": "Colonial and Postcolonial Masculinities",
         "department": "WGSS",
         "description": "In this course, we will develop an understanding of masculinity as a construct which varies in time and space, and is constantly (re)shaped by such factors as race, class, and sexuality. The contexts of the colonial encounter and its postcolonial aftermath will set the stage for our examination of the ways in which social, political, economic, and cultural factors foster the production of specific masculinities. Texts include Achebe\u2019sThings Fall Apart,Conrad\u2019sHeart of Darkness, Lafferiere\u2019sHow to Make Love to a Negro,and additional writings by Irish, Indian, and Australian authors. Our study will be organized around the questions of the production of hegemonic and subaltern masculinities, the representation of the colonial and postcolonial male body, the militarization of masculinity, and the relation between masculinity and nationalism. Theoretical material on masculinities will frame our readings.",
@@ -32018,6 +32285,16 @@
         "offered": "Not offered in the period 16F to 18S",
         "subnumber": "04",
         "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGSS-56-04"
+    },
+    {
+        "course_name": "Women in Art",
+        "department": "WGSS",
+        "description": "This course will explore the complex and varied roles of women in the arts: as artists, patrons, \u201cmuses,\u201d and cultural critics. We will examine the structural conditions of art making in the academy and the studio, the market and the exhibition. We will investigate gendered notions of genius, creativity and originality, including the status of women artists as \u201cexceptional.\u201d Looking also at the female nude in Western art and feminist art in post-modernism, we will analyze the roles that femininity and masculinity play in modernism. With a focus mostly on the 18th-20th c., major figures include Artemisia Gentileschi and Judith Leyster, Mme de Pompadour, Elisabeth Vig\u00e9e-LeBrun, Mary Cassatt, Berthe Morisot, Frida Kahlo, Barbara Kruger and Cindy Sherman, among others.",
+        "instructors": [],
+        "number": "58",
+        "offered": null,
+        "subnumber": "05",
+        "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Womens-Gender-and-Sexuality-Studies/WGSS-58-05"
     },
     {
         "course_name": "Race, Gender, and Performance",

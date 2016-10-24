@@ -254,6 +254,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/African-and-African-American-Studies/AAAS-81-06"
   },
   {
+    "course_name": "Black Noir",
+    "department": "AAAS",
+    "number": "81",
+    "subnumber": "07",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/African-and-African-American-Studies/AAAS-81-07"
+  },
+  {
     "course_name": "Religion and the Civil Rights Movement",
     "department": "AAAS",
     "number": "82",
@@ -664,6 +671,13 @@
     "number": "40",
     "subnumber": "08",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Studies/AMES-Asian-and-Middle-Eastern-Studies/AMES-40-08"
+  },
+  {
+    "course_name": "Music from the Lands of the Silk Road",
+    "department": "AMES",
+    "number": "40",
+    "subnumber": "09",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Asian-and-Middle-Eastern-Studies/AMES-40-09"
   },
   {
     "course_name": "Feminism, Islam and Modernity in the Muslim World",
@@ -1281,6 +1295,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-50-17"
   },
   {
+    "course_name": "Circumpolar Archaeology and Environments",
+    "department": "ANTH",
+    "number": "50",
+    "subnumber": "19",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Anthropology/ANTH-50-19"
+  },
+  {
     "course_name": "Colonialism and Its Legacies in Anthropological Perspective",
     "department": "ANTH",
     "number": "51",
@@ -1371,6 +1392,12 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-65"
   },
   {
+    "course_name": "Human Biological Variation",
+    "department": "ANTH",
+    "number": "66",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Anthropology/ANTH-66"
+  },
+  {
     "course_name": "Experiencing Human Origins and Evolution",
     "department": "ANTH",
     "number": "70",
@@ -1399,6 +1426,12 @@
     "department": "ANTH",
     "number": "75",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Anthropology/ANTH-Anthropology/ANTH-75"
+  },
+  {
+    "course_name": "The Evolution of Upright Walking",
+    "department": "ANTH",
+    "number": "76",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Anthropology/ANTH-76"
   },
   {
     "course_name": "Origins of Language",
@@ -1527,12 +1560,6 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-59"
   },
   {
-    "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
-    "department": "ARAB",
-    "number": "61",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
-  },
-  {
     "course_name": "Modern Arabic Fiction",
     "department": "ARAB",
     "number": "61",
@@ -1575,6 +1602,19 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61-08"
   },
   {
+    "course_name": "Egyptian Culture, Society, and Politics",
+    "department": "ARAB",
+    "number": "61",
+    "subnumber": "09",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-61-09"
+  },
+  {
+    "course_name": "Topics in Modern Arabic Literature and Culture. May be repeated for credit if topic varies.",
+    "department": "ARAB",
+    "number": "61",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-61"
+  },
+  {
     "course_name": "Marvels and Wonder in Medieval Arabic Culture",
     "department": "ARAB",
     "number": "62",
@@ -1602,12 +1642,6 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-63-03"
   },
   {
-    "course_name": "Topics in Arabic Literature and Culture",
-    "department": "ARAB",
-    "number": "81",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-81"
-  },
-  {
     "course_name": "The New Arabic Novel",
     "department": "ARAB",
     "number": "81",
@@ -1620,6 +1654,19 @@
     "number": "81",
     "subnumber": "02",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-81-02"
+  },
+  {
+    "course_name": "Images of the West in the Arabic Novel",
+    "department": "ARAB",
+    "number": "81",
+    "subnumber": "03",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-81-03"
+  },
+  {
+    "course_name": "Topics in Arabic Literature and Culture",
+    "department": "ARAB",
+    "number": "81",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Asian-and-Middle-Eastern-Languages-and-Literatures-Arabic-Chinese-Hebrew-Japanese/ARAB-Arabic/ARAB-81"
   },
   {
     "course_name": "Bodies and Buildings: Introduction to the History of Art in the Ancient World and the Middle Ages",
@@ -3673,6 +3720,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Comparative-Literature/COLT-Comparative-Literature-Undergraduate/COLT-47"
   },
   {
+    "course_name": "Law and/as Literature",
+    "department": "COLT",
+    "number": "49",
+    "subnumber": "04",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Comparative-Literature/COLT-49-04"
+  },
+  {
     "course_name": "Special Topics: Themes",
     "department": "COLT",
     "number": "49",
@@ -4037,6 +4091,13 @@
     "department": "COSC",
     "number": "40",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Computer-Science/COSC-Computer-Science-Undergraduate/COSC-40"
+  },
+  {
+    "course_name": "Lower Bounds in Computer Science",
+    "department": "COSC",
+    "number": "49",
+    "subnumber": "03",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Computer-Science/COSC-49-03"
   },
   {
     "course_name": "Topics in Algorithms and Complexity",
@@ -5212,6 +5273,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-52-04"
   },
   {
+    "course_name": "Desire and Difference in 19th Century British Fiction",
+    "department": "ENGL",
+    "number": "52",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/English/ENGL-52-05"
+  },
+  {
     "course_name": "Vox Clamantis: Wilderness in 19thC American Literature",
     "department": "ENGL",
     "number": "52",
@@ -5259,6 +5327,13 @@
     "number": "53",
     "subnumber": "06",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-53-06"
+  },
+  {
+    "course_name": "Black Noir",
+    "department": "ENGL",
+    "number": "53",
+    "subnumber": "07",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/English/ENGL-53-07"
   },
   {
     "course_name": "The Bloomsbury Group",
@@ -5364,6 +5439,13 @@
     "number": "54",
     "subnumber": "02",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/English/ENGL-English/Section-III-Special-Topics-Courses/ENGL-54-02"
+  },
+  {
+    "course_name": "Young Adult Literature",
+    "department": "ENGL",
+    "number": "54",
+    "subnumber": "03",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/English/ENGL-54-03"
   },
   {
     "course_name": "Poetry and Poetic Theory",
@@ -6710,6 +6792,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Film-and-Media-Studies/FILM-Film-and-Media-Studies/FILM-47-21"
   },
   {
+    "course_name": "Buddhism and Film",
+    "department": "FILM",
+    "number": "47",
+    "subnumber": "22",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Film-and-Media-Studies/FILM-47-22"
+  },
+  {
     "course_name": "The Map",
     "department": "FILM",
     "number": "48",
@@ -8001,6 +8090,20 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Comparative-Politics/GOVT-40-15"
   },
   {
+    "course_name": "State-building in the Middle East and North Africa",
+    "department": "GOVT",
+    "number": "40",
+    "subnumber": "19",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-40-19"
+  },
+  {
+    "course_name": "Immigration Politics",
+    "department": "GOVT",
+    "number": "40",
+    "subnumber": "20",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-40-20"
+  },
+  {
     "course_name": "Politics of Africa",
     "department": "GOVT",
     "number": "42",
@@ -8087,6 +8190,13 @@
     "number": "50",
     "subnumber": "14",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/International-Relations/GOVT-50-14"
+  },
+  {
+    "course_name": "THE RISE AND FALL OF GREAT POWERS",
+    "department": "GOVT",
+    "number": "50",
+    "subnumber": "16",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-50-16"
   },
   {
     "course_name": "Russian Foreign Policy",
@@ -8178,6 +8288,13 @@
     "number": "60",
     "subnumber": "11",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Political-Theory-and-Public-Law/GOVT-60-11"
+  },
+  {
+    "course_name": "Libertarianism",
+    "department": "GOVT",
+    "number": "60",
+    "subnumber": "14",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-60-14"
   },
   {
     "course_name": "Jurisprudence",
@@ -8293,6 +8410,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Government/GOVT-Government/Advanced-Courses/GOVT-81-09"
   },
   {
+    "course_name": "The Rise of China",
+    "department": "GOVT",
+    "number": "81",
+    "subnumber": "10",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-81-10"
+  },
+  {
     "course_name": "Democracy in America: Tocqueville and His Critics",
     "department": "GOVT",
     "number": "81",
@@ -8347,6 +8471,13 @@
     "number": "83",
     "subnumber": "08",
     "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-83-08"
+  },
+  {
+    "course_name": "Misperceptions in Politics: When Do They Matter and Why?",
+    "department": "GOVT",
+    "number": "83",
+    "subnumber": "09",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Government/GOVT-83-09"
   },
   {
     "course_name": "Gender and American Politics",
@@ -8959,6 +9090,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/History/HIST-History/HIST-1"
   },
   {
+    "course_name": "Europe in the Age of Violence",
+    "department": "HIST",
+    "number": "3",
+    "subnumber": "03",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/History/HIST-3-03"
+  },
+  {
     "course_name": "Europe in Medieval and Early Modern Times",
     "department": "HIST",
     "number": "3",
@@ -9223,6 +9361,13 @@
     "department": "HIST",
     "number": "29",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/History/HIST-History/HIST-29"
+  },
+  {
+    "course_name": "Walmart to Wall Street: Excavating American Capitalism since 1970",
+    "department": "HIST",
+    "number": "33",
+    "subnumber": "01",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/History/HIST-33-01"
   },
   {
     "course_name": "Building America: An Architectural and Social History",
@@ -9768,6 +9913,13 @@
     "number": "96",
     "subnumber": "30",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/History/HIST-History/HIST-96-30"
+  },
+  {
+    "course_name": "The Crisis of he Late Middle Ages Reconsidered: Art, Artists, and Cultural Change",
+    "department": "HIST",
+    "number": "96",
+    "subnumber": "31",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/History/HIST-96-31"
   },
   {
     "course_name": "The Crisis of he Late Middle Ages Reconsidered: Art, Artists, and Cultural Change",
@@ -10856,6 +11008,12 @@
     "department": "LING",
     "number": "1",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Linguistics/LING-Linguistics/LING-1"
+  },
+  {
+    "course_name": "Topics in the Study of Language",
+    "department": "LING",
+    "number": "5",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Linguistics/LING-5"
   },
   {
     "course_name": "First-Year Seminar in Linguistics",
@@ -12052,17 +12210,24 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Native-American-Studies-Program/NAS-30-10"
   },
   {
-    "course_name": "Special Topics in Native American Studies",
-    "department": "NAS",
-    "number": "30",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Native-American-Studies-Program/NAS-Native-American-Studies/NAS-30"
-  },
-  {
     "course_name": "Language, Landscape, and Identity in Native North America: The Voices of time immemorial",
     "department": "NAS",
     "number": "30",
     "subnumber": "10",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Native-American-Studies-Program/NAS-Native-American-Studies/NAS-30-10"
+  },
+  {
+    "course_name": "Circumpolar Archaeology and Environments",
+    "department": "NAS",
+    "number": "30",
+    "subnumber": "11",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Native-American-Studies-Program/NAS-30-11"
+  },
+  {
+    "course_name": "Special Topics in Native American Studies",
+    "department": "NAS",
+    "number": "30",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Native-American-Studies-Program/NAS-Native-American-Studies/NAS-30"
   },
   {
     "course_name": "Indians in American Literature",
@@ -13726,12 +13891,6 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/M-SS-18"
   },
   {
-    "course_name": "Special Topics in Quantitative Social Science",
-    "department": "QSS",
-    "number": "30",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/M-SS-30"
-  },
-  {
     "course_name": "Sports Analytics",
     "department": "QSS",
     "number": "30",
@@ -13779,6 +13938,19 @@
     "number": "30",
     "subnumber": "07",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/QSS-30-07"
+  },
+  {
+    "course_name": "Misperceptions in Politics: When Do They Matter and Why?",
+    "department": "QSS",
+    "number": "30",
+    "subnumber": "08",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Quantitative-Social-Sciences/QSS-30-08"
+  },
+  {
+    "course_name": "Special Topics in Quantitative Social Science",
+    "department": "QSS",
+    "number": "30",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Quantitative-Social-Science/MSS-Mathematics-and-Social-Sciences/M-SS-30"
   },
   {
     "course_name": "Mathematical Models in the Social Science",
@@ -15074,12 +15246,6 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-48"
   },
   {
-    "course_name": "Lower Division Special Topics Courses",
-    "department": "SOCY",
-    "number": "49",
-    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-49"
-  },
-  {
     "course_name": "Israeli Society—Structure, Institutions, Identities and Dynamics",
     "department": "SOCY",
     "number": "49",
@@ -15120,6 +15286,19 @@
     "number": "49",
     "subnumber": "23",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-49-23"
+  },
+  {
+    "course_name": "Sociology of Human Rights",
+    "department": "SOCY",
+    "number": "49",
+    "subnumber": "24",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Sociology/SOCY-49-24"
+  },
+  {
+    "course_name": "Lower Division Special Topics Courses",
+    "department": "SOCY",
+    "number": "49",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Sociology/SOCY-Sociology/SOCY-49"
   },
   {
     "course_name": "Sociology of Law",
@@ -16163,6 +16342,13 @@
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGSS-48-07"
   },
   {
+    "course_name": "Desire and Difference in 19th Century British Fiction",
+    "department": "WGSS",
+    "number": "48",
+    "subnumber": "08",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Womens-Gender-and-Sexuality-Studies/WGSS-48-08"
+  },
+  {
     "course_name": "Colonial and Postcolonial Masculinities",
     "department": "WGSS",
     "number": "52",
@@ -16182,6 +16368,13 @@
     "number": "56",
     "subnumber": "04",
     "url": "http://dartmouth.smartcatalogiq.com/en/2015/orc/Departments-Programs-Undergraduate/Womens-Gender-and-Sexualities-Studies-Program/WGSS-Womens-Gender-and-Sexualities-Studies/WGSS-56-04"
+  },
+  {
+    "course_name": "Women in Art",
+    "department": "WGSS",
+    "number": "58",
+    "subnumber": "05",
+    "url": "http://dartmouth.smartcatalogiq.com/en/2016s/Supplement/Courses/Womens-Gender-and-Sexuality-Studies/WGSS-58-05"
   },
   {
     "course_name": "Race, Gender, and Performance",
